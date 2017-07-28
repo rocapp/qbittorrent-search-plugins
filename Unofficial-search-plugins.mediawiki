@@ -34,8 +34,8 @@ If you wrote one, please add it to these tables.
 |-
 | [[https://raw.githubusercontent.com/b0nk/qbittorrent-search-plugins/master/rarbg.png]] [https://rarbg.to/ RARBG]
 | fsantos.pt (at) hotmail (dot) com
-| 1.12
-| May 25 2016
+| 1.13
+| July 28 2017
 | [https://raw.githubusercontent.com/b0nk/qbittorrent-search-plugins/master/rarbg.py Download]
 | Python2 & Python3 supported
 |-
