@@ -16,133 +16,133 @@ If you wrote one, please add it to these tables.
 | 1.00
 | 12/Apr<br />2017
 | [https://raw.githubusercontent.com/MadeOfMagicAndWires/qBit-plugins/master/engines/linuxtracker.py Download]
-| Python2 & Python3 supported.<br /> ✔ qBittorent 3.3.15 
+| Python2 & Python3<br /> ✔ qBittorent 3.3.15 
 |-
 | [[https://raw.githubusercontent.com/ngosang/qBittorrent-plugins/master/tntvillage/tntvillage.png]][http://www.tntvillage.scambioetico.org/?releaselist TNT Village]
 | [https://github.com/ngosang/qBittorrent-plugins ngosang Github]
 | 1.00
 | 17/Oct<br />2015
 | [https://raw.githubusercontent.com/ngosang/qBittorrent-plugins/master/tntvillage/tntvillage.py Download]
-| Python2 & Python3 supported.<br /> ✔ qBittorent 3.3.15
+| Python2 & Python3<br /> ✔ qBittorent 3.3.15
 |-
 | [[https://raw.githubusercontent.com/ngosang/qBittorrent-plugins/master/sumotorrent/sumotorrent.png]][http://www.sumotorrent.sx/ SumoTorrent]
 | [https://github.com/ngosang/qBittorrent-plugins ngosang Github]
 | 1.30
 | 25/Sep<br />2015
 | [https://raw.githubusercontent.com/ngosang/qBittorrent-plugins/master/sumotorrent/sumotorrent.py Download]
-| Python2 & Python3 supported.<br /> ✔ qBittorent 3.3.15
+| Python2 & Python3<br /> ✔ qBittorent 3.3.15
 |-
 | [[https://raw.githubusercontent.com/b0nk/qbittorrent-search-plugins/master/rarbg.png]] [https://rarbg.to/ RARBG]
 | [https://github.com/b0nk/qbittorrent-search-plugins/ b0nk Github]
 | 1.13
 | 28/July<br />2017
 | [https://raw.githubusercontent.com/b0nk/qbittorrent-search-plugins/master/rarbg.py Download]
-| Python2 & Python3 supported.<br /> ✔ qBittorent 3.3.15
+| Python2 & Python3<br /> ✔ qBittorent 3.3.15
 |-
 | [[https://raw.githubusercontent.com/davy39/qbfrench/master/cpasbien.png]] [http://www.cpabien.tv/ Cpasbien]
 | [https://github.com/davy39/qbfrench davy39 Github]
 | 1.10
 | 19/Aug<br />2016
 | [https://raw.githubusercontent.com/davy39/qbfrench/master/cpasbien.py Download]
-| Python2 & Python3 supported.<br /> ✖ Outdated/Not Working
+| Python2 & Python3<br /> ✖ Not Working
 |-
 | [[https://raw.githubusercontent.com/davy39/qbfrench/master/torrent9.png]] [http://www.torrent9.cc/ Torrent9]
 | [https://github.com/davy39/qbfrench davy39 Github]
 | 1.10
 | 11/Aug<br />2016
 | [https://raw.githubusercontent.com/davy39/qbfrench/master/torrent9.py Download]
-| Python2 & Python3 supported.<br /> ✖ Outdated/Not Working
+| Python2 & Python3<br /> ✖ Not Working
 |-
 | [[https://raw.githubusercontent.com/mr-mmajoR/myrepo/master/rutor.png]] [http://rutor.info/ Rutor]
 | [https://github.com/Pireo/hello-world/ Pireo Github]
 | 1.20
 | 14/Jan<br />2017
 | [https://raw.githubusercontent.com/Pireo/hello-world/master/rutor.py Download]
-| Works with Python 3.<br />✔ qBittorent 3.3.15
+| Python3<br />✔ qBittorent 3.3.15
 |-
 | [[https://raw.githubusercontent.com/Pireo/hello-world/2481f766470d6d512432f56c2595147ce298237a/untitled.png]][https://www.limetorrents.cc/ LimeTorrents]
 | [https://github.com/lima66/Torrents_Plugin/ lima66 Github]
 | 3.09
 | 22/July<br />2017
 | [https://raw.githubusercontent.com/lima66/Torrents_Plugin/master/limetorrents.py Download]
-| Python2 & Python3 supported.<br /> ✖ Outdated/Not Working
+| Python2 & Python3<br /> ✖ Not Working
 |-
 | [[https://raw.githubusercontent.com/Pireo/hello-world/master/favicons5.png]] [https://zooqle.com/ Zooqle]
 | [https://github.com/ArionMiles/Zooqle-qBittorrent-Plugin ArionMiles Github]
 | 1.12
 | 04/Apr<br />2016
 | [https://raw.githubusercontent.com/ArionMiles/Zooqle-qBittorrent-Plugin/master/zooqle.py Download]
-| Python2 & Python3 supported.<br />✔ qBittorent 3.3.15
+| Python2 & Python3<br />✔ qBittorent 3.3.15
 |-
 | [[https://raw.githubusercontent.com/v1k45/1337x-qBittorrent-search-plugin/master/1337.png]] [https://1337x.to/ 1337x]
 | [https://github.com/v1k45/1337x-qBittorrent-search-plugin v1k45 Github]
 | 1.10
 | 26/Mar<br />2017
 | [https://raw.githubusercontent.com/v1k45/1337x-qBittorrent-search-plugin/master/leetx.py Download]
-| Python2 & Python3 supported.<br />✔ qBittorent 3.3.15
+| Python2 & Python3<br />✔ qBittorent 3.3.15
 |-
 | [[https://github.com/Pireo/hello-world/blob/master/etree.png]] [http://bt.etree.org/ bt.etree.org]
 | [https://github.com/lima66/Torrents_Plugin/ lima66 Github]
 | 1.00
 | 21/Apr<br />2017
 | [https://raw.githubusercontent.com/lima66/Torrents_Plugin/master/btetree.py Download]
-| Python2 & Python3 supported.<br />✔ qBittorent 3.3.15
+| Python2 & Python3<br />✔ qBittorent 3.3.15
 |-
 | [[https://github.com/Pireo/hello-world/blob/master/rockbox.png]] [http://psychocydd.co.uk RockBox]
 | [https://github.com/lima66/Torrents_Plugin/ lima66 Github]
 | 1.01
 | 23/Apr<br />2017
 | [https://raw.githubusercontent.com/lima66/Torrents_Plugin/master/psychocydd.py Download]
-| Python2 & Python3 supported.<br />✔ qBittorent 3.3.15
+| Python2 & Python3<br />✔ qBittorent 3.3.15
 |-
 | [[https://raw.githubusercontent.com/Pireo/hello-world/23513d5befe55a84a6f969e7888a3d084d0b54bf/images.png]][http://ilcorsaronero.info IlCorsaroNero]
 | [https://github.com/lima66/Torrents_Plugin/ lima66 Github]
 | 1.00
 | 23/Apr<br />2017
 | [https://raw.githubusercontent.com/lima66/Torrents_Plugin/master/ilcorsaronero.py Download]
-| Python2 & Python3 supported.<br /> ✖ Outdated/Not Working
+| Python2 & Python3<br /> ✖ Not Working
 |-
 | [[https://github.com/Pireo/hello-world/blob/master/favicons.png]] [https://torrentproject.se/ TorrentProject]
 | [https://github.com/lima66/Torrents_Plugin/ lima66 Github]
 | 1.01
 | 06/May<br />2017
 | [https://raw.githubusercontent.com/lima66/Torrents_Plugin/master/torrentproject.py Download]
-| Python2 & Python3 supported.<br />✔ qBittorent 3.3.15
+| Python2 & Python3<br />✔ qBittorent 3.3.15
 |-
 | [http://www.divxtotal.net/ DivxTotal]
 | [https://github.com/Pireo/hello-world/ Pireo Github]
 | 1.20
 | 04/May<br />2017
 | [https://raw.githubusercontent.com/Pireo/hello-world/master/divxtotal.py Download]
-| Python2 supported. <br /> (?) Not Tested
+| Python2 <br /> (?) Not Tested
 |-
 | [[https://github.com/kenken28/NyaaPantsu-qBittorrent-Plugin/raw/master/nyaapantsu.png]][https://nyaa.pantsu.cat/ Nyaa.Pantsu]
 | [https://github.com/kenken28/NyaaPantsu-qBittorrent-Plugin/ kenken28 Github]
 | 1.05
 | 24/Jun<br />2017
 | [https://raw.githubusercontent.com/kenken28/NyaaPantsu-qBittorrent-Plugin/master/nyaapantsu.py Download]
-| Python2 & Python3 supported.<br />✔ qBittorent 3.3.15
+| Python2 & Python3<br />✔ qBittorent 3.3.15
 |-
 | [[https://raw.githubusercontent.com/4chenz/pantsu-plugin/master/pantsu.png]][https://sukebei.pantsu.cat/ Sukebei.Pantsu]
 | [https://github.com/4chenz/pantsu-plugin/ 4chenz Github]
 | 1.11
 | 07/Aug<br />2017
 | [https://raw.githubusercontent.com/4chenz/pantsu-plugin/master/sukebei.py Download]
-| Python2 supported. <br /> (?) Not Tested
+| Python2 <br /> (?) Not Tested
 |-
 | [[https://raw.githubusercontent.com/4chenz/pantsu-plugin/master/pantsu.png]][https://nyaa.pantsu.cat/ Nyaa.Pantsu]
 | [https://github.com/4chenz/pantsu-plugin/ 4chenz Github]
 | 1.11
 | 07/Aug<br />2017
 | [https://raw.githubusercontent.com/4chenz/pantsu-plugin/master/pantsu.py Download]
-| Python2 & Python3 supported.<br />✔ qBittorent 3.3.15
+| Python2 & Python3<br />✔ qBittorent 3.3.15
 |-
 | [https://sukebei.nyaa.si/ Sukebei Nyaa]
 | [https://github.com/phuongtailtranminh/qBittorrent-Nyaa-Search-Plugin/ phuong<br />tailtranminh Github]
 | 1.01
 | 19/May<br />2017
 | [https://raw.githubusercontent.com/phuongtailtranminh/qBittorrent-Nyaa-Search-Plugin/master/nyaa.py Download]
-| Python2 supported. <br /> (?) Not Tested
+| Python2 <br /> (?) Not Tested
 |-
 | [[https://raw.githubusercontent.com/MadeOfMagicAndWires/qBit-plugins/master/engines/nyaasi.png]] 
 [https://nyaa.si/ Nyaa.si]
@@ -150,7 +150,7 @@ If you wrote one, please add it to these tables.
 | 1.00
 | 19/May<br />2017
 | [https://raw.githubusercontent.com/MadeOfMagicAndWires/qBit-plugins/master/engines/nyaasi.py Download]
-| Python3 & Python2 supported.<br />✔ qBittorent 3.3.15
+| Python3 & Python2 <br />✔ qBittorent 3.3.15
 |-
 | [[https://raw.githubusercontent.com/MadeOfMagicAndWires/qBit-plugins/master/engines/skytorrents.png]] 
 [https://skytorrents.in/ Sky Torrents]
@@ -158,7 +158,7 @@ If you wrote one, please add it to these tables.
 | 1.20
 | 20/May<br />2017
 | [https://raw.githubusercontent.com/MadeOfMagicAndWires/qBit-plugins/master/engines/skytorrents.py Download]
-| Python3 & Python2 supported.<br />✔ qBittorent 3.3.15
+| Python3 & Python2 <br />✔ qBittorent 3.3.15
 |-
 |}
 
@@ -181,7 +181,7 @@ Those sites require an account and your username/password need to be added into 
 | 11/Aug<br />2016
 | [https://raw.githubusercontent.com/davy39/qbfrench/master/t411.py Download] <br />
 [https://github.com/davy39/qbfrench/wiki README]
-| Python2 & Python3 supported.<br /> ✖ Outdated/Not Working
+| Python2 & Python3<br /> ✖ Not Working
 |-
 | [[https://raw.githubusercontent.com/Skymirrh/qBittorrent-rutracker-plugin/master/rutracker.png]] [http://rutracker.org/ rutracker.org]
 | [https://github.com/Skymirrh/qBittorrent-rutracker-plugin Skymirrh Github]
@@ -189,14 +189,14 @@ Those sites require an account and your username/password need to be added into 
 | 12/Jul<br />2016
 | [https://raw.githubusercontent.com/Skymirrh/qBittorrent-rutracker-plugin/master/rutracker.py Download] <br />
 [ https://github.com/Skymirrh/qBittorrent-rutracker-plugin/blob/master/README.md README]
-| Python2 & Python3 supported.<br />✔ qBittorent 3.3.15
+| Python2 & Python3<br />✔ qBittorent 3.3.15
 |-
 | [[https://raw.githubusercontent.com/Skymirrh/qBittorrent-rutracker-plugin/master/rutracker.png]] [http://rutracker.org/ rutracker.org]
 | [https://github.com/alvin1979/qbrutracker alvin1979 Github]
 | 1.00
 | 14/Sep<br />2016
 | [https://github.com/alvin1979/qbrutracker Download]
-| Python3 supported.<br /> ✖ Outdated/Not Working
+| Python3<br /> ✖ Not Working
 |-
 | [[https://raw.githubusercontent.com/adrianmocan/qbittorrent_plugin_filelist.ro/master/favicon.png]] [https://filelist.ro/ FileList]
 | [https://github.com/adrianmocan/qbittorrent_plugin_filelist.ro adrianmocan Github]
@@ -204,7 +204,7 @@ Those sites require an account and your username/password need to be added into 
 | 10/Jun<br />2015
 | [https://github.com/adrianmocan/qbittorrent_plugin_filelist.ro/blob/master/filelist_ro/filelist.py Download] <br />
 [https://github.com/adrianmocan/qbittorrent_plugin_filelist.ro/blob/master/filelist_ro/filelist.INSTALL_en.txt README]
-| Python2 supported.<br /> (?) Not Tested
+| Python2<br /> (?) Not Tested
 |-
 | [[https://raw.githubusercontent.com/MadeOfMagicAndWires/qBit-plugins/master/engines/bakabt.png]] [https://bakabt.me BakaBT]
 | [https://github.com/MadeOfMagicAndWires/qBit-plugins Made Of Magic <br />And Wires Github]
@@ -212,7 +212,7 @@ Those sites require an account and your username/password need to be added into 
 | 13/Apr<br />2017
 | [https://github.com/MadeOfMagicAndWires/qBit-plugin/blob/master/engines/bakabt.py Download] <br />
 [https://github.com/MadeOfMagicAndWires/qBit-plugins/blob/master/README.md README]
-| Python2 & Python3 supported.<br /> (?) Not Tested
+| Python2 & Python3<br /> (?) Not Tested
 |}
 ''*All files'' is a tarball (.tar.gz) containing script, icon, README & INSTALL files.
 
