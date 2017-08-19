@@ -74,10 +74,10 @@ If you wrote one, please add it to these tables.
 | [https://raw.githubusercontent.com/ArionMiles/Zooqle-qBittorrent-Plugin/master/zooqle.py Download]
 | Python2 & Python3<br />✔ qb 3.3.15
 |-
-| [[https://raw.githubusercontent.com/v1k45/1337x-qBittorrent-search-plugin/master/1337.png]] [https://1337x.to/ 1337x]
+| [[https://raw.githubusercontent.com/v1k45/1337x-qBittorrent-search-plugin/master/leetx.png]] [https://1337x.to/ 1337x]
 | [https://github.com/v1k45/1337x-qBittorrent-search-plugin v1k45]
-| 1.10
-| 26/Mar<br />2017
+| 1.20
+| 19/Aug<br />2017
 | [https://raw.githubusercontent.com/v1k45/1337x-qBittorrent-search-plugin/master/leetx.py Download]
 | Python2 & Python3<br />✔ qb 3.3.15
 |-
