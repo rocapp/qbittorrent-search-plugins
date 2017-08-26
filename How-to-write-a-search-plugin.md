@@ -123,7 +123,7 @@ In order to parse the pages, you can use the following python modules (not exhau
 
 ## Examples
 
-Do not hesitate to use the official search engine plugins as an example. They are available [here](https://github.com/qbittorrent/qBittorrent/tree/master/src/searchengine/nova/engines). 
+Do not hesitate to use the official search engine plugins as an example. They are available [here](https://github.com/qbittorrent/search-plugins/tree/master/nova/engines). 
 * ''kickasstorrents.py'' uses ''json'' module
 * ''torrentreactor.py'' uses ''HTMLParser'' module
 
