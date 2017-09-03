@@ -11,12 +11,19 @@ If you wrote one, please add it to these tables.
 !  Download
 !  Comment
 |-
+| [[https://github.com/CharitooDunamis/kickass-plugin/blob/master/kickass.png]] [https://kickass.cd/ Kickass.cd]
+| [https://github.com/CharitooDunamis CharitooDunamis]
+| 1.00
+| 2/Sept<br />2017
+| [https://github.com/CharitooDunamis/kickass-plugin/blob/master/kickass.py Download]
+| Python2 & Python3<br /> ✔ qb 3.4.x
+|-
 | [[https://raw.githubusercontent.com/Pireo/hello-world/master/tux.png]] [http://linuxtracker.org/ Linux Tracker]
 | [https://github.com/MadeOfMagicAndWires/qBit-plugins Made Of Magic <br />And Wires]
 | 1.00
 | 12/Apr<br />2017
 | [https://raw.githubusercontent.com/MadeOfMagicAndWires/qBit-plugins/master/engines/linuxtracker.py Download]
-| Python2 & Python3<br /> ✔ qb 3.3.15 
+| Python2 & Python3<br /> ✔ qb 3.3.15
 |-
 | [[https://raw.githubusercontent.com/ngosang/qBittorrent-plugins/master/tntvillage/tntvillage.png]][http://www.tntvillage.scambioetico.org/?releaselist TNT Village]
 | [https://github.com/ngosang/qBittorrent-plugins ngosang]
@@ -144,7 +151,7 @@ If you wrote one, please add it to these tables.
 | [https://raw.githubusercontent.com/phuongtailtranminh/qBittorrent-Nyaa-Search-Plugin/master/nyaa.py Download]
 | Python2 <br /> (?) Not Tested
 |-
-| [[https://raw.githubusercontent.com/MadeOfMagicAndWires/qBit-plugins/master/engines/nyaasi.png]] 
+| [[https://raw.githubusercontent.com/MadeOfMagicAndWires/qBit-plugins/master/engines/nyaasi.png]]
 [https://nyaa.si/ Nyaa.si]
 | [https://github.com/MadeOfMagicAndWires/qBit-plugins Made Of Magic <br />And Wires]
 | 1.00
@@ -152,7 +159,7 @@ If you wrote one, please add it to these tables.
 | [https://raw.githubusercontent.com/MadeOfMagicAndWires/qBit-plugins/master/engines/nyaasi.py Download]
 | Python3 & Python2 <br />✔ qb 3.3.15
 |-
-| [[https://raw.githubusercontent.com/MadeOfMagicAndWires/qBit-plugins/master/engines/skytorrents.png]] 
+| [[https://raw.githubusercontent.com/MadeOfMagicAndWires/qBit-plugins/master/engines/skytorrents.png]]
 [https://skytorrents.in/ Sky Torrents]
 | [https://github.com/MadeOfMagicAndWires/qBit-plugins Made Of Magic <br />And Wires]
 | 1.20
