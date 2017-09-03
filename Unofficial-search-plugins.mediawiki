@@ -15,7 +15,7 @@ If you wrote one, please add it to these tables.
 | [https://github.com/CharitooDunamis CharitooDunamis]
 | 1.00
 | 2/Sept<br />2017
-| [https://github.com/CharitooDunamis/kickass-plugin/master/kickass.py Download]
+| [https://raw.githubusercontent.com/CharitooDunamis/kickass-plugin/master/kickass.py Download]
 | Python2 & Python3<br /> ✔ qb 3.4.x
 |-
 | [[https://raw.githubusercontent.com/Pireo/hello-world/master/tux.png]] [http://linuxtracker.org/ Linux Tracker]
