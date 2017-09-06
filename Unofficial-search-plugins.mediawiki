@@ -116,7 +116,8 @@ If you wrote one, please add it to these tables.
 | [https://raw.githubusercontent.com/lima66/Torrents_Plugin/master/torrentproject.py Download]
 | Python2 & Python3<br />✔ qb 3.3.15
 |-
-| [http://www.divxtotal.net/ DivxTotal]
+| [[https://github.com/Pireo/hello-world/blob/master/divxtotal.png]]
+[http://www.divxtotal.net/ DivxTotal]
 | [https://github.com/Pireo/hello-world/ Pireo]
 | 1.20
 | 04/May<br />2017
