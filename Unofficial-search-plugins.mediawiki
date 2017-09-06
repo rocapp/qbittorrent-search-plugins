@@ -144,7 +144,8 @@ If you wrote one, please add it to these tables.
 | [https://raw.githubusercontent.com/4chenz/pantsu-plugin/master/pantsu.py Download]
 | Python2 & Python3<br />✔ qb 3.3.15
 |-
-| [https://sukebei.nyaa.si/ Sukebei Nyaa]
+| [[https://raw.githubusercontent.com/MadeOfMagicAndWires/qBit-plugins/master/engines/nyaasi.png]]
+[https://sukebei.nyaa.si/ Sukebei Nyaa]
 | [https://github.com/phuongtailtranminh/qBittorrent-Nyaa-Search-Plugin/ phuongtail<br />tranminh]
 | 1.01
 | 19/May<br />2017
