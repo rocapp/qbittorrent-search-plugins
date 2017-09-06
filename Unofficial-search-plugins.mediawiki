@@ -11,7 +11,7 @@ If you wrote one, please add it to these tables.
 !  Download
 !  Comment
 |-
-| [[https://github.com/CharitooDunamis/kickass-plugin/blob/master/kickass.png]] [https://kickass.cd/ Kickass.cd]
+| [[https://github.com/Pireo/hello-world/blob/master/kickass.png]] [https://kickass.cd/ Kickass.cd]
 | [https://github.com/CharitooDunamis CharitooDunamis]
 | 1.00
 | 2/Sept<br />2017
