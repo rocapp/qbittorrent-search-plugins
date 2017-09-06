@@ -159,7 +159,7 @@ If you wrote one, please add it to these tables.
 | [https://raw.githubusercontent.com/MadeOfMagicAndWires/qBit-plugins/master/engines/nyaasi.py Download]
 | Python3 & Python2 <br />✔ qb 3.3.15
 |-
-| [[https://raw.githubusercontent.com/MadeOfMagicAndWires/qBit-plugins/master/engines/skytorrents.png]]
+| [[https://github.com/Pireo/hello-world/blob/master/favicon1.png]]
 [https://skytorrents.in/ Sky Torrents]
 | [https://github.com/MadeOfMagicAndWires/qBit-plugins Made Of Magic <br />And Wires]
 | 1.20
