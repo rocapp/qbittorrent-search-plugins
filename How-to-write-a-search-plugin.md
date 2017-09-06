@@ -34,12 +34,13 @@ from novaprinter import prettyPrinter
 ```
 
 You must pass to this function a dictionary containing the following keys (value should be -1 if you do not have the info):
-* `link` => a string corresponding the the download link (points to the .torrent file)
+* `link` => a string corresponding the the download link (the .torrent file or magnet link)
 * `name` => a unicode string corresponding to the torrent's name (i.e: "Ubuntu Linux v6.06")
 * `size` => a string corresponding to the torrent size (i.e: "6 MB" or "200 KB" or "1.2 GB"...)
-* `seeds` => the number of seeds for this torrent
-* `leech` => the number of leechers for this torrent
+* `seeds` => the number of seeds for this torrent (as a string)
+* `leech` => the number of leechers for this torrent (a a string)
 * `engine_url` => the search engine url (i.e: http://www.mininova.org)
+* `desc_link` => a string corresponding to the the description page for the torrent
 
 ### retrieve_url() helper function
 
