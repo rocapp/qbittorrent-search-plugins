@@ -67,7 +67,7 @@ If you wrote one, please add it to these tables.
 | [https://raw.githubusercontent.com/Pireo/hello-world/master/rutor.py Download]
 | Python3<br />✔ qb 3.3.15
 |-
-| [[https://raw.githubusercontent.com/Pireo/hello-world/2481f766470d6d512432f56c2595147ce298237a/untitled.png]][https://www.limetorrents.cc/ LimeTorrents]
+| [[https://github.com/Pireo/hello-world/blob/master/lime.png]][https://www.limetorrents.cc/ LimeTorrents]
 | [https://github.com/lima66/Torrents_Plugin/ lima66]
 | 3.09
 | 22/July<br />2017
@@ -108,13 +108,6 @@ If you wrote one, please add it to these tables.
 | 23/Apr<br />2017
 | [https://raw.githubusercontent.com/lima66/Torrents_Plugin/master/ilcorsaronero.py Download]
 | Python2 & Python3<br /> ✖ Not Working
-|-
-| [[https://github.com/Pireo/hello-world/blob/master/favicons.png]] [https://torrentproject.se/ TorrentProject]
-| [https://github.com/lima66/Torrents_Plugin/ lima66]
-| 1.01
-| 06/May<br />2017
-| [https://raw.githubusercontent.com/lima66/Torrents_Plugin/master/torrentproject.py Download]
-| Python2 & Python3<br />✔ qb 3.3.15
 |-
 | [[https://github.com/Pireo/hello-world/blob/master/divxtotal.png]]
 [http://www.divxtotal.net/ DivxTotal]
