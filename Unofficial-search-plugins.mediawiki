@@ -17,7 +17,7 @@ If you wrote one, please add it to these tables.
 | 1.00
 | 7/Sept<br />2017
 | [[https://github.com/Pireo/hello-world/blob/master/flag_united_kingdom.png]]
-| [https://raw.githubusercontent.com/ebukari/qbittorrent-plugins/master/kickass.py Download]
+| [https://raw.githubusercontent.com/ebukari/qbittorrent-plugins/master/torrentfunk.py Download]
 | Python2 & Python3<br /> ✔ qb 3.4.x
 |-
 | [[https://github.com/ebukari/qbittorrent-plugins/blob/master/kickass.png]] [https://kickass.cd/ Kickass.cd]
