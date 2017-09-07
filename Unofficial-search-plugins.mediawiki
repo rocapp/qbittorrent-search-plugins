@@ -196,6 +196,7 @@ Those sites require an account and your username/password need to be added into 
 !  Author / Github
 !  Ver.
 !  Update
+!  Lang.
 !  Download
 !  Comment
 |-
