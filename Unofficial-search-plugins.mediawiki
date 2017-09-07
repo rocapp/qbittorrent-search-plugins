@@ -137,7 +137,7 @@ If you wrote one, please add it to these tables.
 | [https://github.com/kenken28/NyaaPantsu-qBittorrent-Plugin/ kenken28]
 | 1.05
 | 24/Jun<br />2017
-| [[https://github.com/Pireo/hello-world/blob/master/flag_united_kingdom.png]]
+| [[https://github.com/Pireo/hello-world/blob/master/flag_united_kingdom.png]][[https://github.com/Pireo/hello-world/blob/master/flag_japan.png]]
 | [https://raw.githubusercontent.com/kenken28/NyaaPantsu-qBittorrent-Plugin/master/nyaapantsu.py Download]
 | Python2 & Python3<br />✔ qb 3.3.15
 |-
@@ -145,7 +145,7 @@ If you wrote one, please add it to these tables.
 | [https://github.com/4chenz/pantsu-plugin/ 4chenz]
 | 1.11
 | 07/Aug<br />2017
-| [[https://github.com/Pireo/hello-world/blob/master/flag_united_kingdom.png]]
+| [[https://github.com/Pireo/hello-world/blob/master/flag_united_kingdom.png]][[https://github.com/Pireo/hello-world/blob/master/flag_japan.png]]
 | [https://raw.githubusercontent.com/4chenz/pantsu-plugin/master/sukebei.py Download]
 | Python2 <br /> (?) Not Tested
 |-
@@ -153,7 +153,7 @@ If you wrote one, please add it to these tables.
 | [https://github.com/4chenz/pantsu-plugin/ 4chenz]
 | 1.11
 | 07/Aug<br />2017
-| [[https://github.com/Pireo/hello-world/blob/master/flag_united_kingdom.png]]
+| [[https://github.com/Pireo/hello-world/blob/master/flag_united_kingdom.png]][[https://github.com/Pireo/hello-world/blob/master/flag_japan.png]]
 | [https://raw.githubusercontent.com/4chenz/pantsu-plugin/master/pantsu.py Download]
 | Python2 & Python3<br />✔ qb 3.3.15
 |-
@@ -162,7 +162,7 @@ If you wrote one, please add it to these tables.
 | [https://github.com/phuongtailtranminh/qBittorrent-Nyaa-Search-Plugin/ phuongtail<br />tranminh]
 | 1.01
 | 19/May<br />2017
-| [[https://github.com/Pireo/hello-world/blob/master/flag_united_kingdom.png]]
+| [[https://github.com/Pireo/hello-world/blob/master/flag_united_kingdom.png]][[https://github.com/Pireo/hello-world/blob/master/flag_japan.png]]
 | [https://raw.githubusercontent.com/phuongtailtranminh/qBittorrent-Nyaa-Search-Plugin/master/nyaa.py Download]
 | Python2 <br /> (?) Not Tested
 |-
@@ -171,7 +171,7 @@ If you wrote one, please add it to these tables.
 | [https://github.com/MadeOfMagicAndWires/qBit-plugins Made Of Magic <br />And Wires]
 | 1.00
 | 19/May<br />2017
-| [[https://github.com/Pireo/hello-world/blob/master/flag_united_kingdom.png]]
+| [[https://github.com/Pireo/hello-world/blob/master/flag_united_kingdom.png]][[https://github.com/Pireo/hello-world/blob/master/flag_japan.png]]
 | [https://raw.githubusercontent.com/MadeOfMagicAndWires/qBit-plugins/master/engines/nyaasi.py Download]
 | Python3 & Python2 <br />✔ qb 3.3.15
 |-
@@ -239,7 +239,7 @@ Those sites require an account and your username/password need to be added into 
 | [https://github.com/MadeOfMagicAndWires/qBit-plugins Made Of Magic <br />And Wires]
 | 1.30
 | 13/Apr<br />2017
-| [[https://github.com/Pireo/hello-world/blob/master/flag_united_kingdom.png]]
+| [[https://github.com/Pireo/hello-world/blob/master/flag_united_kingdom.png]][[https://github.com/Pireo/hello-world/blob/master/flag_japan.png]]
 | [https://github.com/MadeOfMagicAndWires/qBit-plugin/blob/master/engines/bakabt.py Download] <br />
 [https://github.com/MadeOfMagicAndWires/qBit-plugins/blob/master/README.md README]
 | Python2 & Python3<br /> (?) Not Tested
