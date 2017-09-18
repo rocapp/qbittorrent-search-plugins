@@ -12,14 +12,6 @@ If you wrote one, please add it to these tables.
 !  Download
 !  Comment
 |-
-| [[https://github.com/Pireo/hello-world/blob/a12ef6bd89d215df19bf5dc6137930d186401c92/favicons.png]] [https://www.torrentdownloads.me/ Torrent Downloads]
-|[https://github.com/lima66 lima66]
-| 1.00
-| 13/Sept<br /> 2017
-| [[https://github.com/Pireo/hello-world/blob/master/flag_united_kingdom.png]]
-| [https://raw.githubusercontent.com/lima66/Torrents_Plugin/master/torrentdownloads.py Download]
-| Python3 ✔ qb 3.3.15
-|-
 | [[https://github.com/ebukari/qbittorrent-plugins/blob/master/torrentfunk.png]] [https://torrentfunk.com/ TorrentFunk]
 | [https://github.com/ebukari Ezekiel N Bukari]
 | 1.00
