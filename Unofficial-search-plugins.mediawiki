@@ -8,11 +8,11 @@ If you wrote one, please add it to these tables.
 !  Author / Github
 !  Ver.
 !  Update
-!  Lang.
+!  
 !  Download
 !  Comment
 |-
-| [[https://github.com/ebukari/qbittorrent-plugins/blob/master/torrentfunk.png]] [https://torrentfunk.com/ TorrentFunk]
+| [[https://github.com/ebukari/qbittorrent-plugins/blob/master/torrentfunk.png|16px]] [https://torrentfunk.com/ TorrentFunk]
 | [https://github.com/ebukari Ezekiel N Bukari]
 | 1.00
 | 7/Sept<br />2017
@@ -20,7 +20,7 @@ If you wrote one, please add it to these tables.
 | [https://raw.githubusercontent.com/ebukari/qbittorrent-plugins/master/torrentfunk.py Download]
 | Python2 & Python3<br /> ✔ qb 3.4.x
 |-
-| [[https://github.com/ebukari/qbittorrent-plugins/blob/master/kickass.png]] [https://kickass.cd/ Kickass.cd]
+| [[https://github.com/ebukari/qbittorrent-plugins/blob/master/kickass.png|16px]] [https://kickass.cd/ Kickass.cd]
 | [https://github.com/ebukari Ezekiel N Bukari]
 | 1.00
 | 2/Sept<br />2017
@@ -36,7 +36,7 @@ If you wrote one, please add it to these tables.
 | [https://raw.githubusercontent.com/MadeOfMagicAndWires/qBit-plugins/master/engines/linuxtracker.py Download]
 | Python2 & Python3<br /> ✔ qb 3.3.15
 |-
-| [[https://raw.githubusercontent.com/ngosang/qBittorrent-plugins/master/tntvillage/tntvillage.png]][http://www.tntvillage.scambioetico.org/?releaselist TNT Village]
+| [[https://raw.githubusercontent.com/ngosang/qBittorrent-plugins/master/tntvillage/tntvillage.png]] [http://www.tntvillage.scambioetico.org/?releaselist TNT Village]
 | [https://github.com/ngosang/qBittorrent-plugins ngosang]
 | 1.00
 | 17/Oct<br />2015
@@ -44,7 +44,7 @@ If you wrote one, please add it to these tables.
 | [https://raw.githubusercontent.com/ngosang/qBittorrent-plugins/master/tntvillage/tntvillage.py Download]
 | Python2 & Python3<br /> ✔ qb 3.3.15
 |-
-| [[https://raw.githubusercontent.com/ngosang/qBittorrent-plugins/master/sumotorrent/sumotorrent.png]][http://www.sumotorrent.sx/ SumoTorrent]
+| [[https://raw.githubusercontent.com/ngosang/qBittorrent-plugins/master/sumotorrent/sumotorrent.png]] [http://www.sumotorrent.sx/ SumoTorrent]
 | [https://github.com/ngosang/qBittorrent-plugins ngosang]
 | 1.30
 | 25/Sep<br />2015
@@ -78,13 +78,13 @@ If you wrote one, please add it to these tables.
 |-
 | [[https://raw.githubusercontent.com/mr-mmajoR/myrepo/master/rutor.png]] [http://rutor.info/ Rutor]
 | [https://github.com/Pireo/hello-world/ Pireo]
-| 1.20
-| 14/Jan<br />2017
+| 1.40
+| 23/Jan<br />2017
 | [[https://github.com/Pireo/hello-world/blob/master/russia-flag.png]]
 | [https://raw.githubusercontent.com/Pireo/hello-world/master/rutor.py Download]
-| Python3<br />✔ qb 3.3.15
+| Python3<br />✔ qb 3.4.x
 |-
-| [[https://github.com/Pireo/hello-world/blob/master/lime.png]][https://www.limetorrents.cc/ LimeTorrents]
+| [[https://github.com/Pireo/hello-world/blob/master/lime.png]] [https://www.limetorrents.cc/ LimeTorrents]
 | [https://github.com/lima66/Torrents_Plugin/ lima66]
 | 3.09
 | 22/July<br />2017
@@ -98,7 +98,7 @@ If you wrote one, please add it to these tables.
 | 04/Apr<br />2016
 | [[https://github.com/Pireo/hello-world/blob/master/flag_united_kingdom.png]]
 | [https://raw.githubusercontent.com/ArionMiles/Zooqle-qBittorrent-Plugin/master/zooqle.py Download]
-| Python2 & Python3<br />✔ qb 3.3.15
+| Python2 & Python3<br />✔ qb 3.4.x
 |-
 | [[https://raw.githubusercontent.com/v1k45/1337x-qBittorrent-search-plugin/master/leetx.png]] [https://1337x.to/ 1337x]
 | [https://github.com/v1k45/1337x-qBittorrent-search-plugin v1k45]
@@ -106,7 +106,7 @@ If you wrote one, please add it to these tables.
 | 19/Aug<br />2017
 | [[https://github.com/Pireo/hello-world/blob/master/flag_united_kingdom.png]]
 | [https://raw.githubusercontent.com/v1k45/1337x-qBittorrent-search-plugin/master/leetx.py Download]
-| Python2 & Python3<br />✔ qb 3.3.15
+| Python2 & Python3<br />✔ qb 3.4.x
 |-
 | [[https://github.com/Pireo/hello-world/blob/master/etree.png]] [http://bt.etree.org/ bt.etree.org]
 | [https://github.com/lima66/Torrents_Plugin/ lima66]
@@ -122,7 +122,7 @@ If you wrote one, please add it to these tables.
 | 23/Apr<br />2017
 | [[https://github.com/Pireo/hello-world/blob/master/flag_united_kingdom.png]]
 | [https://raw.githubusercontent.com/lima66/Torrents_Plugin/master/psychocydd.py Download]
-| Python2 & Python3<br />✔ qb 3.3.15
+| Python2 & Python3<br />✔ qb 3.4.x
 |-
 | [[https://raw.githubusercontent.com/Pireo/hello-world/23513d5befe55a84a6f969e7888a3d084d0b54bf/images.png]][http://ilcorsaronero.info IlCorsaroNero]
 | [https://github.com/lima66/Torrents_Plugin/ lima66]
@@ -145,7 +145,7 @@ If you wrote one, please add it to these tables.
 | [https://github.com/kenken28/NyaaPantsu-qBittorrent-Plugin/ kenken28]
 | 1.05
 | 24/Jun<br />2017
-| [[https://github.com/Pireo/hello-world/blob/master/flag_united_kingdom.png]] [[https://github.com/Pireo/hello-world/blob/master/flag_japan.png]]
+| [[https://github.com/Pireo/hello-world/blob/master/flag_united_kingdom.png]]<br />[[https://github.com/Pireo/hello-world/blob/master/flag_japan.png]]
 | [https://raw.githubusercontent.com/kenken28/NyaaPantsu-qBittorrent-Plugin/master/nyaapantsu.py Download]
 | Python2 & Python3<br />✔ qb 3.3.15
 |-
@@ -153,7 +153,7 @@ If you wrote one, please add it to these tables.
 | [https://github.com/4chenz/pantsu-plugin/ 4chenz]
 | 1.11
 | 07/Aug<br />2017
-| [[https://github.com/Pireo/hello-world/blob/master/flag_united_kingdom.png]] [[https://github.com/Pireo/hello-world/blob/master/flag_japan.png]]
+| [[https://github.com/Pireo/hello-world/blob/master/flag_united_kingdom.png]]<br />[[https://github.com/Pireo/hello-world/blob/master/flag_japan.png]]
 | [https://raw.githubusercontent.com/4chenz/pantsu-plugin/master/sukebei.py Download]
 | Python2 <br /> (?) Not Tested
 |-
@@ -161,7 +161,7 @@ If you wrote one, please add it to these tables.
 | [https://github.com/4chenz/pantsu-plugin/ 4chenz]
 | 1.11
 | 07/Aug<br />2017
-| [[https://github.com/Pireo/hello-world/blob/master/flag_united_kingdom.png]] [[https://github.com/Pireo/hello-world/blob/master/flag_japan.png]]
+| [[https://github.com/Pireo/hello-world/blob/master/flag_united_kingdom.png]]<br />[[https://github.com/Pireo/hello-world/blob/master/flag_japan.png]]
 | [https://raw.githubusercontent.com/4chenz/pantsu-plugin/master/pantsu.py Download]
 | Python2 & Python3<br />✔ qb 3.3.15
 |-
@@ -170,7 +170,7 @@ If you wrote one, please add it to these tables.
 | [https://github.com/phuongtailtranminh/qBittorrent-Nyaa-Search-Plugin/ phuongtail<br />tranminh]
 | 1.01
 | 19/May<br />2017
-| [[https://github.com/Pireo/hello-world/blob/master/flag_united_kingdom.png]] [[https://github.com/Pireo/hello-world/blob/master/flag_japan.png]]
+| [[https://github.com/Pireo/hello-world/blob/master/flag_united_kingdom.png]]<br />[[https://github.com/Pireo/hello-world/blob/master/flag_japan.png]]
 | [https://raw.githubusercontent.com/phuongtailtranminh/qBittorrent-Nyaa-Search-Plugin/master/nyaa.py Download]
 | Python2 <br /> (?) Not Tested
 |-
@@ -179,7 +179,7 @@ If you wrote one, please add it to these tables.
 | [https://github.com/MadeOfMagicAndWires/qBit-plugins Made Of Magic <br />And Wires]
 | 1.00
 | 19/May<br />2017
-| [[https://github.com/Pireo/hello-world/blob/master/flag_united_kingdom.png]] [[https://github.com/Pireo/hello-world/blob/master/flag_japan.png]]
+| [[https://github.com/Pireo/hello-world/blob/master/flag_united_kingdom.png]]<br />[[https://github.com/Pireo/hello-world/blob/master/flag_japan.png]]
 | [https://raw.githubusercontent.com/MadeOfMagicAndWires/qBit-plugins/master/engines/nyaasi.py Download]
 | Python3 & Python2 <br />✔ qb 3.3.15
 |-
@@ -204,7 +204,7 @@ Those sites require an account and your username/password need to be added into 
 !  Author / Github
 !  Ver.
 !  Update
-!  Lang.
+!  
 !  Download
 !  Comment
 |-
@@ -224,7 +224,7 @@ Those sites require an account and your username/password need to be added into 
 | [[https://github.com/Pireo/hello-world/blob/master/russia-flag.png]]
 | [https://raw.githubusercontent.com/Skymirrh/qBittorrent-rutracker-plugin/master/rutracker.py Download] <br />
 [ https://github.com/Skymirrh/qBittorrent-rutracker-plugin/blob/master/README.md README]
-| Python2 & Python3<br />✔ qb 3.3.15
+| Python2 & Python3<br />✔ qb 3.4.x
 |-
 | [[https://raw.githubusercontent.com/Skymirrh/qBittorrent-rutracker-plugin/master/rutracker.png]] [http://rutracker.org/ rutracker.org]
 | [https://github.com/alvin1979/qbrutracker alvin1979]
@@ -247,7 +247,7 @@ Those sites require an account and your username/password need to be added into 
 | [https://github.com/MadeOfMagicAndWires/qBit-plugins Made Of Magic <br />And Wires]
 | 1.30
 | 13/Apr<br />2017
-| [[https://github.com/Pireo/hello-world/blob/master/flag_united_kingdom.png]] [[https://github.com/Pireo/hello-world/blob/master/flag_japan.png]]
+| [[https://github.com/Pireo/hello-world/blob/master/flag_united_kingdom.png]]<br />[[https://github.com/Pireo/hello-world/blob/master/flag_japan.png]]
 | [https://github.com/MadeOfMagicAndWires/qBit-plugin/blob/master/engines/bakabt.py Download] <br />
 [https://github.com/MadeOfMagicAndWires/qBit-plugins/blob/master/README.md README]
 | Python2 & Python3<br /> (?) Not Tested
