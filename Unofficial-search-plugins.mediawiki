@@ -1,7 +1,11 @@
-You can find here unofficial search engine plugins for qBittorrent that are made available by its users.<br /><br />
-If you wrote one, please add it to these tables.
+Here you can find unofficial search engine plugins for qBittorrent that are made available by its users.
 
-== Plugins for Public sites ==
+= Read First =
+* If you wrote one, you're welcome to add it to these tables.
+* '''If you experience issues with any of the plugins posted here, please report to the author directly.'''<br />In case the author is unresponsive, you can try to fix it yourself. Then you can edit this wiki page and update the link to your fixed plugin.
+* To write your own search plugins, please follow this [[How-to-write-a-search-plugin|tutorial]].
+
+= Plugins for Public sites =
 {|
 |-
 !  Search Engine
@@ -194,9 +198,9 @@ If you wrote one, please add it to these tables.
 |-
 |}
 
-== Plugins for Private sites ==
-Be careful, these scripts probably require editing before you can use them.<br />
-Those sites require an account and your username/password need to be added into the script.
+= Plugins for Private sites =
+* These scripts probably require editing before you can use them.
+* Those sites probably require an account and your username & password need to be added into the script.
 
 {|
 |-
@@ -253,7 +257,3 @@ Those sites require an account and your username/password need to be added into 
 | Python2 & Python3<br /> (?) Not Tested
 |}
 ''*All files'' is a tarball (.tar.gz) containing script, icon, README & INSTALL files.
-
-== Notes ==
-* If you want to write your own search plugins, please follow this [[How-to-write-a-search-plugin|tutorial]].
-* If you experience issues with any of the plugins posted here, please contact their author. In case the author is unresponsive, you can try to fix it yourself. Then you can edit this wiki page and add your info and new plugin.
