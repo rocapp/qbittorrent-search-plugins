@@ -63,7 +63,7 @@ print download_file(url)
 > /tmp/esdzes http://www.mininova.org/get/123456
 ```
 
-## Python Class File Structure
+## Python class file structure
 Your plugin should be named "engine_name.py", in lowercase and without spaces not any special characters.
 
 Here is the basic structure of this file:
@@ -106,7 +106,7 @@ class engine_name(object):
 
 **PLEASE note that the filename (without .py extension) must be identical to the class name. Otherwise, qBittorrent will refuse to install it!**
 
-## Parsing Results Web pages
+## Parsing results web pages
 After downloading the content of the web page containing the results (using `retrieve_url()`), you will want to parse it in order to create a `dict` per search result and call `prettyPrint(your_dict)` function to display it on stdout (in a format understandable by qBittorrent).
 
 In order to parse the pages, you can use the following python modules (not exhaustive):
