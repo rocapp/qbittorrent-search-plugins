@@ -110,7 +110,7 @@ class engine_name(object):
 After downloading the content of the web page containing the results (using `retrieve_url()`), you will want to parse it in order to create a `dict` per search result and call `prettyPrint(your_dict)` function to display it on stdout (in a format understandable by qBittorrent).
 
 In order to parse the pages, you can use the following python modules (not exhaustive):
-* [HTMLParser](https://docs.python.org/2/library/htmlparser.html) / [html.parser](https://docs.python.org/3/library/html.parser.html): Builtin python parser which replaces deprecated SGMLParser. Mostly similar to the SMGLParser ***[ADVISED METHOD]***
+* **[ADVISED METHOD]** [HTMLParser](https://docs.python.org/2/library/htmlparser.html) / [html.parser](https://docs.python.org/3/library/html.parser.html): Builtin python parser which replaces deprecated SGMLParser. Mostly similar to the SMGLParser 
 * `xml.dom.minidom`: XML parser. Be careful, this parser is very sensitive and the website must be fully XHTML compliant for this to work.
 * `re`: If you like using regular expressions (regex)
 
@@ -146,7 +146,7 @@ If everything goes well, qBittorrent should notify you that it was successfully 
 
 ## Post your working plugin
 Once you managed to write a search engine plugin for qBittorrent that works, feel free to post it on [this](http://plugins.qbittorrent.org) wiki page so that the other users can use it too.<br />
-If you are lucky, your plugin may also be included in the [official repo](https://github.com/qbittorrent/search-plugins).
+If you are lucky, your plugin may also be included in the [official repository](https://github.com/qbittorrent/search-plugins).
 
 ## Notes
 * As a convention, it is advised that you print the results sorted by number of seeds (the most seeds at the top) because these are usually the most interesting torrents.
