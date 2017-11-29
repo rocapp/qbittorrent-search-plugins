@@ -19,7 +19,7 @@ And it would be a good idea to follow style guide: [PEP 8 - Style Guide for Pyth
 
 7. [Examples](https://github.com/qbittorrent/search-plugins/wiki/How-to-write-a-search-plugin#examples)
 
-8. [Test Your Plugin](https://github.com/qbittorrent/search-plugins/wiki/How-to-write-a-search-plugin#test-your-plugin)
+8. [Testing Your Plugin](https://github.com/qbittorrent/search-plugins/wiki/How-to-write-a-search-plugin#testing-your-plugin)
 
 9. [Install Your Plugin](https://github.com/qbittorrent/search-plugins/wiki/How-to-write-a-search-plugin#install-your-plugin)
 
@@ -143,8 +143,8 @@ Do not hesitate to use the official search engine plugins as an example. They ar
 * kickasstorrents.py uses json module
 * torrentreactor.py uses HTMLParser module
 
-## Test your plugin
-It is better to test your plugin while developing it, before installing it in qBittorrent. Hence, we advise that you download [these files](https://github.com/qbittorrent/qBittorrent/tree/master/src/searchengine/nova3).
+## Testing your plugin
+Before installing your plugin (in Qbittorrent) you can test run the plugin while debugging it. Hence, we advise that you download [these files](https://github.com/qbittorrent/qBittorrent/tree/master/src/searchengine/nova3).
 
 You will get the following structure:
 ```
@@ -155,7 +155,7 @@ search_engine
 -> novaprinter.py # contains some useful functions like prettyPrint(my_dict) to display your search results
 ```
 
-Put your plugin in `engines/` folder and then execute nova2.py script like this:
+Put your plugin in `engines/` folder and then execute (in CMD) nova2.py script like this:
 ```shell
 ./nova2.py your_search_engine_name category search_tokens
 # e.g.: ./nova2.py mininova all kubuntu linux
