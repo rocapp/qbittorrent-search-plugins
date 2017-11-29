@@ -5,30 +5,37 @@ All you need is some motivation and some knowledge of [Python language](https://
 And it would be a good idea to follow style guide: [PEP 8 - Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
 
 # INDEX
-1. [Plugins Specification](https://github.com/qbittorrent/search-plugins/wiki/How-to-write-a-search-plugin#plugins-specification)
+## [Plugins Specification](https://github.com/qbittorrent/search-plugins/wiki/How-to-write-a-search-plugin#plugins-specification)
 
-2. [PrettyPrinter Helper Function](https://github.com/qbittorrent/search-plugins/wiki/How-to-write-a-search-plugin#prettyprinter-helper-function)
+### 1.1 [Search Results Format](https://github.com/qbittorrent/search-plugins/wiki/How-to-write-a-search-plugin/_edit#search-results-format)
 
-3. [Retrieve_URL Helper Function](https://github.com/qbittorrent/search-plugins/wiki/How-to-write-a-search-plugin#retrieve_url-helper-function)
+### 1.2 [Python Class File Structure](https://github.com/qbittorrent/search-plugins/wiki/How-to-write-a-search-plugin/_edit#python-class-file-structure)
 
-4. [Download_File helper Function](https://github.com/qbittorrent/search-plugins/wiki/How-to-write-a-search-plugin#download_file-helper-function)
+### 1.3 [Parsing Results From Web Pages](https://github.com/qbittorrent/search-plugins/wiki/How-to-write-a-search-plugin/_edit#parsing-results-from-web-pages)
 
-5. [Python Class File Structure](https://github.com/qbittorrent/search-plugins/wiki/How-to-write-a-search-plugin#python-class-file-structure)
+## [Understanding The Code](https://github.com/qbittorrent/search-plugins/wiki/How-to-write-a-search-plugin/_edit#understanding-the-code)
 
-6. [Parsing Results Web Pages](https://github.com/qbittorrent/search-plugins/wiki/How-to-write-a-search-plugin#parsing-results-web-pages)
+### 2.1 [PrettyPrinter Helper Function](https://github.com/qbittorrent/search-plugins/wiki/How-to-write-a-search-plugin#prettyprinter-helper-function)
 
-7. [Examples](https://github.com/qbittorrent/search-plugins/wiki/How-to-write-a-search-plugin#examples)
+### 2.2 [Retrieve_URL Helper Function](https://github.com/qbittorrent/search-plugins/wiki/How-to-write-a-search-plugin#retrieve_url-helper-function)
 
-8. [Testing Your Plugin](https://github.com/qbittorrent/search-plugins/wiki/How-to-write-a-search-plugin#testing-your-plugin)
+### 2.3 [Download_File helper Function](https://github.com/qbittorrent/search-plugins/wiki/How-to-write-a-search-plugin#download_file-helper-function)
 
-9. [Install Your Plugin](https://github.com/qbittorrent/search-plugins/wiki/How-to-write-a-search-plugin#install-your-plugin)
+## [Testing & Finalizing Your Code](https://github.com/qbittorrent/search-plugins/wiki/How-to-write-a-search-plugin/_edit#testing--finalizing-your-code)
 
-10. [Post Your Working Plugin](https://github.com/qbittorrent/search-plugins/wiki/How-to-write-a-search-plugin#post-your-working-plugin)
+### 3.1 [Code Examples](https://github.com/qbittorrent/search-plugins/wiki/How-to-write-a-search-plugin/_edit#code-examples)
 
-11. [Notes](https://github.com/qbittorrent/search-plugins/wiki/How-to-write-a-search-plugin#notes)
+### 3.2 [Testing Your Plugin](https://github.com/qbittorrent/search-plugins/wiki/How-to-write-a-search-plugin#testing-your-plugin)
+
+### 3.3 [Install Your Plugin](https://github.com/qbittorrent/search-plugins/wiki/How-to-write-a-search-plugin#install-your-plugin)
+
+### 3.4 [Post Your Working Plugin](https://github.com/qbittorrent/search-plugins/wiki/How-to-write-a-search-plugin#post-your-working-plugin)
+
+### 3.5 [Notes](https://github.com/qbittorrent/search-plugins/wiki/How-to-write-a-search-plugin#notes)
 
 
-## Plugins specification
+# Plugins Specification
+## Search Results Format
 First, you must understand that a qBittorrent search engine plugin is actually a Python class file whose task is to contact a search engine website (e.g. [Mininova.org](http://www.mininova.org)), parse the results display by the web page and print them on stdout with the following syntax:
 ```
 link|name|size|seeds|leech|engine_url
@@ -41,52 +48,6 @@ for example:
 http://www.mininova.org/get/1109509|ubuntu-hardy-desktop-i386-alpha-3 iso|711332986|0|0|http://www.mininova.org
 http://www.mininova.org/get/1088604|Xubuntu 7.10 for Virtual PC 2007|713901998|0|0|http://www.mininova.org
 ```
-
-Note that the size is in provided bytes.
-
-To achieve this task we provide several helper functions such as `prettyPrinter()`.
-
-### `prettyPrinter()` helper function
-In fact, you don't really need to pay attention to the output syntax because we provide a function for this called `prettyPrinter(dictionary)`. You can import it using the following command:
-```python
-from novaprinter import prettyPrinter
-```
-
-You must pass to this function a dictionary containing the following keys (value should be `-1` if you do not have the info):
-* `link` => A string corresponding the the download link (the .torrent file or magnet link)
-* `name` => A unicode string corresponding to the torrent's name (i.e: "Ubuntu Linux v6.06")
-* `size` => A string corresponding to the torrent size (i.e: "6 MB" or "200 KB" or "1.2 GB"...)
-* `seeds` => The number of seeds for this torrent (as a string)
-* `leech` => The number of leechers for this torrent (a a string)
-* `engine_url` => The search engine url (i.e: http://www.mininova.org)
-* `desc_link` => A string corresponding to the the description page for the torrent
-
-### `retrieve_url()` helper function
-The `retrieve_url()` method takes an URL as parameter and returns the content of the URL as a string.<br />
-This function is useful to get the search results from a Bittorrent search engine site. All you need to do is to pass the properly formatted URL to the function (the URL usually include GET parameters relative to search tokens, category, sorting, page number).
-
-```python
-from helpers import retrieve_url
-dat = retrieve_url(self.url+'/search?q=%s&c=%s&o=52&p=%d'%(what, self.supported_categories[cat], i))
-```
-
-### `download_file()` helper function
-The `download_file()` functions takes as a parameter the URL to a torrent file. This function will download the torrent to a temporary location and print on stdout:
-```shell
-path_to_temporary_file url
-```
-
-It prints two values separated by a space:
-* The path to the downloaded file (usually in /tmp folder)
-* The URL from which the file was downloaded
-
-Here is an example:
-```python
-from helpers import retrieve_url, download_file
-print download_file(url)
-> /tmp/esdzes http://www.mininova.org/get/123456
-```
-
 ## Python class file structure
 Your plugin should be named "engine_name.py", in lowercase and without spaces not any special characters.
 
@@ -130,7 +91,7 @@ class engine_name(object):
 
 **PLEASE note that the filename (without .py extension) must be identical to the class name. Otherwise, qBittorrent will refuse to install it!**
 
-## Parsing results web pages
+## Parsing Results from Web Pages
 After downloading the content of the web page containing the results (using `retrieve_url()`), you will want to parse it in order to create a `dict` per search result and call `prettyPrint(your_dict)` function to display it on stdout (in a format understandable by qBittorrent).
 
 In order to parse the pages, you can use the following python modules (not exhaustive):
@@ -138,7 +99,56 @@ In order to parse the pages, you can use the following python modules (not exhau
 * `xml.dom.minidom`: XML parser. Be careful, this parser is very sensitive and the website must be fully XHTML compliant for this to work.
 * `re`: If you like using regular expressions (regex)
 
-## Examples
+
+
+Note that the size is in provided bytes.
+
+To achieve this task we provide several helper functions such as `prettyPrinter()`.
+
+# Understanding The Code
+## `prettyPrinter()` helper function
+In fact, you don't really need to pay attention to the output syntax because we provide a function for this called `prettyPrinter(dictionary)`. You can import it using the following command:
+```python
+from novaprinter import prettyPrinter
+```
+
+You must pass to this function a dictionary containing the following keys (value should be `-1` if you do not have the info):
+* `link` => A string corresponding the the download link (the .torrent file or magnet link)
+* `name` => A unicode string corresponding to the torrent's name (i.e: "Ubuntu Linux v6.06")
+* `size` => A string corresponding to the torrent size (i.e: "6 MB" or "200 KB" or "1.2 GB"...)
+* `seeds` => The number of seeds for this torrent (as a string)
+* `leech` => The number of leechers for this torrent (a a string)
+* `engine_url` => The search engine url (i.e: http://www.mininova.org)
+* `desc_link` => A string corresponding to the the description page for the torrent
+
+## `retrieve_url()` helper function
+The `retrieve_url()` method takes an URL as parameter and returns the content of the URL as a string.<br />
+This function is useful to get the search results from a Bittorrent search engine site. All you need to do is to pass the properly formatted URL to the function (the URL usually include GET parameters relative to search tokens, category, sorting, page number).
+
+```python
+from helpers import retrieve_url
+dat = retrieve_url(self.url+'/search?q=%s&c=%s&o=52&p=%d'%(what, self.supported_categories[cat], i))
+```
+
+## `download_file()` helper function
+The `download_file()` functions takes as a parameter the URL to a torrent file. This function will download the torrent to a temporary location and print on stdout:
+```shell
+path_to_temporary_file url
+```
+
+It prints two values separated by a space:
+* The path to the downloaded file (usually in /tmp folder)
+* The URL from which the file was downloaded
+
+Here is an example:
+```python
+from helpers import retrieve_url, download_file
+print download_file(url)
+> /tmp/esdzes http://www.mininova.org/get/123456
+```
+# Testing & Finalizing Your Code
+
+## Code Examples
 Do not hesitate to use the official search engine plugins as an example. They are available [here](https://github.com/qbittorrent/search-plugins/tree/master/nova3/engines).
 * kickasstorrents.py uses json module
 * torrentreactor.py uses HTMLParser module
