@@ -4,6 +4,30 @@ Thanks to this, you can *easily* write your own plugins to look for torrents in 
 All you need is some motivation and some knowledge of [Python language](https://www.python.org).<br />
 And it would be a good idea to follow style guide: [PEP 8 - Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
 
+# INDEX
+1. [Plugins Specification](https://github.com/qbittorrent/search-plugins/wiki/How-to-write-a-search-plugin#plugins-specification)
+
+2. [PrettyPrinter Helper Function](https://github.com/qbittorrent/search-plugins/wiki/How-to-write-a-search-plugin#prettyprinter-helper-function)
+
+3. [Retrieve_URL Helper Function](https://github.com/qbittorrent/search-plugins/wiki/How-to-write-a-search-plugin#retrieve_url-helper-function)
+
+4. [Download_File helper Function](https://github.com/qbittorrent/search-plugins/wiki/How-to-write-a-search-plugin#download_file-helper-function)
+
+5. [Python Class File Structure](https://github.com/qbittorrent/search-plugins/wiki/How-to-write-a-search-plugin#python-class-file-structure)
+
+6. [Parsing Results Web Pages](https://github.com/qbittorrent/search-plugins/wiki/How-to-write-a-search-plugin#parsing-results-web-pages)
+
+7. [Examples](https://github.com/qbittorrent/search-plugins/wiki/How-to-write-a-search-plugin#examples)
+
+8. [Test Your Plugin](https://github.com/qbittorrent/search-plugins/wiki/How-to-write-a-search-plugin#test-your-plugin)
+
+9. [Install Your Plugin](https://github.com/qbittorrent/search-plugins/wiki/How-to-write-a-search-plugin#install-your-plugin)
+
+10. [Post Your Working Plugin](https://github.com/qbittorrent/search-plugins/wiki/How-to-write-a-search-plugin#post-your-working-plugin)
+
+11. [Notes](https://github.com/qbittorrent/search-plugins/wiki/How-to-write-a-search-plugin#notes)
+
+
 ## Plugins specification
 First, you must understand that a qBittorrent search engine plugin is actually a Python class file whose task is to contact a search engine website (e.g. [Mininova.org](http://www.mininova.org)), parse the results display by the web page and print them on stdout with the following syntax:
 ```
