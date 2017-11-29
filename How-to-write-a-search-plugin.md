@@ -7,13 +7,13 @@ And it would be a good idea to follow style guide: [PEP 8 - Style Guide for Pyth
 # INDEX
 ## [Plugins Specification](https://github.com/qbittorrent/search-plugins/wiki/How-to-write-a-search-plugin#plugins-specification)
 
-### 1.1 [Search Results Format](https://github.com/qbittorrent/search-plugins/wiki/How-to-write-a-search-plugin/_edit#search-results-format)
+### 1.1 [Search Results Format](https://github.com/qbittorrent/search-plugins/wiki/How-to-write-a-search-plugin/#search-results-format)
 
-### 1.2 [Python Class File Structure](https://github.com/qbittorrent/search-plugins/wiki/How-to-write-a-search-plugin/_edit#python-class-file-structure)
+### 1.2 [Python Class File Structure](https://github.com/qbittorrent/search-plugins/wiki/How-to-write-a-search-plugin/#python-class-file-structure)
 
-### 1.3 [Parsing Results From Web Pages](https://github.com/qbittorrent/search-plugins/wiki/How-to-write-a-search-plugin/_edit#parsing-results-from-web-pages)
+### 1.3 [Parsing Results From Web Pages](https://github.com/qbittorrent/search-plugins/wiki/How-to-write-a-search-plugin/#parsing-results-from-web-pages)
 
-## [Understanding The Code](https://github.com/qbittorrent/search-plugins/wiki/How-to-write-a-search-plugin/_edit#understanding-the-code)
+## [Understanding The Code](https://github.com/qbittorrent/search-plugins/wiki/How-to-write-a-search-plugin/#understanding-the-code)
 
 ### 2.1 [PrettyPrinter Helper Function](https://github.com/qbittorrent/search-plugins/wiki/How-to-write-a-search-plugin#prettyprinter-helper-function)
 
@@ -21,9 +21,9 @@ And it would be a good idea to follow style guide: [PEP 8 - Style Guide for Pyth
 
 ### 2.3 [Download_File helper Function](https://github.com/qbittorrent/search-plugins/wiki/How-to-write-a-search-plugin#download_file-helper-function)
 
-## [Testing & Finalizing Your Code](https://github.com/qbittorrent/search-plugins/wiki/How-to-write-a-search-plugin/_edit#testing--finalizing-your-code)
+## [Testing & Finalizing Your Code](https://github.com/qbittorrent/search-plugins/wiki/How-to-write-a-search-plugin/#testing--finalizing-your-code)
 
-### 3.1 [Code Examples](https://github.com/qbittorrent/search-plugins/wiki/How-to-write-a-search-plugin/_edit#code-examples)
+### 3.1 [Code Examples](https://github.com/qbittorrent/search-plugins/wiki/How-to-write-a-search-plugin/#code-examples)
 
 ### 3.2 [Testing Your Plugin](https://github.com/qbittorrent/search-plugins/wiki/How-to-write-a-search-plugin#testing-your-plugin)
 
