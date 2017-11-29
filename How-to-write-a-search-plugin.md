@@ -176,11 +176,11 @@ search_engine
 -> novaprinter.py # contains some useful functions like prettyPrint(my_dict) to display your search results
 ```
 
-Put your plugin in `engines/` folder and then execute (in CMD) nova2.py script like this:
+Put your plugin in `engines/` folder ( %localappdata%\qBittorrent\nova3\engines\ ) and then in CMD execute nova2.py script like this:
 ```shell
-./nova2.py your_search_engine_name category search_tokens
-# e.g.: ./nova2.py mininova all kubuntu linux
-# e.g.: ./nova2.py btjunkie books ubuntu
+..\nova2.py your_search_engine_name category search_tokens
+# e.g.: ..\nova2.py mininova all kubuntu linux
+# e.g.: ..\nova2.py btjunkie books ubuntu
 ```
 
 ## Install Your Plugin
