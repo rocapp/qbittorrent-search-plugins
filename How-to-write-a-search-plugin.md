@@ -183,6 +183,13 @@ Put your plugin in `engines/` folder ( %localappdata%\qBittorrent\nova3\engines\
 # e.g.: ..\nova2.py btjunkie books ubuntu
 ```
 
+A successful result will output:
+```
+DEBUG:root:C:\users\user\appdata\local\qbittorrent\nova3\qbt\qbt
+the app will start listing links it finds in the following format:
+link|name|size|#seeds|#leechers|engine|page url
+```
+
 ## Install Your Plugin
 1. Go to search tab in main window, click on "Search engines..." button.
 2. Then, a new window will pop up, containing the list of installed search engine plugins.
