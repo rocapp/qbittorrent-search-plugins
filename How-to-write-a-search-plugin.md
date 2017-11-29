@@ -48,10 +48,21 @@ for example:
 http://www.mininova.org/get/1109509|ubuntu-hardy-desktop-i386-alpha-3 iso|711332986|0|0|http://www.mininova.org
 http://www.mininova.org/get/1088604|Xubuntu 7.10 for Virtual PC 2007|713901998|0|0|http://www.mininova.org
 ```
-## Python class file structure
+## Python Class File Structure
 Your plugin should be named "engine_name.py", in lowercase and without spaces not any special characters.
+You'll also need the other files for the project ([Link](https://github.com/qbittorrent/qBittorrent/tree/master/src/searchengine/nova3))
 
-Here is the basic structure of this file:
+The Files Are:
+
+```
+-> nova2.py # the main search engine script which calls the plugins
+-> nova2dl.py # standalone script called by qBittorrent to download a torrent using a particular search plugin
+-> helpers.py # contains helper functions you can use in your plugins such as retrieve_url() and download_file()
+-> novaprinter.py # contains some useful functions like prettyPrint(my_dict) to display your search results
+```
+
+
+Here is the basic structure of engine_name.py:
 ```python
 #VERSION: 1.00
 #AUTHORS: YOUR_NAME (YOUR_MAIL)
@@ -153,7 +164,7 @@ Do not hesitate to use the official search engine plugins as an example. They ar
 * kickasstorrents.py uses json module
 * torrentreactor.py uses HTMLParser module
 
-## Testing your plugin
+## Testing Your Plugin
 Before installing your plugin (in Qbittorrent) you can test run the plugin while debugging it. Hence, we advise that you download [these files](https://github.com/qbittorrent/qBittorrent/tree/master/src/searchengine/nova3).
 
 You will get the following structure:
@@ -172,13 +183,13 @@ Put your plugin in `engines/` folder and then execute (in CMD) nova2.py script l
 # e.g.: ./nova2.py btjunkie books ubuntu
 ```
 
-## Install your plugin
+## Install Your Plugin
 1. Go to search tab in main window, click on "Search engines..." button.
 2. Then, a new window will pop up, containing the list of installed search engine plugins.
 3. Click on "Install a new one" at the bottom and select your `*.py` python script on you filesystem.<br />
 If everything goes well, qBittorrent should notify you that it was successfully installed and your plugin should appear in the list.
 
-## Post your working plugin
+## Post Your Working Plugin
 Once you managed to write a search engine plugin for qBittorrent that works, feel free to post it on [this](http://plugins.qbittorrent.org) wiki page so that the other users can use it too.<br />
 If you are lucky, your plugin may also be included in the [official repository](https://github.com/qbittorrent/search-plugins).
 
