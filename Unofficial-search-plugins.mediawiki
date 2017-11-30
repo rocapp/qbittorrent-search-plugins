@@ -17,7 +17,7 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 !  Comment
 |-
 | [[https://github.com/ebukari/qbittorrent-plugins/blob/master/torrentfunk.png|16px]] [https://torrentfunk.com/ TorrentFunk]
-| [https://github.com/ebukari Ezekiel N Bukari]
+| [https://github.com/ebukari/qbittorrent-plugins Ezekiel N Bukari]
 | 1.00
 | 7/Sept<br />2017
 | [[https://github.com/Pireo/hello-world/blob/master/flag_united_kingdom.png]]
@@ -25,7 +25,7 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 | Python2 & Python3<br /> ✔ qb 3.4.x
 |-
 | [[https://github.com/ebukari/qbittorrent-plugins/blob/master/kickass.png|16px]] [https://kickass.cd/ Kickass.cd]
-| [https://github.com/ebukari Ezekiel N Bukari]
+| [https://github.com/ebukari/qbittorrent-plugins Ezekiel N Bukari]
 | 1.00
 | 2/Sept<br />2017
 | [[https://github.com/Pireo/hello-world/blob/master/flag_united_kingdom.png]]
