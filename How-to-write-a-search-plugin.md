@@ -5,7 +5,7 @@ All you need is some motivation and some knowledge of [Python language](https://
 And it would be a good idea to follow style guide: [PEP 8 - Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
 
 # INDEX
-## [Plugins Specification](https://github.com/qbittorrent/search-plugins/wiki/How-to-write-a-search-plugin#plugins-specification)
+## [Plugins Specification](https://github.com/qbittorrent/search-plugins/wiki/How-to-write-a-search-plugin#plugins-specification-1)
 
 ### 1.1 [Search Results Format](https://github.com/qbittorrent/search-plugins/wiki/How-to-write-a-search-plugin/#search-results-format)
 
@@ -13,7 +13,7 @@ And it would be a good idea to follow style guide: [PEP 8 - Style Guide for Pyth
 
 ### 1.3 [Parsing Results From Web Pages](https://github.com/qbittorrent/search-plugins/wiki/How-to-write-a-search-plugin/#parsing-results-from-web-pages)
 
-## [Understanding The Code](https://github.com/qbittorrent/search-plugins/wiki/How-to-write-a-search-plugin/#understanding-the-code)
+## [Understanding The Code](https://github.com/qbittorrent/search-plugins/wiki/How-to-write-a-search-plugin#understanding-the-code-1)
 
 ### 2.1 [PrettyPrinter Helper Function](https://github.com/qbittorrent/search-plugins/wiki/How-to-write-a-search-plugin#prettyprinter-helper-function)
 
@@ -21,7 +21,7 @@ And it would be a good idea to follow style guide: [PEP 8 - Style Guide for Pyth
 
 ### 2.3 [Download_File helper Function](https://github.com/qbittorrent/search-plugins/wiki/How-to-write-a-search-plugin#download_file-helper-function)
 
-## [Testing & Finalizing Your Code](https://github.com/qbittorrent/search-plugins/wiki/How-to-write-a-search-plugin/#testing--finalizing-your-code)
+## [Testing & Finalizing Your Code](https://github.com/qbittorrent/search-plugins/wiki/How-to-write-a-search-plugin#testing--finalizing-your-code-1)
 
 ### 3.1 [Code Examples](https://github.com/qbittorrent/search-plugins/wiki/How-to-write-a-search-plugin/#code-examples)
 
