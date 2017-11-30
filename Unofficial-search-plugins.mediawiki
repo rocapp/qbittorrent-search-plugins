@@ -102,7 +102,7 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 | 19/May<br />2017
 | [[https://github.com/Pireo/hello-world/blob/master/flag_united_kingdom.png]]<br />[[https://github.com/Pireo/hello-world/blob/master/flag_japan.png]]
 | [https://raw.githubusercontent.com/MadeOfMagicAndWires/qBit-plugins/master/engines/nyaasi.py Download]
-| Python3 & Python2 <br />✔ qbt 3.3.15
+| Python2 & Python3 <br />✔ qbt 3.3.15
 |-
 | [[https://raw.githubusercontent.com/b0nk/qbittorrent-search-plugins/master/rarbg.png]] [https://rarbg.to/ RARBG]
 | [https://github.com/b0nk/qbittorrent-search-plugins/ b0nk]
@@ -134,7 +134,7 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 | 20/May<br />2017
 | [[https://github.com/Pireo/hello-world/blob/master/flag_united_kingdom.png]]
 | [https://raw.githubusercontent.com/MadeOfMagicAndWires/qBit-plugins/master/engines/skytorrents.py Download]
-| Python3 & Python2 <br />✔ qbt 3.3.15
+| Python2 & Python3 <br />✔ qbt 3.3.15
 |-
 | [[https://raw.githubusercontent.com/MadeOfMagicAndWires/qBit-plugins/master/engines/nyaasi.png]] [https://sukebei.nyaa.si/ Sukebei Nyaa]
 | [https://github.com/phuongtailtranminh/qBittorrent-Nyaa-Search-Plugin/ phuongtail<br />tranminh]
