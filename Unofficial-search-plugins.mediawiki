@@ -22,7 +22,7 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 | 19/Aug<br />2017
 | [[https://github.com/Pireo/hello-world/blob/master/flag_united_kingdom.png]]
 | [https://raw.githubusercontent.com/v1k45/1337x-qBittorrent-search-plugin/master/leetx.py Download]
-| Python2 & Python3<br />✔ qbt 3.4.x
+| Python2 & Python3<br />✔ qbt 4.0.x
 |-
 | [[https://github.com/Pireo/hello-world/blob/master/etree.png]] [http://bt.etree.org/ bt.etree.org]
 | [https://github.com/lima66/Torrents_Plugin/ lima66]
@@ -56,13 +56,13 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 | [https://raw.githubusercontent.com/lima66/Torrents_Plugin/master/ilcorsaronero.py Download]
 | Python2 & Python3<br />✖ Not Working
 |-
-| [[https://github.com/ebukari/qbittorrent-plugins/blob/master/kickass.png|16px]] [https://kickass.cd/ Kickass.cd]
+| [[https://raw.githubusercontent.com/Pireo/hello-world/master/favicons2.png]] [https://kickass.cd/ Kickass.cd]
 | [https://github.com/ebukari/qbittorrent-plugins Ezekiel N Bukari]
 | 1.00
 | 2/Sept<br />2017
 | [[https://github.com/Pireo/hello-world/blob/master/flag_united_kingdom.png]]
 | [https://raw.githubusercontent.com/ebukari/qbittorrent-plugins/master/kickass.py Download]
-| Python2 & Python3<br />✔ qbt 3.4.x
+| Python2 & Python3<br />✔ qbt 4.0.x
 |-
 | [[https://github.com/Pireo/hello-world/blob/master/lime.png]] [https://www.limetorrents.cc/ LimeTorrents]
 | [https://github.com/lima66/Torrents_Plugin/ lima66]
@@ -114,11 +114,11 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 |-
 | [[https://github.com/Pireo/hello-world/blob/master/rockbox.png]] [http://psychocydd.co.uk RockBox]
 | [https://github.com/lima66/Torrents_Plugin/ lima66]
-| 1.01
+| 1.1
 | 23/Apr<br />2017
 | [[https://github.com/Pireo/hello-world/blob/master/flag_united_kingdom.png]]
 | [https://raw.githubusercontent.com/lima66/Torrents_Plugin/master/psychocydd.py Download]
-| Python2 & Python3<br />✔ qbt 3.4.x
+| Python2 & Python3<br />✔ qbt 4.0.x
 |-
 | [[https://raw.githubusercontent.com/mr-mmajoR/myrepo/master/rutor.png]] [http://rutor.info/ Rutor]
 | [https://github.com/Pireo/hello-world/ Pireo]
@@ -126,7 +126,7 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 | 23/Jan<br />2017
 | [[https://github.com/Pireo/hello-world/blob/master/russia-flag.png]]
 | [https://raw.githubusercontent.com/Pireo/hello-world/master/rutor.py Download]
-| Python3<br />✔ qbt 3.4.x
+| Python3<br />✔ qbt 4.0.x
 |-
 | [[https://github.com/Pireo/hello-world/blob/master/favicon1.png]] [https://skytorrents.in/ Sky Torrents]
 | [https://github.com/MadeOfMagicAndWires/qBit-plugins Made Of Magic<br />And Wires]
@@ -190,7 +190,7 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 | 04/Apr<br />2016
 | [[https://github.com/Pireo/hello-world/blob/master/flag_united_kingdom.png]]
 | [https://raw.githubusercontent.com/ArionMiles/Zooqle-qBittorrent-Plugin/master/zooqle.py Download]
-| Python2 & Python3<br />✔ qbt 3.4.x
+| Python2 & Python3<br />✔ qbt 4.0.x
 |}
 
 = Plugins for Private sites =
@@ -229,7 +229,7 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 | 11/Nov<br />2017
 | [[https://github.com/Pireo/hello-world/blob/master/russia-flag.png]]
 | [https://raw.githubusercontent.com/Skymirrh/qBittorrent-rutracker-plugin/master/rutracker.py Download]<br />[https://github.com/Skymirrh/qBittorrent-rutracker-plugin/blob/master/README.md README]
-| Python2 & Python3<br />✔ qbt 4.0.0
+| Python2 & Python3<br />✔ qbt 4.0.x
 |-
 | [[https://raw.githubusercontent.com/Skymirrh/qBittorrent-rutracker-plugin/master/rutracker.png]] [http://rutracker.org/ RuTracker]
 | [https://github.com/alvin1979/qbrutracker alvin1979]
