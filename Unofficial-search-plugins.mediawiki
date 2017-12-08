@@ -225,8 +225,8 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 |-
 | [[https://raw.githubusercontent.com/Skymirrh/qBittorrent-rutracker-plugin/master/rutracker.png]] [http://rutracker.org/ RuTracker]
 | [https://github.com/Skymirrh/qBittorrent-rutracker-plugin Skymirrh]
-| 1.1
-| 11/Nov<br />2017
+| 1.1.1
+| 8/Dec<br />2017
 | [[https://github.com/Pireo/hello-world/blob/master/russia-flag.png]]
 | [https://raw.githubusercontent.com/Skymirrh/qBittorrent-rutracker-plugin/master/rutracker.py Download]<br />[https://github.com/Skymirrh/qBittorrent-rutracker-plugin/blob/master/README.md README]
 | Python2 & Python3<br />✔ qbt 4.0.x
