@@ -9,7 +9,7 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 {|
 |-
 !  Search Engine
-!  Author<br/>(Repository)
+!  Author<br/>(Repositorys)
 !  Ver.
 !  Update
 !  Lang.
@@ -136,7 +136,7 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 | [https://raw.githubusercontent.com/lima66/Torrents_Plugin/master/psychocydd.py Download]
 | Python2 & Python3<br />✔ qbt 4.0.x
 |-
-| [[https://raw.githubusercontent.com/hannsen/qbittorrent_search_plugins/master/smallgames.png]] [http://small-games.info/ smallgames.info]
+| [[https://raw.githubusercontent.com/hannsen/qbittorrent_search_plugins/master/smallgames.png]] [http://small-games.info/ small-games.info]
 | [https://github.com/hannsen/qbittorrent_search_plugins/ hannsen]
 | 1.00
 | 25/Dec<br />2017
