@@ -32,7 +32,7 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 | [https://raw.githubusercontent.com/hannsen/qbittorrent_search_plugins/master/ali213.py Download]<br /> [https://github.com/hannsen/qbittorrent_search_plugins#user-content-ali213net--ali213py Readme]
 | Python2 & Python3<br />✔ qbt 4.0.x
 |-
-| [http://bt.3dmgame.com/ bt.3dmgame.com]
+| [[https://raw.githubusercontent.com/hannsen/qbittorrent_search_plugins/master/threedm.png]] [http://bt.3dmgame.com/ bt.3dmgame.com]
 | [https://github.com/hannsen/qbittorrent_search_plugins/ hannsen]
 | 1.04
 | 25/Dec<br />2017
