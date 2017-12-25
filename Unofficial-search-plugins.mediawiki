@@ -24,6 +24,14 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 | [https://raw.githubusercontent.com/v1k45/1337x-qBittorrent-search-plugin/master/leetx.py Download]
 | Python2 & Python3<br />✔ qbt 4.0.x
 |-
+| [http://bt.3dmgame.com/ bt.3dmgame.com]
+| [https://github.com/hannsen/qbittorrent_search_plugins/ hannsen]
+| 1.04
+| 25/Dec<br />2017
+| [[https://github.com/Pireo/hello-world/blob/master/flag_united_kingdom.png]]<br /> [[http://www.cimco.com/wp-content/themes/enfold-child/images/header-chinese-flag.png]]
+| [https://raw.githubusercontent.com/hannsen/qbittorrent_search_plugins/master/threedm.py Download]<br /> [https://github.com/hannsen/qbittorrent_search_plugins#user-content-bt3dmgamecom--threedmpy Readme]
+| Python2 & Python3<br />✔ qbt 4.0.x
+|-
 | [[https://github.com/Pireo/hello-world/blob/master/etree.png]] [http://bt.etree.org/ bt.etree.org]
 | [https://github.com/lima66/Torrents_Plugin/ lima66]
 | 1.00
