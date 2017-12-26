@@ -9,7 +9,7 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 {|
 |-
 !  Search Engine
-!  Author<br/>(Repositorys)
+!  Author<br/>(Repository)
 !  Ver.
 !  Update
 !  Lang.
