@@ -1,6 +1,7 @@
 Here you can find unofficial search engine plugins for qBittorrent that are made available by its users.
 
 = Read First =
+* To install search engine plugins, find this [[Install-search-plugins#steps-to-install-search-plugins-qbittorrent-version-3110-or-more-recent|tutorial]]
 * If you wrote one, you're welcome to add it to these tables.<br /> Please keep the list sorted by <code>Search Engine</code> name.
 * '''If you experience issues with any of the plugins posted here, please report to the author directly.'''<br /> In case the author is unresponsive, you can try to fix it yourself. Then you can edit this wiki page and update the link to your fixed plugin.
 * To write your own search plugins, please follow this [[How-to-write-a-search-plugin|tutorial]].
