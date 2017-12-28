@@ -5,7 +5,7 @@
      1. Save the `.py` file into a temporary location on your local storage
 
 1. Using qBittorrent
-     1. In main window, click on `Search` tab
+     1. Using the main window, click on `Search` tab
      1. Click on `Search engines...` button. Which is located around the bottom right side.
      1. The `Search plugins` window will open. It shows a list of installed search engine plugins.
           1. Click on `Install a new one` button <br>
