@@ -1,8 +1,10 @@
+### Steps to install search plugins qBittorrent version 3.1.10 or more recent
+
 1. Go to https://github.com/qbittorrent/search-plugins/wiki/Unofficial-search-plugins#plugins-for-public-sites
      1. Under `Download` column, click on the appropriate `Download` link
      1. Save the `.py` file into a temporary location on your local storage
 
-1. Using qBittorrent version 3.1.10 or more recent
+1. Using qBittorrent
      1. In main window, click on `Search` tab
      1. Click on `Search engines...` button. Which is located around the bottom right side.
      1. The `Search plugins` window will open. It shows a list of installed search engine plugins.
