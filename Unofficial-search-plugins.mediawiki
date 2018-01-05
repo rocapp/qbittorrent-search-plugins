@@ -208,14 +208,6 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 | [[https://github.com/Pireo/hello-world/blob/master/flag_united_kingdom.png]]
 | [https://raw.githubusercontent.com/ebukari/qbittorrent-plugins/master/torrentfunk.py Download]
 | Python2 & Python3<br />✖ qbt 4.0.x Not Working
-|-
-| [[https://raw.githubusercontent.com/Pireo/hello-world/master/favicons5.png]] [https://zooqle.com/ Zooqle]
-| [https://github.com/ArionMiles/Zooqle-qBittorrent-Plugin ArionMiles]
-| 1.12
-| 04/Apr<br />2016
-| [[https://github.com/Pireo/hello-world/blob/master/flag_united_kingdom.png]]
-| [https://raw.githubusercontent.com/ArionMiles/Zooqle-qBittorrent-Plugin/master/zooqle.py Download]
-| Python2 & Python3<br />✔ qbt 4.0.x
 |}
 
 = Plugins for Private sites =
