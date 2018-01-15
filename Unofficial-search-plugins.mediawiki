@@ -25,6 +25,14 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 | [https://raw.githubusercontent.com/v1k45/1337x-qBittorrent-search-plugin/master/leetx.py Download]
 | Python2 & Python3<br />✔ qbt 4.0.x
 |-
+|[http://academictorrents.com/ Academic Torrents]
+|[https://github.com/solenskiner/search-plugins solenskiner]
+|0.3
+|15/Jan<br />2018
+|[[https://github.com/Pireo/hello-world/blob/master/flag_united_kingdom.png]]
+|[https://raw.githubusercontent.com/solenskiner/search-plugins/master/nova3/engines/academictorrents.py Download]
+|Python3<br />✔ qbt 4.0.x
+|-
 | [[https://raw.githubusercontent.com/hannsen/qbittorrent_search_plugins/master/ali213.png]] [http://down.ali213.net/ ali213.net]
 | [https://github.com/hannsen/qbittorrent_search_plugins/ hannsen]
 | 1.00
