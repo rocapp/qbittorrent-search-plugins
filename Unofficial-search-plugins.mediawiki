@@ -65,6 +65,14 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 | [https://raw.githubusercontent.com/davy39/qbfrench/master/cpasbien.py Download]
 | Python2 & Python3<br />✖ Not Working
 |-
+| [[https://raw.githubusercontent.com/hannsen/qbittorrent_search_plugins/master/demonoid.png]] [http://demonoid.pw/ demonoid.pw]
+| [https://github.com/hannsen/qbittorrent_search_plugins/ hannsen]
+| 1.24
+| 25/Dec<br />2017
+| [[https://github.com/Pireo/hello-world/blob/master/flag_united_kingdom.png]]
+| [https://raw.githubusercontent.com/hannsen/qbittorrent_search_plugins/master/demonoid.py Download]<br /> 
+| Python3<br />✔ qbt 4.0.x
+|-
 | [[https://github.com/Pireo/hello-world/blob/master/divxtotal.png]] [http://www.divxtotal.net/ DivxTotal]
 | [https://github.com/Pireo/hello-world/ Pireo]
 | 1.20
