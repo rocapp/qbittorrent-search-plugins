@@ -269,7 +269,7 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 | 1.00
 | 14/Sep<br />2016
 | [[https://github.com/Pireo/hello-world/blob/master/russia-flag.png]]
-| [https://github.com/alvin1979/qbrutracker Download]
+| [https://raw.githubusercontent.com/alvin1979/qbrutracker/master/qbrutracker.py Download]
 | Python3<br />✖ Not Working
 |-
 | [[https://raw.githubusercontent.com/davy39/qbfrench/master/t411.png]] [http://www.t411.ch T411]
