@@ -68,7 +68,7 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 | [[https://raw.githubusercontent.com/hannsen/qbittorrent_search_plugins/master/demonoid.png]] [http://demonoid.pw/ demonoid.pw]
 | [https://github.com/hannsen/qbittorrent_search_plugins/ hannsen]
 | 1.24
-| 16/Jan<br />2018
+| 25/Dec<br />2017
 | [[https://github.com/Pireo/hello-world/blob/master/flag_united_kingdom.png]]
 | [https://raw.githubusercontent.com/hannsen/qbittorrent_search_plugins/master/demonoid.py Download]<br /> 
 | Python3<br />✔ qbt 4.0.x
