@@ -169,14 +169,6 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 | [https://raw.githubusercontent.com/Pireo/hello-world/master/rutor.py Download]
 | Python3<br />✔ qbt 4.0.x
 |-
-| [[https://github.com/Pireo/hello-world/blob/master/favicon1.png]] [https://skytorrents.in/ Sky Torrents]
-| [https://github.com/MadeOfMagicAndWires/qBit-plugins Made Of Magic<br />And Wires]
-| 1.20
-| 20/May<br />2017
-| [[https://github.com/Pireo/hello-world/blob/master/flag_united_kingdom.png]]
-| [https://raw.githubusercontent.com/MadeOfMagicAndWires/qBit-plugins/master/engines/skytorrents.py Download]
-| Python2 & Python3 <br />✔ qbt 4.0.x
-|-
 | [[https://raw.githubusercontent.com/MadeOfMagicAndWires/qBit-plugins/master/engines/nyaasi.png]] [https://sukebei.nyaa.si/ Sukebei Nyaa]
 | [https://github.com/phuongtailtranminh/qBittorrent-Nyaa-Search-Plugin/ phuongtail<br />tranminh]
 | 1.01
