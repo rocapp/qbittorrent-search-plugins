@@ -150,7 +150,7 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 | 1.1
 | 23/Apr<br />2017
 | [[https://github.com/Pireo/hello-world/blob/master/flag_united_kingdom.png]]
-| [https://raw.githubusercontent.com/lima66/Torrents_Plugin/master/psychocydd.py Download]
+| [https://raw.githubusercontent.com/Pireo/hello-world/master/rockbox.py Download]
 | Python2 & Python3<br />✔ qbt 4.0.x
 |-
 | [[https://raw.githubusercontent.com/hannsen/qbittorrent_search_plugins/master/smallgames.png]] [http://small-games.info/ small-games.info]
