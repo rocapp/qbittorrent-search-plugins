@@ -200,14 +200,6 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 | [[https://github.com/Pireo/hello-world/blob/master/fr.gif]]
 | [https://raw.githubusercontent.com/davy39/qbfrench/master/torrent9.py Download]
 | Python2 & Python3<br />✖ Not Working
-|-
-| [[https://github.com/ebukari/qbittorrent-plugins/blob/master/torrentfunk.png|16px]] [https://torrentfunk.com/ TorrentFunk]
-| [https://github.com/ebukari/qbittorrent-plugins Ezekiel N Bukari]
-| 1.00
-| 7/Sept<br />2017
-| [[https://github.com/Pireo/hello-world/blob/master/flag_united_kingdom.png]]
-| [https://raw.githubusercontent.com/ebukari/qbittorrent-plugins/master/torrentfunk.py Download]
-| Python2 & Python3<br />✖ qbt 4.0.x Not Working
 |}
 
 = Plugins for Private sites =
