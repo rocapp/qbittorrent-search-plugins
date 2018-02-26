@@ -105,7 +105,7 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 | [https://raw.githubusercontent.com/MadeOfMagicAndWires/qBit-plugins/master/engines/linuxtracker.py Download]
 | Python2 & Python3<br />✔ qbt 4.0.x
 |-
-| [[https://raw.githubusercontent.com/hannsen/qbittorrent_search_plugins/master/mkvcage.png]] [http://www.mkvcage.bid/]
+| [[https://raw.githubusercontent.com/hannsen/qbittorrent_search_plugins/master/mkvcage.png]] [http://www.mkvcage.bid/ MkvCage.bid]
 | [https://github.com/hannsen/qbittorrent_search_plugins/ hannsen]
 | 1.00
 | 26/Feb<br />2018
