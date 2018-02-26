@@ -105,6 +105,14 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 | [https://raw.githubusercontent.com/MadeOfMagicAndWires/qBit-plugins/master/engines/linuxtracker.py Download]
 | Python2 & Python3<br />✔ qbt 4.0.x
 |-
+| [[https://raw.githubusercontent.com/hannsen/qbittorrent_search_plugins/master/mkvcage.png]] [http://www.mkvcage.bid/]
+| [https://github.com/hannsen/qbittorrent_search_plugins/ hannsen]
+| 1.00
+| 26/Feb<br />2018
+| [[https://github.com/Pireo/hello-world/blob/master/flag_united_kingdom.png]]
+| [https://raw.githubusercontent.com/hannsen/qbittorrent_search_plugins/master/mkvcage.py Download]
+| Python2 & Python3<br />✔ qbt 4.0.x
+|-
 | [[https://raw.githubusercontent.com/4chenz/pantsu-plugin/master/pantsu.png]] [https://nyaa.pantsu.cat/ Nyaa.Pantsu]
 | [https://github.com/4chenz/pantsu-plugin/ 4chenz]
 | 1.11
@@ -222,7 +230,7 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 | 16/Jan<br />2018
 | [[https://github.com/Pireo/hello-world/blob/master/flag_united_kingdom.png]]
 | [https://raw.githubusercontent.com/hannsen/qbittorrent_search_plugins/master/demonoid.py Download]<br /> 
-| Python3<br />✔ qbt 4.0.x
+| ✖ Not Working as long as private
 |-
 | [[https://raw.githubusercontent.com/adrianmocan/qbittorrent_plugin_filelist.ro/master/favicon.png]] [https://filelist.ro/ FileList]
 | [https://github.com/adrianmocan/qbittorrent_plugin_filelist.ro adrianmocan]
