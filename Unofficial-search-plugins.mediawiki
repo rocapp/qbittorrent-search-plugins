@@ -94,8 +94,8 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 | 3.09
 | 22/July<br />2017
 | [[https://github.com/Pireo/hello-world/blob/master/flag_united_kingdom.png]]
-| [https://raw.githubusercontent.com/lima66/Torrents_Plugin/master/limetorrents_KO.py Download]
-| Python2 & Python3<br />✖ Not Working
+| [https://raw.githubusercontent.com/lima66/Torrents_Plugin/master/limetorrents.py Download]
+| Python2 & Python3<br />✔ qbt 4.0.x
 |-
 | [[https://raw.githubusercontent.com/Pireo/hello-world/master/tux.png]] [http://linuxtracker.org/ Linux Tracker]
 | [https://github.com/MadeOfMagicAndWires/qBit-plugins Made Of Magic<br />And Wires]
