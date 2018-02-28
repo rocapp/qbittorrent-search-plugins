@@ -184,6 +184,7 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 | [[https://github.com/Pireo/hello-world/blob/master/flag_united_kingdom.png]]<br />[[https://github.com/Pireo/hello-world/blob/master/flag_japan.png]]
 | [https://raw.githubusercontent.com/4chenz/pantsu-plugin/master/sukebei.py Download]
 | Python2 & Python 3<br />✔ qbt 4.0.x
+|-
 | [[https://raw.githubusercontent.com/ngosang/qBittorrent-plugins/master/sumotorrent/sumotorrent.png]]
 [http://www.sumotorrent.sx/ SumoTorrent]
 | [https://github.com/ngosang/qBittorrent-plugins ngosang]
