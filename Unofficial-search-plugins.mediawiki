@@ -184,6 +184,14 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 | [[https://github.com/Pireo/hello-world/blob/master/flag_united_kingdom.png]]<br />[[https://github.com/Pireo/hello-world/blob/master/flag_japan.png]]
 | [https://raw.githubusercontent.com/4chenz/pantsu-plugin/master/sukebei.py Download]
 | Python2 & Python 3<br />✔ qbt 4.0.x
+| [[https://raw.githubusercontent.com/ngosang/qBittorrent-plugins/master/sumotorrent/sumotorrent.png]]
+[http://www.sumotorrent.sx/ SumoTorrent]
+| [https://github.com/ngosang/qBittorrent-plugins ngosang]
+| 1.4
+| 28 Feb 2018
+| [[https://github.com/Pireo/hello-world/blob/master/flag_united_kingdom.png]]
+| [https://raw.githubusercontent.com/hannsen/qBittorrent-plugins/8f75f8838fc1a14299d087b7239d6c4e6438db78/sumotorrent/sumotorrent.py Download]
+| Not tested
 |-
 | [[https://raw.githubusercontent.com/ngosang/qBittorrent-plugins/master/tntvillage/tntvillage.png]] [http://www.tntvillage.scambioetico.org/?releaselist TNT Village]
 | [https://github.com/ngosang/qBittorrent-plugins ngosang]
