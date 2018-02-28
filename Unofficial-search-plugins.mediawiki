@@ -105,6 +105,14 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 | [https://raw.githubusercontent.com/MadeOfMagicAndWires/qBit-plugins/master/engines/linuxtracker.py Download]
 | Python2 & Python3<br />✔ qbt 4.0.x
 |-
+| [[https://raw.githubusercontent.com/hannsen/qbittorrent_search_plugins/master/magnetdl.png]] [http://www.magnetdl.com/ MagnetDL.com]
+| [https://github.com/hannsen/qbittorrent_search_plugins/ hannsen]
+| 1.1
+| 28/Feb<br />2018
+| [[https://github.com/Pireo/hello-world/blob/master/flag_united_kingdom.png]]
+| [https://raw.githubusercontent.com/hannsen/qbittorrent_search_plugins/master/magnetdl.py Download]
+| Python2 & Python3<br />✔ qbt 4.0.x
+|-
 | [[https://raw.githubusercontent.com/hannsen/qbittorrent_search_plugins/master/mkvcage.png]] [http://www.mkvcage.bid/ MkvCage.bid]
 | [https://github.com/hannsen/qbittorrent_search_plugins/ hannsen]
 | 1.00
@@ -191,7 +199,7 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 | 1.4
 | 28 Feb 2018
 | [[https://github.com/Pireo/hello-world/blob/master/flag_united_kingdom.png]]
-| [https://raw.githubusercontent.com/hannsen/qBittorrent-plugins/8f75f8838fc1a14299d087b7239d6c4e6438db78/sumotorrent/sumotorrent.py Download]
+| [https://raw.githubusercontent.com/hannsen/qBittorrent-plugins/master/sumotorrent/sumotorrent.py Download]
 | Not tested
 |-
 | [[https://raw.githubusercontent.com/ngosang/qBittorrent-plugins/master/tntvillage/tntvillage.png]] [http://www.tntvillage.scambioetico.org/?releaselist TNT Village]
