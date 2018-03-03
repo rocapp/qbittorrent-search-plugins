@@ -111,7 +111,7 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 | 28/Feb<br />2018
 | [[https://github.com/Pireo/hello-world/blob/master/flag_united_kingdom.png]]
 | [https://raw.githubusercontent.com/hannsen/qbittorrent_search_plugins/master/magnetdl.py Download]
-| Python2 & Python3<br />✔ qbt 4.0.x
+| Python3<br />✔ qbt 4.0.x
 |-
 | [[https://raw.githubusercontent.com/hannsen/qbittorrent_search_plugins/master/mkvcage.png]] [http://www.mkvcage.bid/ MkvCage.bid]
 | [https://github.com/hannsen/qbittorrent_search_plugins/ hannsen]
@@ -119,7 +119,7 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 | 26/Feb<br />2018
 | [[https://github.com/Pireo/hello-world/blob/master/flag_united_kingdom.png]]
 | [https://raw.githubusercontent.com/hannsen/qbittorrent_search_plugins/master/mkvcage.py Download]
-| Python2 & Python3<br />✔ qbt 4.0.x
+| Python3<br />✔ qbt 4.0.x
 |-
 | [[https://raw.githubusercontent.com/4chenz/pantsu-plugin/master/pantsu.png]] [https://nyaa.pantsu.cat/ Nyaa.Pantsu]
 | [https://github.com/4chenz/pantsu-plugin/ 4chenz]
@@ -169,6 +169,14 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 | [https://raw.githubusercontent.com/hannsen/qbittorrent_search_plugins/master/smallgames.py Download]<br /> [https://github.com/hannsen/qbittorrent_search_plugins#user-content-small-gamesinfo--smallgamespy Readme]
 | Python2 & Python3<br />✔ qbt 4.0.x
 |-
+| [[https://raw.githubusercontent.com/hannsen/qbittorrent_search_plugins/master/snowfl.png]] [https://snowfl.com/ snowfl.com]
+| [https://github.com/hannsen/qbittorrent_search_plugins/ hannsen]
+| 1.00
+| 3/Mar<br />2017
+| [[https://github.com/Pireo/hello-world/blob/master/flag_united_kingdom.png]]
+| [https://raw.githubusercontent.com/hannsen/qbittorrent_search_plugins/master/snowfl.py Download]
+| Python3<br />✔ qbt 4.0.x
+|-
 | [[https://raw.githubusercontent.com/mr-mmajoR/myrepo/master/rutor.png]] [http://rutor.info/ Rutor]
 | [https://github.com/Pireo/hello-world/ Pireo]
 | 1.40
@@ -200,7 +208,7 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 | 28 Feb 2018
 | [[https://github.com/Pireo/hello-world/blob/master/flag_united_kingdom.png]]
 | [https://raw.githubusercontent.com/hannsen/qBittorrent-plugins/master/sumotorrent/sumotorrent.py Download]
-| Not tested
+| Python3<br />✔ qbt 4.0.x
 |-
 | [[https://raw.githubusercontent.com/ngosang/qBittorrent-plugins/master/tntvillage/tntvillage.png]] [http://www.tntvillage.scambioetico.org/?releaselist TNT Village]
 | [https://github.com/ngosang/qBittorrent-plugins ngosang]
