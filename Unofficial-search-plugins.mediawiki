@@ -175,7 +175,7 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 | 3/Mar<br />2017
 | [[https://github.com/Pireo/hello-world/blob/master/flag_united_kingdom.png]]
 | [https://raw.githubusercontent.com/hannsen/qbittorrent_search_plugins/master/snowfl.py Download]
-| Python3<br />✔ qbt 4.0.x
+| Python3<br />✖ Not Working
 |-
 | [[https://raw.githubusercontent.com/mr-mmajoR/myrepo/master/rutor.png]] [http://rutor.info/ Rutor]
 | [https://github.com/Pireo/hello-world/ Pireo]
