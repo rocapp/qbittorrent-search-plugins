@@ -137,6 +137,14 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 | [https://raw.githubusercontent.com/kenken28/NyaaPantsu-qBittorrent-Plugin/master/nyaapantsu.py Download]
 | Python2 & Python3<br />✖ qbt 4.0.x Not Working
 |-
+| [[https://raw.githubusercontent.com/MadeOfMagicAndWires/qBit-plugins/master/engines/nyaapantsu.png]] [https://nyaa.pantsu.cat/ Nyaa.pantsu]
+| [https://github.com/MadeOfMagicAndWires/qBit-plugins Made Of Magic<br />And Wires]
+| 1.2
+| 13/March<br />2018
+| [[https://github.com/Pireo/hello-world/blob/master/flag_united_kingdom.png]]<br />[[https://github.com/Pireo/hello-world/blob/master/flag_japan.png]]
+| [https://raw.githubusercontent.com/MadeOfMagicAndWires/qBit-plugins/master/engines/nyaapantsu.py Download]
+| Python2 & Python3 <br />✔ qbt 4.0.x
+|-
 | [[https://raw.githubusercontent.com/MadeOfMagicAndWires/qBit-plugins/master/engines/nyaasi.png]] [https://nyaa.si/ Nyaa.si]
 | [https://github.com/MadeOfMagicAndWires/qBit-plugins Made Of Magic<br />And Wires]
 | 1.00
