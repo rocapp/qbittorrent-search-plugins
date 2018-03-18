@@ -226,6 +226,14 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 | [https://raw.githubusercontent.com/ngosang/qBittorrent-plugins/master/tntvillage/tntvillage.py Download]
 | Python2 & Python3<br />✔ qbt 4.0.x
 |-
+| [[https://raw.githubusercontent.com/BrunoReX/qBittorrent-Search-Plugin-TokyoToshokan/master/tokyotoshokan.png]] [https://tokyotosho.info/index.php Tokyo Toshokan]
+| [https://github.com/BrunoReX/qBittorrent-Search-Plugin-TokyoToshokan BrunoReX]
+| 2.2
+| 18/Mar<br />2018
+| [[https://github.com/Pireo/hello-world/blob/master/flag_united_kingdom.png]]
+| [https://raw.githubusercontent.com/BrunoReX/qBittorrent-Search-Plugin-TokyoToshokan/master/tokyotoshokan.py Download]
+| Python2 & Python3<br />✔ qbt 4.0.x
+|-
 | [[https://raw.githubusercontent.com/davy39/qbfrench/master/torrent9.png]] [http://www.torrent9.cc/ Torrent9]
 | [https://github.com/davy39/qbfrench davy39]
 | 1.10
