@@ -153,10 +153,10 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 | [https://raw.githubusercontent.com/MadeOfMagicAndWires/qBit-plugins/master/engines/nyaasi.py Download]
 | Python2 & Python3 <br />✔ qbt 4.0.x
 |-
-| [[https://raw.githubusercontent.com/b0nk/qbittorrent-search-plugins/master/rarbg.png]] [https://rarbg.to/ RARBG]
+| [[https://raw.githubusercontent.com/b0nk/qbittorrent-search-plugins/master/rarbg.png]] [https://rarbg.is/ RARBG]
 | [https://github.com/b0nk/qbittorrent-search-plugins/ b0nk]
-| 1.13
-| 28/July<br />2017
+| 1.14
+| 21/March<br />2018
 | [[https://github.com/Pireo/hello-world/blob/master/flag_united_kingdom.png]]
 | [https://raw.githubusercontent.com/b0nk/qbittorrent-search-plugins/master/rarbg.py Download]
 | Python2 & Python3<br />✔ qbt 4.0.x
