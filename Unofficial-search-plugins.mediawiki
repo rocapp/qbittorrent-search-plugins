@@ -275,11 +275,11 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 |-
 | [[https://raw.githubusercontent.com/adrianmocan/qbittorrent_plugin_filelist.ro/master/favicon.png]] [https://filelist.ro/ FileList]
 | [https://github.com/adrianmocan/qbittorrent_plugin_filelist.ro adrianmocan]
-| 1.00
-| 10/Jun<br />2015
+| 2.30
+| 30/Sep<br />2017
 | [[https://github.com/Pireo/hello-world/blob/master/ro.gif]]
-| [https://github.com/adrianmocan/qbittorrent_plugin_filelist.ro/blob/master/filelist_ro/filelist.py Download]<br />[https://github.com/adrianmocan/qbittorrent_plugin_filelist.ro/blob/master/filelist_ro/filelist.INSTALL_en.txt README]
-| Python2<br />(?) Not Tested
+| [https://github.com/akaleeroy/qbittorrent_plugin_filelist.ro/blob/bug-sizeunits/filelist_ro/filelist.py Download]<br />[https://github.com/adrianmocan/qbittorrent_plugin_filelist.ro/blob/master/filelist_ro/filelist.INSTALL_en.txt README]
+| Python2<br />✔ qbt 4.0.x
 |-
 | [[https://raw.githubusercontent.com/Skymirrh/qBittorrent-rutracker-plugin/master/rutracker.png]] [http://rutracker.org/ RuTracker]
 | [https://github.com/Skymirrh/qBittorrent-rutracker-plugin Skymirrh]
