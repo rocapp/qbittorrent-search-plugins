@@ -22,7 +22,7 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 | 1.20
 | 19/Aug<br />2017
 | [[https://github.com/Pireo/hello-world/blob/master/flag_united_kingdom.png]]
-| [https://raw.githubusercontent.com/v1k45/1337x-qBittorrent-search-plugin/master/leetx.py Download]
+| [https://raw.githubusercontent.com/v1k45/1337x-qBittorrent-search-plugin/master/leetx.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | Python2 & Python3<br />✔ qbt 4.0.x
 |-
 |[http://academictorrents.com/ Academic Torrents]
