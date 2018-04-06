@@ -231,7 +231,7 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 | [https://github.com/MadeOfMagicAndWires/qBit-plugins Made Of Magic<br />And Wires]
 | 1.30
 | 13/Apr<br />2017
-| [https://github.com/MadeOfMagicAndWires/qBit-plugin/blob/master/engines/bakabt.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]<br />[https://github.com/MadeOfMagicAndWires/qBit-plugins/blob/master/README.md [[https://github.com/Pireo/hello-world/blob/master/Help%20book.gif]] ]
+| [https://raw.githubusercontent.com/MadeOfMagicAndWires/qBit-plugins/master/engines/bakabt.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]<br />[https://github.com/MadeOfMagicAndWires/qBit-plugins/blob/master/README.md [[https://github.com/Pireo/hello-world/blob/master/Help%20book.gif]] ]
 | Python2 & Python3<br />(?) Not Tested
 |-
 | [[https://raw.githubusercontent.com/hannsen/qbittorrent_search_plugins/master/demonoid.png]] [http://demonoid.pw/ Demonoid]
@@ -245,7 +245,7 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 | [https://github.com/adrianmocan/qbittorrent_plugin_filelist.ro adrianmocan]
 | 2.30
 | 30/Sep<br />2017
-| [https://github.com/adrianmocan/qbittorrent_plugin_filelist.ro/blob/master/filelist_ro/filelist.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]<br />[https://github.com/adrianmocan/qbittorrent_plugin_filelist.ro/blob/master/filelist_ro/filelist.INSTALL_en.txt [[https://github.com/Pireo/hello-world/blob/master/Help%20book.gif]] ]
+| [https://raw.githubusercontent.com/adrianmocan/qbittorrent_plugin_filelist.ro/master/filelist_ro/filelist.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]<br />[https://github.com/adrianmocan/qbittorrent_plugin_filelist.ro/blob/master/filelist_ro/filelist.INSTALL_en.txt [[https://github.com/Pireo/hello-world/blob/master/Help%20book.gif]] ]
 | Python2<br />✔ qbt 4.0.x
 |-
 | [[https://raw.githubusercontent.com/Skymirrh/qBittorrent-rutracker-plugin/master/rutracker.png]] [http://rutracker.org/ RuTracker]
