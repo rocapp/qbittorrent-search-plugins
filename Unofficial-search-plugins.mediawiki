@@ -93,14 +93,14 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 | [https://raw.githubusercontent.com/MadeOfMagicAndWires/qBit-plugins/master/engines/linuxtracker.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | Python2 & Python3<br />✔ qbt 4.0.x
 |-
-| [[https://raw.githubusercontent.com/hannsen/qbittorrent_search_plugins/master/magnetdl.png]] [http://www.magnetdl.com/ MagnetDL.com]
+| [[https://raw.githubusercontent.com/hannsen/qbittorrent_search_plugins/master/magnetdl.png]] [http://www.magnetdl.com/ MagnetDL]
 | [https://github.com/hannsen/qbittorrent_search_plugins/ hannsen]
 | 1.1
 | 28/Feb<br />2018
 | [https://raw.githubusercontent.com/hannsen/qbittorrent_search_plugins/master/magnetdl.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | Python3<br />✔ qbt 4.0.x
 |-
-| [[https://raw.githubusercontent.com/hannsen/qbittorrent_search_plugins/master/mkvcage.png]] [http://www.mkvcage.bid/ MkvCage.bid]
+| [[https://raw.githubusercontent.com/hannsen/qbittorrent_search_plugins/master/mkvcage.png]] [http://www.mkvcage.bid/ MkvCage]
 | [https://github.com/hannsen/qbittorrent_search_plugins/ hannsen]
 | 1.00
 | 26/Feb<br />2018
@@ -234,7 +234,7 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 | [https://github.com/MadeOfMagicAndWires/qBit-plugin/blob/master/engines/bakabt.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]<br />[https://github.com/MadeOfMagicAndWires/qBit-plugins/blob/master/README.md [[https://github.com/Pireo/hello-world/blob/master/Help%20book.gif]] ]
 | Python2 & Python3<br />(?) Not Tested
 |-
-| [[https://raw.githubusercontent.com/hannsen/qbittorrent_search_plugins/master/demonoid.png]] [http://demonoid.pw/ demonoid.pw]
+| [[https://raw.githubusercontent.com/hannsen/qbittorrent_search_plugins/master/demonoid.png]] [http://demonoid.pw/ Demonoid]
 | [https://github.com/hannsen/qbittorrent_search_plugins/ hannsen]
 | 1.25
 | 16/Jan<br />2018
