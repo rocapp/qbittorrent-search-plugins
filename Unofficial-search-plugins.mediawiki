@@ -163,7 +163,7 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 | [https://raw.githubusercontent.com/hannsen/qbittorrent_search_plugins/master/snowfl.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | Python3<br />✖ Not Working
 |-
-| [[https://raw.githubusercontent.com/mr-mmajoR/myrepo/master/rutor.png]] [http://rutor.info/ Rutor]
+| [[http://s.rutor.info/favicon.ico]] [http://rutor.info/ Rutor]
 | [https://github.com/Pireo/hello-world/ Pireo]
 | 1.40
 | 23/Jan<br />2017
