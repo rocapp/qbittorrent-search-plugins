@@ -14,7 +14,7 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 !  Ver.
 !  Update
 !  Lang.
-!  Download
+!  Links
 !  Comment
 |-
 | [[https://raw.githubusercontent.com/v1k45/1337x-qBittorrent-search-plugin/master/leetx.png]] [https://1337x.to/ 1337x]
@@ -38,7 +38,7 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 | 1.00
 | 25/Dec<br />2017
 | [[https://github.com/Pireo/hello-world/blob/master/flag_united_kingdom.png]]<br /> [[http://www.cimco.com/wp-content/themes/enfold-child/images/header-chinese-flag.png]]
-| [https://raw.githubusercontent.com/hannsen/qbittorrent_search_plugins/master/ali213.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]<br /> [https://github.com/hannsen/qbittorrent_search_plugins#user-content-ali213net--ali213py Readme]
+| [https://raw.githubusercontent.com/hannsen/qbittorrent_search_plugins/master/ali213.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]<br /> [https://github.com/hannsen/qbittorrent_search_plugins#user-content-ali213net--ali213py [[https://github.com/Pireo/hello-world/blob/master/Help%20book.gif]] ]
 | Python2 & Python3<br />✔ qbt 4.0.x
 |-
 | [[https://raw.githubusercontent.com/hannsen/qbittorrent_search_plugins/master/threedm.png]] [http://bt.3dmgame.com/ bt.3dmgame.com]
@@ -46,7 +46,7 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 | 1.04
 | 25/Dec<br />2017
 | [[https://github.com/Pireo/hello-world/blob/master/flag_united_kingdom.png]]<br /> [[http://www.cimco.com/wp-content/themes/enfold-child/images/header-chinese-flag.png]]
-| [https://raw.githubusercontent.com/hannsen/qbittorrent_search_plugins/master/threedm.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]<br /> [https://github.com/hannsen/qbittorrent_search_plugins#user-content-bt3dmgamecom--threedmpy Readme]
+| [https://raw.githubusercontent.com/hannsen/qbittorrent_search_plugins/master/threedm.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]<br /> [https://github.com/hannsen/qbittorrent_search_plugins#user-content-bt3dmgamecom--threedmpy [[https://github.com/Pireo/hello-world/blob/master/Help%20book.gif]] ]
 | Python2 & Python3<br />✔ qbt 4.0.x
 |-
 | [[https://github.com/Pireo/hello-world/blob/master/etree.png]] [http://bt.etree.org/ bt.etree.org]
@@ -174,7 +174,7 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 | 1.00
 | 25/Dec<br />2017
 | [[https://github.com/Pireo/hello-world/blob/master/flag_united_kingdom.png]]<br /> [[https://github.com/Pireo/hello-world/blob/master/russia-flag.png]]
-| [https://raw.githubusercontent.com/hannsen/qbittorrent_search_plugins/master/smallgames.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]<br /> [https://github.com/hannsen/qbittorrent_search_plugins#user-content-small-gamesinfo--smallgamespy Readme]
+| [https://raw.githubusercontent.com/hannsen/qbittorrent_search_plugins/master/smallgames.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]<br /> [https://github.com/hannsen/qbittorrent_search_plugins#user-content-small-gamesinfo--smallgamespy [[https://github.com/Pireo/hello-world/blob/master/Help%20book.gif]] ]
 | Python2 & Python3<br />✔ qbt 4.0.x
 |-
 | [[https://raw.githubusercontent.com/hannsen/qbittorrent_search_plugins/master/snowfl.png]] [https://snowfl.com/ snowfl.com]
@@ -262,7 +262,7 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 | 1.30
 | 13/Apr<br />2017
 | [[https://github.com/Pireo/hello-world/blob/master/flag_united_kingdom.png]]<br />[[https://github.com/Pireo/hello-world/blob/master/flag_japan.png]]
-| [https://github.com/MadeOfMagicAndWires/qBit-plugin/blob/master/engines/bakabt.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]<br />[https://github.com/MadeOfMagicAndWires/qBit-plugins/blob/master/README.md README]
+| [https://github.com/MadeOfMagicAndWires/qBit-plugin/blob/master/engines/bakabt.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]<br />[https://github.com/MadeOfMagicAndWires/qBit-plugins/blob/master/README.md [[https://github.com/Pireo/hello-world/blob/master/Help%20book.gif]] ]
 | Python2 & Python3<br />(?) Not Tested
 |-
 | [[https://raw.githubusercontent.com/hannsen/qbittorrent_search_plugins/master/demonoid.png]] [http://demonoid.pw/ demonoid.pw]
@@ -278,7 +278,7 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 | 2.30
 | 30/Sep<br />2017
 | [[https://github.com/Pireo/hello-world/blob/master/ro.gif]]
-| [https://github.com/adrianmocan/qbittorrent_plugin_filelist.ro/blob/master/filelist_ro/filelist.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]<br />[https://github.com/adrianmocan/qbittorrent_plugin_filelist.ro/blob/master/filelist_ro/filelist.INSTALL_en.txt README]
+| [https://github.com/adrianmocan/qbittorrent_plugin_filelist.ro/blob/master/filelist_ro/filelist.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]<br />[https://github.com/adrianmocan/qbittorrent_plugin_filelist.ro/blob/master/filelist_ro/filelist.INSTALL_en.txt [[https://github.com/Pireo/hello-world/blob/master/Help%20book.gif]] ]
 | Python2<br />✔ qbt 4.0.x
 |-
 | [[https://raw.githubusercontent.com/Skymirrh/qBittorrent-rutracker-plugin/master/rutracker.png]] [http://rutracker.org/ RuTracker]
@@ -286,7 +286,7 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 | 1.1.2
 | 26/Dec<br />2017
 | [[https://github.com/Pireo/hello-world/blob/master/russia-flag.png]]
-| [https://raw.githubusercontent.com/Skymirrh/qBittorrent-rutracker-plugin/master/rutracker.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]<br />[https://github.com/Skymirrh/qBittorrent-rutracker-plugin/blob/master/README.md README]
+| [https://raw.githubusercontent.com/Skymirrh/qBittorrent-rutracker-plugin/master/rutracker.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]<br />[https://github.com/Skymirrh/qBittorrent-rutracker-plugin/blob/master/README.md [[https://github.com/Pireo/hello-world/blob/master/Help%20book.gif]] ]
 | Python2 & Python3<br />✔ qbt 4.0.x
 |-
 | [[https://raw.githubusercontent.com/Skymirrh/qBittorrent-rutracker-plugin/master/rutracker.png]] [http://rutracker.org/ RuTracker]
@@ -302,7 +302,7 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 | 1.20
 | 11/Aug<br />2016
 | [[https://github.com/Pireo/hello-world/blob/master/fr.gif]]
-| [https://raw.githubusercontent.com/davy39/qbfrench/master/t411.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]<br />[https://github.com/davy39/qbfrench/wiki README]
+| [https://raw.githubusercontent.com/davy39/qbfrench/master/t411.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]<br />[https://github.com/davy39/qbfrench/wiki [[https://github.com/Pireo/hello-world/blob/master/Help%20book.gif]] ]
 | Python2 & Python3<br />✖ Not Working
 |}
 ''*All files'' is a tarball (.tar.gz) containing script, icon, README & INSTALL files.
