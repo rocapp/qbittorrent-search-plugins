@@ -124,7 +124,7 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 | [[https://raw.githubusercontent.com/MadeOfMagicAndWires/qBit-plugins/master/engines/nyaapantsu.png]] [https://nyaa.pantsu.cat/ Nyaa.pantsu]
 | [https://github.com/MadeOfMagicAndWires/qBit-plugins Made Of Magic<br />And Wires]
 | 1.2
-| 13/March<br />2018
+| 13/Mar<br />2018
 | [https://raw.githubusercontent.com/MadeOfMagicAndWires/qBit-plugins/master/engines/nyaapantsu.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | Python2 & Python3 <br />✔ qbt 4.0.x
 |-
@@ -138,7 +138,7 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 | [[https://raw.githubusercontent.com/b0nk/qbittorrent-search-plugins/master/rarbg.png]] [https://rarbg.is/ RARBG]
 | [https://github.com/b0nk/qbittorrent-search-plugins/ b0nk]
 | 1.14
-| 21/March<br />2018
+| 21/Mar<br />2018
 | [https://raw.githubusercontent.com/b0nk/qbittorrent-search-plugins/master/rarbg.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | Python2 & Python3<br />✔ qbt 4.0.x
 |-
