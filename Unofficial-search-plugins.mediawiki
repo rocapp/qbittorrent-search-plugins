@@ -137,8 +137,8 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 |-
 | [[https://raw.githubusercontent.com/b0nk/qbittorrent-search-plugins/master/rarbg.png]] [https://rarbg.is/ RARBG]
 | [https://github.com/b0nk/qbittorrent-search-plugins/ b0nk]
-| 1.14
-| 21/Mar<br />2018
+| 1.3
+| 17/Apr<br />2018
 | [https://raw.githubusercontent.com/b0nk/qbittorrent-search-plugins/master/rarbg.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | Python2 & Python3<br />✔ qbt 4.0.x
 |-
