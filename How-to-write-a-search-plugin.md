@@ -36,7 +36,7 @@ And it would be a good idea to follow style guide: [PEP 8 - Style Guide for Pyth
 
 # Plugins Specification
 ## Search Results Format
-First, you must understand that a qBittorrent search engine plugin is actually a Python class file whose task is to contact a search engine website (e.g. [Mininova.org](http://www.mininova.org)), parse the results display by the web page and print them on stdout with the following syntax:
+First, you must understand that a qBittorrent search engine plugin is actually a Python class file whose task is to contact a search engine website (e.g. [Mininova.org](http://www.mininova.org)), parse the results displayed by the web page and print them on stdout with the following syntax:
 ```
 link|name|size|seeds|leech|engine_url
 ```
