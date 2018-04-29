@@ -58,6 +58,13 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 | [https://raw.githubusercontent.com/davy39/qbfrench/master/cpasbien.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | Python2 & Python3<br />✖ Not Working
 |-
+| [[https://raw.githubusercontent.com/hannsen/qbittorrent_search_plugins/master/demonoid.png]] [http://demonoid.pw/ Demonoid]
+| [https://github.com/hannsen/qbittorrent_search_plugins/ hannsen]
+| 1.5
+| 29/Apr<br />2018
+| [https://raw.githubusercontent.com/hannsen/qbittorrent_search_plugins/master/demonoid.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]<br /> 
+| Python2 & Python3<br />✔ qbt 4.0.x
+|-
 | [[https://github.com/Pireo/hello-world/blob/master/divxtotal.png]] [http://www.divxtotal.net/ DivxTotal]
 | [https://github.com/Pireo/hello-world/ Pireo]
 | 1.20
@@ -233,13 +240,6 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 | 13/Apr<br />2017
 | [https://raw.githubusercontent.com/MadeOfMagicAndWires/qBit-plugins/master/engines/bakabt.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]<br />[https://github.com/MadeOfMagicAndWires/qBit-plugins/blob/master/README.md [[https://github.com/Pireo/hello-world/blob/master/Help%20book.gif]] ]
 | Python2 & Python3<br />(?) Not Tested
-|-
-| [[https://raw.githubusercontent.com/hannsen/qbittorrent_search_plugins/master/demonoid.png]] [http://demonoid.pw/ Demonoid]
-| [https://github.com/hannsen/qbittorrent_search_plugins/ hannsen]
-| 1.25
-| 16/Jan<br />2018
-| [https://raw.githubusercontent.com/hannsen/qbittorrent_search_plugins/master/demonoid.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]<br /> 
-| ✖ Not Working as long as private
 |-
 | [[https://raw.githubusercontent.com/adrianmocan/qbittorrent_plugin_filelist.ro/master/favicon.png]] [https://filelist.ro/ FileList]
 | [https://github.com/adrianmocan/qbittorrent_plugin_filelist.ro adrianmocan]
