@@ -60,8 +60,8 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 |-
 | [[https://raw.githubusercontent.com/hannsen/qbittorrent_search_plugins/master/demonoid.png]] [http://demonoid.pw/ Demonoid]
 | [https://github.com/hannsen/qbittorrent_search_plugins/ hannsen]
-| 1.5
-| 29/Apr<br />2018
+| 2.0
+| 26/May<br />2018
 | [https://raw.githubusercontent.com/hannsen/qbittorrent_search_plugins/master/demonoid.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]<br /> 
 | Python2 & Python3<br />✔ qbt 4.0.x
 |-
@@ -102,7 +102,7 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 |-
 | [[https://raw.githubusercontent.com/hannsen/qbittorrent_search_plugins/master/magnetdl.png]] [http://www.magnetdl.com/ MagnetDL]
 | [https://github.com/hannsen/qbittorrent_search_plugins/ hannsen]
-| 1.1
+| 1.2
 | 28/Feb<br />2018
 | [https://raw.githubusercontent.com/hannsen/qbittorrent_search_plugins/master/magnetdl.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | Python3<br />✔ qbt 4.0.x
