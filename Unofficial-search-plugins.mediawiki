@@ -65,13 +65,6 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 | [https://raw.githubusercontent.com/hannsen/qbittorrent_search_plugins/master/demonoid.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]<br /> 
 | Python2 & Python3<br />✔ qbt 4.0.x
 |-
-| [[https://github.com/Pireo/hello-world/blob/master/divxtotal.png]] [http://www.divxtotal.net/ DivxTotal]
-| [https://github.com/Pireo/hello-world/ Pireo]
-| 1.20
-| 04/May<br />2017
-| [https://raw.githubusercontent.com/Pireo/hello-world/master/divxtotal.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
-| Python2<br />(?) Not Tested
-|-
 | [[https://raw.githubusercontent.com/Pireo/hello-world/23513d5befe55a84a6f969e7888a3d084d0b54bf/images.png]] [http://ilcorsaronero.info IlCorsaroNero]
 | [https://github.com/lima66/Torrents_Plugin/ lima66]
 | 1.00
