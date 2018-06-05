@@ -98,7 +98,7 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 | 1.00
 | 12/Apr<br />2017
 | [https://raw.githubusercontent.com/MadeOfMagicAndWires/qBit-plugins/master/engines/linuxtracker.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
-| Python2 & Python3<br />✔ qbt 4.0.x
+| Python2 & Python3<br />✖ Not Working
 |-
 | [[https://raw.githubusercontent.com/hannsen/qbittorrent_search_plugins/master/magnetdl.png]] [http://www.magnetdl.com/ MagnetDL]
 | [https://github.com/hannsen/qbittorrent_search_plugins/ hannsen]
