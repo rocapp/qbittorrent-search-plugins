@@ -213,6 +213,13 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 | [https://raw.githubusercontent.com/davy39/qbfrench/master/torrent9.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | Python2 & Python3<br />✖ Not Working
 |-
+| [https://www.torrentfunk.com/ TorrentFunk]
+| [https://github.com/ebukari Ezekiel N Bukari]
+| 0.1
+| 13/Jun/18
+| [https://raw.githubusercontent.com/ebukari/qbittorrent-plugins/master/torrentfunk.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
+| Python2 & Python3<br />✔ qbt 4.0.x
+|-
 | [[https://www.google.com/s2/favicons?domain=skytorrents.lol#.png]] [https://www.skytorrents.lol/ SkyTorrents.lol]
 | [https://gist.github.com/kernc/67c939c57edb7dd057b3abf9f159598a kernc]
 | 2.0
