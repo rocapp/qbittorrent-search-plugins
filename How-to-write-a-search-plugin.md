@@ -74,9 +74,9 @@ from novaprinter import prettyPrinter
 import sgmllib
 # some other imports if necessary
 
-class EngineName(object):
+class engine_name(object):
     """
-    `url`, `name`, `supported_categories` should be static variables of the EngineName class,
+    `url`, `name`, `supported_categories` should be static variables of the engine_name class,
      otherwise qbt won't install the plugin.
 
     `url`: The URL of the search engine.
