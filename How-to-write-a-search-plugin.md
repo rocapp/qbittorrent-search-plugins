@@ -75,11 +75,17 @@ import sgmllib
 # some other imports if necessary
 
 class EngineName(object):
-    url = 'http://www.engine-url.org'
-    name = 'Full engine name' # spaces and special characters are allowed here
+    """
+    `url`, `name`, `supported_categories` should be static variables of the EngineName class,
+     otherwise qbt won't install the plugin.
 
-    # Which search categories are supported by this search engine and their corresponding id
-    # Possible categories are ('all', 'movies', 'tv', 'music', 'games', 'anime', 'software', 'pictures', 'books')
+    `url`: The URL of the search engine.
+    `name`: The name of the search engine, spaces and special characters are allowed here.
+    `supported_categories`: What categories are supported by the search engine and their corresponding id,
+    possible categories are ('all', 'movies', 'tv', 'music', 'games', 'anime', 'software', 'pictures', 'books').
+    """
+    url = 'http://www.engine-url.org'
+    name = 'Full engine name'
     supported_categories = {'all': '0', 'movies': '6', 'tv': '4', 'music': '1', 'games': '2', 'anime': '7', 'software': '3'}
 
     def __init__(self):
@@ -105,7 +111,7 @@ class EngineName(object):
 
         Here you can do what you want to get the result from the search engine website.
         Everytime you parse a result line, store it in a dictionary
-        and call the prettyPrint(your_dict) function
+        and call the prettyPrint(your_dict) function.
         """
 
 ```
