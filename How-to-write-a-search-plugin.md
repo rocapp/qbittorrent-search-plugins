@@ -106,12 +106,12 @@ class EngineName(object):
     # This function will be the one called by nova2.py
     def search(self, what, cat='all'):
         """
-        `what` is a string with the search tokens, already escaped (e.g. "Ubuntu+Linux")
-        `cat` is the name of a search category in ('all', 'movies', 'tv', 'music', 'games', 'anime', 'software', 'pictures', 'books')
-
         Here you can do what you want to get the result from the search engine website.
         Everytime you parse a result line, store it in a dictionary
         and call the prettyPrint(your_dict) function.
+
+        `what` is a string with the search tokens, already escaped (e.g. "Ubuntu+Linux")
+        `cat` is the name of a search category in ('all', 'movies', 'tv', 'music', 'games', 'anime', 'software', 'pictures', 'books')
         """
 
 ```
