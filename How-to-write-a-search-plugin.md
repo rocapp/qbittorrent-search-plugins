@@ -66,51 +66,59 @@ Here is the basic structure of engine_name.py:
 ```python
 #VERSION: 1.00
 #AUTHORS: YOUR_NAME (YOUR_MAIL)
+
 # LICENSING INFORMATION
+
+from helpers import download_file, retrieve_url
 from novaprinter import prettyPrinter
-from helpers import retrieve_url, download_file
 import sgmllib
-
 # some other imports if necessary
-class engine_name(object):
-  url = 'http://www.engine-url.org'
-  name = 'Full engine name' # spaces and special characters are allowed here
-  # Which search categories are supported by this search engine and their corresponding id
-  # Possible categories are ('all', 'movies', 'tv', 'music', 'games', 'anime', 'software', 'pictures', 'books')
-  supported_categories = {'all': '0', 'movies': '6', 'tv': '4', 'music': '1', 'games': '2', 'anime': '7', 'software': '3'}
 
-  def __init__(self):
-    # some initialization
+class EngineName(object):
+    url = 'http://www.engine-url.org'
+    name = 'Full engine name' # spaces and special characters are allowed here
 
-  def download_torrent(self, info):
-    # Providing this function is optional. It can however be interesting to provide
-    # your own torrent download implementation in case the search engine in question
-    # does not allow traditional downloads (for example, cookie-based download).
-    print download_file(info)
+    # Which search categories are supported by this search engine and their corresponding id
+    # Possible categories are ('all', 'movies', 'tv', 'music', 'games', 'anime', 'software', 'pictures', 'books')
+    supported_categories = {'all': '0', 'movies': '6', 'tv': '4', 'music': '1', 'games': '2', 'anime': '7', 'software': '3'}
 
-  # DO NOT CHANGE the name and parameters of this function
-  # This function will be the one called by nova2.py
-  def search(self, what, cat='all'):
-    # what is a string with the search tokens, already escaped (e.g. "Ubuntu+Linux")
-    # cat is the name of a search category in ('all', 'movies', 'tv', 'music', 'games', 'anime', 'software', 'pictures', 'books')
-    #
-    # Here you can do what you want to get the result from the
-    # search engine website.
-    # everytime you parse a result line, store it in a dictionary
-    # and call the prettyPrint(your_dict) function
+    def __init__(self):
+        """
+        some initialization
+        """
+
+    def download_torrent(self, info):
+        """
+        Providing this function is optional.
+        It can however be interesting to provide your own torrent download
+        implementation in case the search engine in question does not allow
+        traditional downloads (for example, cookie-based download).
+        """
+        print download_file(info)
+
+    # DO NOT CHANGE the name and parameters of this function
+    # This function will be the one called by nova2.py
+    def search(self, what, cat='all'):
+        """
+        `what` is a string with the search tokens, already escaped (e.g. "Ubuntu+Linux")
+        `cat` is the name of a search category in ('all', 'movies', 'tv', 'music', 'games', 'anime', 'software', 'pictures', 'books')
+
+        Here you can do what you want to get the result from the search engine website.
+        Everytime you parse a result line, store it in a dictionary
+        and call the prettyPrint(your_dict) function
+        """
+
 ```
 
-**PLEASE note that the filename (without .py extension) must be identical to the class name. Otherwise, qBittorrent will refuse to install it!**
+** PLEASE note that the filename (without .py extension) must be identical to the class name. Otherwise, qBittorrent will refuse to install it!**
 
 ## Parsing Results from Web Pages
 After downloading the content of the web page containing the results (using `retrieve_url()`), you will want to parse it in order to create a `dict` per search result and call `prettyPrint(your_dict)` function to display it on stdout (in a format understandable by qBittorrent).
 
 In order to parse the pages, you can use the following python modules (not exhaustive):
-* **[ADVISED METHOD]** [HTMLParser](https://docs.python.org/2/library/htmlparser.html) / [html.parser](https://docs.python.org/3/library/html.parser.html): Builtin python parser which replaces deprecated SGMLParser. Mostly similar to the SMGLParser 
+* **[ADVISED METHOD]** [HTMLParser](https://docs.python.org/2/library/htmlparser.html) / [html.parser](https://docs.python.org/3/library/html.parser.html): Builtin python parser which replaces deprecated SGMLParser. Mostly similar to the SMGLParser
 * `xml.dom.minidom`: XML parser. Be careful, this parser is very sensitive and the website must be fully XHTML compliant for this to work.
 * `re`: If you like using regular expressions (regex)
-
-
 
 Note that the size is in provided bytes.
 
