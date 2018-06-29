@@ -257,7 +257,7 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 |-
 | [[https://raw.githubusercontent.com/hannsen/qbittorrent_search_plugins/master/jackett.png]] [https://github.com/Jackett/Jackett/ Jackett]
 | [https://github.com/hannsen/qbittorrent_search_plugins/ ukharley, hannsen]
-| 1.06
+| 1.10
 | 29/May<br />2018
 | [https://raw.githubusercontent.com/hannsen/qbittorrent_search_plugins/master/jackett.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]<br /> [https://github.com/hannsen/qbittorrent_search_plugins#user-content-jackett--jackettpy [[https://github.com/Pireo/hello-world/blob/master/Help%20book.gif]] ]
 | Python2 & Python3<br />✔ qbt 4.0.x
