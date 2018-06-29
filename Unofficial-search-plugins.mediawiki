@@ -149,6 +149,21 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 | [https://raw.githubusercontent.com/Pireo/hello-world/master/rockbox.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | Python2 & Python3<br />✔ qbt 4.0.x
 |-
+| [[https://github.com/Pireo/hello-world/blob/master/rutor.png]] [http://rutor.info/ Rutor]
+| [https://github.com/Pireo/hello-world/ Pireo]
+| 1.40
+| 23/Jan<br />2017
+| [https://raw.githubusercontent.com/Pireo/hello-world/master/rutor.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
+| Python3<br />✔ qbt 4.0.x
+|-
+| [[https://www.google.com/s2/favicons?domain=skytorrents.lol#.png]] [https://www.skytorrents.lol/ SkyTorrents.lol]
+| [https://gist.github.com/kernc/67c939c57edb7dd057b3abf9f159598a kernc]
+| 2.0
+| 11/Jun<br />2018
+| [https://gist.githubusercontent.com/kernc/67c939c57edb7dd057b3abf9f159598a/raw/09c0099fc8cd8bd2326e5881a8f77c2dffb8e16b/skytorrents.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
+| Python2 & Python3<br />✔ qbt 3.3.x+
+|}
+|-
 | [[https://raw.githubusercontent.com/hannsen/qbittorrent_search_plugins/master/smallgames.png]] [http://small-games.info/ small-games.info]
 | [https://github.com/hannsen/qbittorrent_search_plugins/ hannsen]
 | 1.00
@@ -162,13 +177,6 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 | 3/Mar<br />2017
 | [https://raw.githubusercontent.com/hannsen/qbittorrent_search_plugins/master/snowfl.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | Python3<br />✖ Not Working
-|-
-| [[https://github.com/Pireo/hello-world/blob/master/rutor.png]] [http://rutor.info/ Rutor]
-| [https://github.com/Pireo/hello-world/ Pireo]
-| 1.40
-| 23/Jan<br />2017
-| [https://raw.githubusercontent.com/Pireo/hello-world/master/rutor.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
-| Python3<br />✔ qbt 4.0.x
 |-
 | [[https://raw.githubusercontent.com/MadeOfMagicAndWires/qBit-plugins/master/engines/nyaasi.png]] [https://sukebei.nyaa.si/ Sukebei Nyaa]
 | [https://github.com/phuongtailtranminh/qBittorrent-Nyaa-Search-Plugin/ phuongtail<br />tranminh]
@@ -219,14 +227,7 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 | 13/Jun/18
 | [https://raw.githubusercontent.com/ebukari/qbittorrent-plugins/master/torrentfunk.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | Python2 & Python3<br />✔ qbt 4.0.x
-|-
-| [[https://www.google.com/s2/favicons?domain=skytorrents.lol#.png]] [https://www.skytorrents.lol/ SkyTorrents.lol]
-| [https://gist.github.com/kernc/67c939c57edb7dd057b3abf9f159598a kernc]
-| 2.0
-| 11/Jun<br />2018
-| [https://gist.githubusercontent.com/kernc/67c939c57edb7dd057b3abf9f159598a/raw/09c0099fc8cd8bd2326e5881a8f77c2dffb8e16b/skytorrents.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
-| Python2 & Python3<br />✔ qbt 3.3.x+
-|}
+
 
 = Plugins for Private sites =
 * These scripts probably require editing before you can use them.
