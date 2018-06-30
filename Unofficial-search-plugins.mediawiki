@@ -114,13 +114,6 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 | [https://raw.githubusercontent.com/4chenz/pantsu-plugin/master/pantsu.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | Python2 & Python3<br />✔ qbt 4.0.x
 |-
-| [[https://github.com/kenken28/NyaaPantsu-qBittorrent-Plugin/raw/master/nyaapantsu.png]] [https://nyaa.pantsu.cat/ Nyaa.Pantsu]
-| [https://github.com/kenken28/NyaaPantsu-qBittorrent-Plugin/ kenken28]
-| 1.05
-| 24/Jun<br />2017
-| [https://raw.githubusercontent.com/kenken28/NyaaPantsu-qBittorrent-Plugin/master/nyaapantsu.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
-| Python2 & Python3<br />✖ qbt 4.0.x Not Working
-|-
 | [[https://raw.githubusercontent.com/MadeOfMagicAndWires/qBit-plugins/master/engines/nyaapantsu.png]] [https://nyaa.pantsu.cat/ Nyaa.pantsu]
 | [https://github.com/MadeOfMagicAndWires/qBit-plugins Made Of Magic<br />And Wires]
 | 1.2
