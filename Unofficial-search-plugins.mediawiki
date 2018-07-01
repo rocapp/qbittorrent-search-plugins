@@ -226,6 +226,13 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 | 1/Jul/18
 | [https://raw.githubusercontent.com/nindogo/qbtSearchScripts/master/idope.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | Python3<br />✔ qbt 4.1.x
+|-
+| [[https://www.google.com/s2/favicons?domain=eztv.ag#.png]] [https://www.eztv.ag/ EZTV]
+| [https://github.com/nindogo Ni Ndogo]
+| 0.2
+| 1/Jul/18
+| [https://github.com/nindogo/qbtSearchScripts/raw/master/eztv.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
+| Python3<br />✔ qbt 4.1.x
 |}
 
 = Plugins for Private sites =
