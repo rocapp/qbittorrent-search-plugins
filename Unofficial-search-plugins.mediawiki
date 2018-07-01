@@ -219,6 +219,13 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 | 13/Jun/18
 | [https://raw.githubusercontent.com/ebukari/qbittorrent-plugins/master/torrentfunk.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | Python2 & Python3<br />✔ qbt 4.0.x
+|-
+| [https://www.idope.se/ iDope]
+| [https://github.com/nindogo Ni Ndogo]
+| 0.4
+| 1/Jul/18
+| [https://raw.githubusercontent.com/nindogo/qbtSearchScripts/master/idope.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
+| Python3<br />✔ qbt 4.1.x
 |}
 
 = Plugins for Private sites =
