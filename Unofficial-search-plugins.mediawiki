@@ -220,7 +220,7 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 | [https://raw.githubusercontent.com/ebukari/qbittorrent-plugins/master/torrentfunk.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | Python2 & Python3<br />✔ qbt 4.0.x
 |-
-| [https://www.idope.se/ iDope]
+| [[https://www.google.com/s2/favicons?domain=idope.se#.png]][https://www.idope.se/ iDope]
 | [https://github.com/nindogo Ni Ndogo]
 | 0.4
 | 1/Jul/18
