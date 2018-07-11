@@ -86,13 +86,6 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 | [https://raw.githubusercontent.com/lima66/Torrents_Plugin/master/ilcorsaronero.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | Python2 & Python3<br />✖ Not Working
 |-
-| [[https://raw.githubusercontent.com/Pireo/hello-world/master/favicons2.png]] [https://kickass.cd/ Kickass.cd]
-| [https://github.com/ebukari/qbittorrent-plugins Ezekiel N Bukari]
-| 1.00
-| 2/Sept<br />2017
-| [https://raw.githubusercontent.com/ebukari/qbittorrent-plugins/master/kickass.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
-| Python2 & Python3<br />✔ qbt 4.0.x
-|-
 | [[https://github.com/Pireo/hello-world/blob/master/lime.png]] [https://www.limetorrents.cc/ LimeTorrents]
 | [https://github.com/lima66/Torrents_Plugin/ lima66]
 | 3.09
@@ -156,13 +149,6 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 | [https://raw.githubusercontent.com/Pireo/hello-world/master/rutor.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | Python3<br />✔ qbt 4.0.x
 |-
-| [[https://www.google.com/s2/favicons?domain=skytorrents.lol#.png]] [https://www.skytorrents.lol/ SkyTorrents.lol]
-| [https://gist.github.com/kernc/67c939c57edb7dd057b3abf9f159598a kernc]
-| 2.0
-| 11/Jun<br />2018
-| [https://gist.githubusercontent.com/kernc/67c939c57edb7dd057b3abf9f159598a/raw/09c0099fc8cd8bd2326e5881a8f77c2dffb8e16b/skytorrents.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
-| Python2 & Python3<br />✔ qbt 3.3.x+
-|-
 | [[https://raw.githubusercontent.com/hannsen/qbittorrent_search_plugins/master/smallgames.png]] [http://small-games.info/ small-games.info]
 | [https://github.com/hannsen/qbittorrent_search_plugins/ hannsen]
 | 1.00
@@ -219,13 +205,6 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 | 26/Jun<br />2018
 | [https://raw.githubusercontent.com/CravateRouge/qBittorrentSearchPlugins/master/torrent9.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]<br /> [https://github.com/CravateRouge/qBittorrentSearchPlugins/blob/master/README.md [[https://github.com/Pireo/hello-world/blob/master/Help%20book.gif]] ]
 | Python3<br />✔ qbt 4.1.1
-|-
-| [https://www.torrentfunk.com/ TorrentFunk]
-| [https://github.com/ebukari Ezekiel N Bukari]
-| 0.1
-| 13/Jun/18
-| [https://raw.githubusercontent.com/ebukari/qbittorrent-plugins/master/torrentfunk.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
-| Python2 & Python3<br />✔ qbt 4.0.x
 |}
 
 = Plugins for Private sites =
