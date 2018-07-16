@@ -59,6 +59,7 @@ The Files Are:
 -> nova2dl.py # standalone script called by qBittorrent to download a torrent using a particular search plugin
 -> helpers.py # contains helper functions you can use in your plugins such as retrieve_url() and download_file()
 -> novaprinter.py # contains some useful functions like prettyPrint(my_dict) to display your search results
+-> socks.py # Required by helpers.py. This module provides a standard socket-like interface.
 ```
 
 
