@@ -13,7 +13,7 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 !  Author<br/>(Repository)
 !  Ver.
 !  Update
-!  DL/Info
+!  DL/<br/>Info
 !  Comment
 |-
 | [[https://raw.githubusercontent.com/v1k45/1337x-qBittorrent-search-plugin/master/leetx.png]] [https://1337x.to/ 1337x]
