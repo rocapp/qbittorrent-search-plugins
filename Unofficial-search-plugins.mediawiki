@@ -224,7 +224,7 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 !  Author<br/>(Repository)
 !  Ver.
 !  Update
-!  Links
+!  DL/<br/>Info
 !  Comment
 |-
 | [[https://raw.githubusercontent.com/MadeOfMagicAndWires/qBit-plugins/master/engines/bakabt.png]] [https://bakabt.me BakaBT]
