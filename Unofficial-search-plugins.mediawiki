@@ -111,8 +111,7 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 | [https://github.com/hannsen/qbittorrent_search_plugins/ hannsen]
 | 1.3
 | 25/Jul<br />2018
-| [https://raw.githubusercontent.com/nindogo/qbtSearchScripts/master/magnetdl.py
-[[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
+| [https://raw.githubusercontent.com/nindogo/qbtSearchScripts/master/magnetdl.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | Python3<br />✔ qbt 4.0.x
 |-
 | [[https://raw.githubusercontent.com/4chenz/pantsu-plugin/master/pantsu.png]] [https://nyaa.pantsu.cat/ Nyaa.Pantsu]
