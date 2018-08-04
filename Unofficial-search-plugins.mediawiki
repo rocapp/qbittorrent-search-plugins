@@ -215,8 +215,8 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 |-
 | [[https://www.google.com/s2/favicons?domain=yourbittorrent.com#.png]] [https://yourbittorrent.com/ YourBittorrent]
 | [https://github.com/nindogo Ni Ndogo]
-| 0.3
-| 20 July 2018
+| 0.4
+| 4 Aug 2018
 | [https://raw.githubusercontent.com/nindogo/qbtSearchScripts/master/yourbittorrent.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | Python3<br />✔ qbt 4.1.x
 |}
