@@ -114,6 +114,12 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 | [https://raw.githubusercontent.com/nindogo/qbtSearchScripts/master/magnetdl.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | Python3<br />✔ qbt 4.0.x
 |-
+| [[https://raw.githubusercontent.com/hannsen/qbittorrent_search_plugins/master/mkvcage.png]] [https://www.mkvcage.ws/ MkvCage]
+| [https://github.com/nindogo/qbtSearchScripts]
+| 1.3
+| [https://raw.githubusercontent.com/nindogo/qbtSearchScripts/master/mkvcage.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
+| Python3<br />✔ qbt 4.0.x
+|-
 | [[https://raw.githubusercontent.com/4chenz/pantsu-plugin/master/pantsu.png]] [https://nyaa.pantsu.cat/ Nyaa.Pantsu]
 | [https://github.com/4chenz/pantsu-plugin/ 4chenz]
 | 1.11
