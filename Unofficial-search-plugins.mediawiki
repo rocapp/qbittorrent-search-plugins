@@ -115,8 +115,9 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 | Python3<br />✔ qbt 4.0.x
 |-
 | [[https://raw.githubusercontent.com/hannsen/qbittorrent_search_plugins/master/mkvcage.png]] [https://www.mkvcage.ws/ MkvCage]
-| [https://github.com/nindogo/qbtSearchScripts]
+| [https://github.com/nindogo/qbtSearchScripts Ni Ndogo]
 | 1.3
+| 10/Aug/2018
 | [https://raw.githubusercontent.com/nindogo/qbtSearchScripts/master/mkvcage.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | Python3<br />✔ qbt 4.0.x
 |-
