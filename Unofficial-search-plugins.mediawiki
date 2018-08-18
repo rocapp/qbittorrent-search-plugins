@@ -223,9 +223,18 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 | [[https://www.google.com/s2/favicons?domain=yourbittorrent.com#.png]] [https://yourbittorrent.com/ YourBittorrent]
 | [https://github.com/nindogo Ni Ndogo]
 | 0.4
-| 4 Aug 2018
+| 4/Aug<br />2018
 | [https://raw.githubusercontent.com/nindogo/qbtSearchScripts/master/yourbittorrent.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | Python3<br />✔ qbt 4.1.x
+|-
+| [[https://www.google.com/s2/favicons?domain=skytorrents.lol#.png]] [https://www.skytorrents.lol/ SkyTorrents]
+| [https://gist.github.com/kernc/67c939c57edb7dd057b3abf9f159598a kernc]
+| 2.0
+| 11/Jun<br />2018
+| [https://gist.githubusercontent.com/kernc/67c939c57edb7dd057b3abf9f159598a/raw/09c0099fc8cd8bd2326e5881a8f77c2dffb8e16b/skytorrents.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
+| Python2 & Python3<br />✔ qbt 3.3.x+
+|-
+
 |}
 
 = Plugins for Private sites =
