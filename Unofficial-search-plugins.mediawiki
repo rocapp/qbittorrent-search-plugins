@@ -97,7 +97,7 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 | [https://github.com/MaurizioRicci/qBittorrent_search_engine]
 | 1.0
 | 12/Aug<br />2018
-| [https://raw.githubusercontent.com/MaurizioRicci/qBittorrent_search_engine/master/kickass_torrent.py] []
+| [https://raw.githubusercontent.com/MaurizioRicci/qBittorrent_search_engine/master/kickass_torrent.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | Python2 & Python3<br />✔ qbt 4.1.x+
 |-
 | [[https://github.com/Pireo/hello-world/blob/master/lime.png]] [https://www.limetorrents.cc/ LimeTorrents]
