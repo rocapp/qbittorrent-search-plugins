@@ -208,10 +208,10 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 | [[https://raw.githubusercontent.com/ngosang/qBittorrent-plugins/master/sumotorrent/sumotorrent.png]]
 [http://www.sumotorrent.sx/ SumoTorrent]
 | [https://github.com/ngosang/qBittorrent-plugins ngosang]
-| 1.5
-| 28 Feb 2018
-| [https://raw.githubusercontent.com/hannsen/qBittorrent-plugins/master/sumotorrent/sumotorrent.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
-| Python3<br />✔ qbt 4.0.x
+| 1.60
+| 15 Sep 2018
+| [https://raw.githubusercontent.com/ngosang/qBittorrent-plugins/master/sumotorrent/sumotorrent.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
+| Python2 & Python3<br />✔ qbt 4.0.x
 |-
 | [[https://raw.githubusercontent.com/ngosang/qBittorrent-plugins/master/tntvillage/tntvillage.png]] [http://www.tntvillage.scambioetico.org/?releaselist TNT Village]
 | [https://github.com/ngosang/qBittorrent-plugins ngosang]
