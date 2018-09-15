@@ -79,7 +79,7 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 | [https://github.com/nindogo/qbtSearchScripts/raw/master/eztv.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | Python3<br />✔ qbt 4.1.x
 |-
-| [[https://www.google.com/s2/favicons?domain=idope.cc#.png]] [https://www.idope.cc/ iDope]
+| [[https://www.google.com/s2/favicons?domain=idope.top#.png]] [https://www.idope.top/ iDope]
 | [https://github.com/nindogo Ni Ndogo]
 | 0.9
 | 7/August 2018
