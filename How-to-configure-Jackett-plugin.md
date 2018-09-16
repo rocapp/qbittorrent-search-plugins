@@ -32,5 +32,5 @@ Note 2: If the file doesn't exist, you can create it copying the following json:
 | Property |  Default value |  Description |
 |---|---|---|
 | api_key | YOUR_API_KEY_HERE | Jackett API Key (you can find it on top of Jackett UI) |
-| tracker_first | False | (False/True) add tracker name to the beginning of search result |
+| tracker_first | false | (false/true) add tracker name to the beginning of search result |
 | url | http://127.0.0.1:9117 | Jackett URL (without the end slash) |
