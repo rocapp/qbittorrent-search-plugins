@@ -17,11 +17,11 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 !  Comment
 |-
 | [[https://raw.githubusercontent.com/v1k45/1337x-qBittorrent-search-plugin/master/leetx.png]] [https://1337x.to/ 1337x]
-| [https://github.com/v1k45/1337x-qBittorrent-search-plugin v1k45]
-| 1.20
-| 19/Aug<br />2017
-| [https://raw.githubusercontent.com/v1k45/1337x-qBittorrent-search-plugin/master/leetx.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
-| Python2 & Python3<br />✔ qbt 4.0.x
+| [https://github.com/qbittorrent/search-plugins Official support]
+| 
+| 
+| 
+| Python2 & Python3<br />✔ qbt 4.1.x
 |-
 |[[https://github.com/Pireo/hello-world/blob/master/MA_Icon_Graduation.png]] [http://academictorrents.com/ Academic Torrents]
 |[https://github.com/solenskiner/search-plugins solenskiner]
@@ -73,7 +73,7 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 | Python3<br />✔ qbt 4.1.x
 |-
 | [[https://www.google.com/s2/favicons?domain=eztv.ag#.png]] [https://www.eztv.ag/ EZTV]
-| Official support
+| [https://github.com/qbittorrent/search-plugins Official support]
 | 
 | 
 | 
@@ -171,11 +171,11 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 | Python2 & Python3 <br />✔ qbt 4.0.x
 |-
 | [[https://raw.githubusercontent.com/b0nk/qbittorrent-search-plugins/master/rarbg.png]] [https://rarbg.is/ RARBG]
-| [https://github.com/b0nk/qbittorrent-search-plugins/ b0nk]
-| 1.21
-| 14/Jul<br />2018
-| [https://raw.githubusercontent.com/b0nk/qbittorrent-search-plugins/master/rarbg.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
-| Python2 & Python3<br />✔ qbt 4.0.x
+| [https://github.com/qbittorrent/search-plugins Official support]
+| 
+| 
+| 
+| Python2 & Python3<br />✔ qbt 4.1.x
 |-
 | [[https://github.com/Pireo/hello-world/blob/master/rockbox.png]] [http://psychocydd.co.uk RockBox]
 | [https://github.com/lima66/Torrents_Plugin/ lima66]
