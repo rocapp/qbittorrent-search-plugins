@@ -95,8 +95,8 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 |-
 | [[https://github.com/MaurizioRicci/qBittorrent_search_engine/blob/master/corsaro_nero_icon.png]][http://ilcorsaroneros.info/ Il Corsaro Nero]
 | [https://github.com/MaurizioRicci/qBittorrent_search_engine/ Maurizio Ricci]
-| 1.2
-| 17/Aug<br />2018
+| 1.1
+| 16/Aug<br />2018
 | [https://raw.githubusercontent.com/MaurizioRicci/qBittorrent_search_engine/master/corsaronero.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | Python2 & Python3<br />✔ qbt 4.1.x+
 |-
