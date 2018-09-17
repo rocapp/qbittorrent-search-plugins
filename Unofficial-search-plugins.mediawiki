@@ -196,7 +196,7 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 | 2.0
 | 11/Jun<br />2018
 | [https://gist.githubusercontent.com/kernc/67c939c57edb7dd057b3abf9f159598a/raw/09c0099fc8cd8bd2326e5881a8f77c2dffb8e16b/skytorrents.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
-| Python2 & Python3<br />✔ qbt 3.3.x+
+| Python2 & Python3<br />✖ Not Working
 |-
 | [[https://raw.githubusercontent.com/hannsen/qbittorrent_search_plugins/master/smallgames.png]] [http://small-games.info/ small-games.info]
 | [https://github.com/hannsen/qbittorrent_search_plugins/ hannsen]
