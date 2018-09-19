@@ -318,7 +318,7 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 | [https://raw.githubusercontent.com/davy39/qbfrench/master/t411.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]<br />[https://github.com/davy39/qbfrench/wiki [[https://github.com/Pireo/hello-world/blob/master/Help%20book.gif]] ]
 | Python2 & Python3<br />✖ Not Working
 |-
-| [[https://raw.githubusercontent.com/CravateRouge/qBittorrentSearchPlugins/master/yggtorrent.png]] [https://ww1.yggtorrent.is/ YggTorrent]
+| [[https://raw.githubusercontent.com/CravateRouge/qBittorrentSearchPlugins/master/yggtorrent.png]] [https://yggtorrent.to/ YggTorrent]
 | [https://github.com/CravateRouge/qBittorrentSearchPlugins CravateRouge]
 | 0.1
 | 20/Jun<br />2018
