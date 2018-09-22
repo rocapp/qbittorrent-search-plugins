@@ -152,7 +152,7 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 | [[https://raw.githubusercontent.com/hannsen/qbittorrent_search_plugins/master/mkvcage.png]] [https://www.mkvcage.ws/ MkvCage]
 | [https://github.com/nindogo/qbtSearchScripts Ni Ndogo]
 | 1.3
-| 10/Aug/2018
+| 10/Aug<br />2018
 | [https://raw.githubusercontent.com/nindogo/qbtSearchScripts/master/mkvcage.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | Python3<br />✔ qbt 4.0.x
 |-
@@ -236,7 +236,7 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 | [[https://raw.githubusercontent.com/ngosang/qBittorrent-plugins/master/sumotorrent/sumotorrent.png]] [http://www.sumotorrent.sx/ SumoTorrent]
 | [https://github.com/ngosang/qBittorrent-plugins ngosang]
 | 1.60
-| 15 Sep 2018
+| 15/Sep<br />2018
 | [https://raw.githubusercontent.com/ngosang/qBittorrent-plugins/master/sumotorrent/sumotorrent.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | Python2 & Python3<br />✔ qbt 4.0.x
 |-
