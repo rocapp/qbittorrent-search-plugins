@@ -224,7 +224,7 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 | 1.01
 | 19/May<br />2017
 | [https://raw.githubusercontent.com/phuongtailtranminh/qBittorrent-Nyaa-Search-Plugin/master/nyaa.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
-| Python2 & Python 3<br />✔ qbt 4.0.x
+| Python2 & Python3<br />✔ qbt 4.0.x
 |-
 | [[https://raw.githubusercontent.com/4chenz/pantsu-plugin/master/pantsu.png]] [https://sukebei.pantsu.cat/ Sukebei.Pantsu]
 | [https://github.com/4chenz/pantsu-plugin/ 4chenz]
