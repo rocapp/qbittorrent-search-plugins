@@ -86,14 +86,14 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 | [https://raw.githubusercontent.com/nindogo/qbtSearchScripts/master/idope.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | Python3<br />✔ qbt 4.1.x
 |-
-| [[https://github.com/MaurizioRicci/qBittorrent_search_engine/blob/master/corsaro_blu_icon.png]][https://www.ilcorsaroblu.org/ Il Corsaro Blu]
+| [[https://github.com/MaurizioRicci/qBittorrent_search_engine/blob/master/corsaroblu_icon.png]][https://www.ilcorsaroblu.org/ Il Corsaro Blu]
 | [https://github.com/MaurizioRicci/qBittorrent_search_engine/ Maurizio Ricci]
 | 1.4
 | 21/Sept<br />2018
 | [https://raw.githubusercontent.com/MaurizioRicci/qBittorrent_search_engine/master/corsaroblu.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | Python2 & Python3<br />✔ qbt 4.1.x+
 |-
-| [[https://github.com/MaurizioRicci/qBittorrent_search_engine/blob/master/corsaro_nero_icon.png]][http://ilcorsaroneros.info/ Il Corsaro Nero]
+| [[https://github.com/MaurizioRicci/qBittorrent_search_engine/blob/master/corsaronero_icon.png]][http://ilcorsaroneros.info/ Il Corsaro Nero]
 | [https://github.com/MaurizioRicci/qBittorrent_search_engine/ Maurizio Ricci]
 | 1.4
 | 21/Sept<br />2018
