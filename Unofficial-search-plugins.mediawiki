@@ -268,7 +268,7 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 | [https://raw.githubusercontent.com/MaurizioRicci/qBittorrent_search_engine/master/torrentfunk.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | Python2 & Python3<br />✔ qbt 4.1.x+
 |-
-| [[https://raw.githubusercontent.com/Pireo/hello-world/master/favicon.ico]] [http://uniondht.org/ UnionDHT]
+| [http://uniondht.org/ UnionDHT]
 | [https://github.com/nindogo Ni Ndogo]
 | 0.03
 | 22 sept 2018
