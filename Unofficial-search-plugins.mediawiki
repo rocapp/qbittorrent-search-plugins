@@ -89,7 +89,7 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 | [[https://www.google.com/s2/favicons?domain=idope.top#.png]] [https://www.idope.top/ iDope]
 | [https://github.com/nindogo Ni Ndogo]
 | 0.92
-| 15 Sept 2018
+| 15/Sept <br />2018
 | [https://raw.githubusercontent.com/nindogo/qbtSearchScripts/master/idope.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | Python3<br />✔ qbt 4.1.x
 |-
@@ -271,7 +271,7 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 | [http://uniondht.org/ UnionDHT]
 | [https://github.com/nindogo Ni Ndogo], [https://github.com/ngosang/qBittorrent-plugins ngosang]
 | 0.03
-| 22 sept 2018
+| 22/Sept<br />2018
 | [https://raw.githubusercontent.com/nindogo/qbtSearchScripts/master/uniondht.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | Python3<br />✔ qbt 4.1.x
 |-
