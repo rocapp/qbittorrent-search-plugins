@@ -231,7 +231,7 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 | 1.11
 | 07/Aug<br />2017
 | [https://raw.githubusercontent.com/4chenz/pantsu-plugin/master/sukebei.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
-| Python2 & Python 3<br />✔ qbt 4.0.x
+| Python2 & Python3<br />✔ qbt 4.0.x
 |-
 | [[https://raw.githubusercontent.com/ngosang/qBittorrent-plugins/master/sumotorrent/sumotorrent.png]] [http://www.sumotorrent.sx/ SumoTorrent]
 | [https://github.com/ngosang/qBittorrent-plugins ngosang]
