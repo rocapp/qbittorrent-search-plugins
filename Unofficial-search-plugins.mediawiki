@@ -16,13 +16,6 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 !  DL/<br/>Info
 !  Comment
 |-
-| [[https://raw.githubusercontent.com/v1k45/1337x-qBittorrent-search-plugin/master/leetx.png]] [https://1337x.to/ 1337x]
-| [https://github.com/qbittorrent/search-plugins Official support]
-| 
-| 
-| 
-| Python2 & Python3<br />✔ qbt 4.1.x
-|-
 |[[https://github.com/Pireo/hello-world/blob/master/MA_Icon_Graduation.png]] [http://academictorrents.com/ Academic Torrents]
 |[https://github.com/solenskiner/search-plugins solenskiner]
 |0.3
@@ -176,13 +169,6 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 | 19/May<br />2017
 | [https://raw.githubusercontent.com/MadeOfMagicAndWires/qBit-plugins/master/engines/nyaasi.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | Python2 & Python3 <br />✔ qbt 4.0.x
-|-
-| [[https://raw.githubusercontent.com/b0nk/qbittorrent-search-plugins/master/rarbg.png]] [https://rarbg.is/ RARBG]
-| [https://github.com/qbittorrent/search-plugins Official support]
-| 
-| 
-| 
-| Python2 & Python3<br />✔ qbt 4.1.x
 |-
 | [[https://github.com/Pireo/hello-world/blob/master/rockbox.png]] [http://psychocydd.co.uk RockBox]
 | [https://github.com/lima66/Torrents_Plugin/ lima66]
