@@ -269,7 +269,7 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 | Python2 & Python3<br />✔ qbt 4.1.x+
 |-
 | [http://uniondht.org/ UnionDHT]
-| [https://github.com/nindogo Ni Ndogo]
+| [https://github.com/nindogo Ni Ndogo], [https://github.com/ngosang/qBittorrent-plugins ngosang]
 | 0.03
 | 22 sept 2018
 | [https://raw.githubusercontent.com/nindogo/qbtSearchScripts/master/uniondht.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
