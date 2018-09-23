@@ -44,6 +44,14 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 | [https://raw.githubusercontent.com/lima66/Torrents_Plugin/master/btetree.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | Python2 & Python3<br />✔ qbt 4.0.x
 |-
+| [[https://github.com/MaurizioRicci/qBittorrent_search_engine/blob/master/cinecalidad_icon.png]] 
+[https://www.cinecalidad.to/  CineCalidad]
+| [https://github.com/MaurizioRicci/qBittorrent_search_engine/ Maurizio Ricci]
+| 1.0
+| 23/Sept<br />2018
+| [https://raw.githubusercontent.com/MaurizioRicci/qBittorrent_search_engine/master/cinecalidad.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
+| Python2 & Python3<br />✔ qbt 4.1.x+
+|-
 | [[https://raw.githubusercontent.com/davy39/qbfrench/master/cpasbien.png]] [http://www.cpabien.tv/ Cpasbien]
 | [https://github.com/davy39/qbfrench davy39]
 | 1.10
