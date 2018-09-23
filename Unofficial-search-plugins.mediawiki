@@ -110,13 +110,6 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 | [https://raw.githubusercontent.com/MaurizioRicci/qBittorrent_search_engine/master/corsaronero.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | Python2 & Python3<br />✔ qbt 4.1.x+
 |-
-| [[https://raw.githubusercontent.com/Pireo/hello-world/23513d5befe55a84a6f969e7888a3d084d0b54bf/images.png]] [http://ilcorsaronero.info IlCorsaroNero]
-| [https://github.com/lima66/Torrents_Plugin/ lima66]
-| 1.00
-| 23/Apr<br />2017
-| [https://raw.githubusercontent.com/lima66/Torrents_Plugin/master/ilcorsaronero.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
-| Python2 & Python3<br />✖ Not Working
-|-
 | [[https://github.com/MaurizioRicci/qBittorrent_search_engine/blob/master/kickass_icon.png]] [https://kickass-cr.online/  Kickass Torrent]
 | [https://github.com/MaurizioRicci/qBittorrent_search_engine/ Maurizio Ricci]
 | 1.5
