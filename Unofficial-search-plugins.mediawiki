@@ -80,13 +80,6 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 | [https://raw.githubusercontent.com/MaurizioRicci/qBittorrent_search_engine/master/extratorrent.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | Python2 & Python3<br />✔ qbt 4.1.x+
 |-
-| [[https://www.google.com/s2/favicons?domain=eztv.ag#.png]] [https://www.eztv.ag/ EZTV]
-| [https://github.com/qbittorrent/search-plugins Official support]
-| 
-| 
-| 
-| Python2 & Python3<br />✔ qbt 4.1.x
-|-
 | [[https://www.google.com/s2/favicons?domain=idope.top#.png]] [https://www.idope.top/ iDope]
 | [https://github.com/nindogo Ni Ndogo]
 | 0.92
@@ -116,13 +109,6 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 | 21/Sept<br />2018
 | [https://raw.githubusercontent.com/MaurizioRicci/qBittorrent_search_engine/master/kickass_torrent.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | Python2 & Python3<br />✔ qbt 4.1.x+
-|-
-| [[https://github.com/Pireo/hello-world/blob/master/lime.png]] [https://www.limetorrents.cc/ LimeTorrents]
-| [https://github.com/qbittorrent/search-plugins Official support]
-| 
-| 
-| 
-| Python2 & Python3<br />✔ qbt 4.1.x
 |-
 | [[https://raw.githubusercontent.com/Pireo/hello-world/master/tux.png]] [http://linuxtracker.org/ Linux Tracker]
 | [https://github.com/MadeOfMagicAndWires/qBit-plugins Made Of Magic<br />And Wires]
