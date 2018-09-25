@@ -73,6 +73,13 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 | [https://github.com/xyauhideto/DMHY_qBittorrent_search_plugin/raw/master/dmhyorg.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]<br />
 | Python3<br />✔ qbt 4.1.x
 |-
+| [[https://github.com/MaurizioRicci/qBittorrent_search_engine/blob/master/ettv_icon.png]][https://www.ettv.tv/ ETTV]
+| [https://github.com/MaurizioRicci/qBittorrent_search_engine/ Maurizio Ricci]
+| 1.0
+| 25/Sept<br />2018
+| [https://raw.githubusercontent.com/MaurizioRicci/qBittorrent_search_engine/master/ettv.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
+| Python2 & Python3<br />✔ qbt 4.1.x+
+|-
 | [[https://github.com/MaurizioRicci/qBittorrent_search_engine/blob/master/extratorrent_icon.png]][https://extratorrent.si/ ExtraTorrent]
 | [https://github.com/MaurizioRicci/qBittorrent_search_engine/ Maurizio Ricci]
 | 1.0
