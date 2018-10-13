@@ -121,7 +121,8 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 | [https://github.com/MadeOfMagicAndWires/qBit-plugins Made Of Magic<br />And Wires]
 | 1.00
 | 12/Apr<br />2017
-| [https://raw.githubusercontent.com/MadeOfMagicAndWires/qBit-plugins/master/engines/linuxtracker.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
+| [https://raw.githubusercontent.com/MadeOfMagicAndWires/qBit-plugins/6074a7cccb90dfd5c81b7eaddd3138adec7f3377/engines/linuxtracker.py
+[[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | Python2 & Python3<br />✔ Working, with <br />"apps" selected
 |-
 | [[https://raw.githubusercontent.com/hannsen/qbittorrent_search_plugins/master/magnetdl.png]] [http://www.magnetdl.com/ MagnetDL]
