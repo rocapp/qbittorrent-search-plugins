@@ -42,7 +42,7 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 | 1.00
 | 21/Apr<br />2017
 | [https://raw.githubusercontent.com/lima66/Torrents_Plugin/master/btetree.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
-| Python2 & Python3<br />✔ qbt 4.0.x
+| Python2 & Python3<br />✖ Not Working
 |-
 | [[https://github.com/MaurizioRicci/qBittorrent_search_engine/blob/master/cinecalidad_icon.png]] 
 [https://www.cinecalidad.to/  CineCalidad]
@@ -122,7 +122,7 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 | 1.00
 | 12/Apr<br />2017
 | [https://raw.githubusercontent.com/MadeOfMagicAndWires/qBit-plugins/6074a7cccb90dfd5c81b7eaddd3138adec7f3377/engines/linuxtracker.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
-| Python2 & Python3<br />✔ Working
+| Python2 & Python3<br />✔ qbt 4.1.x 
 |-
 | [[https://raw.githubusercontent.com/hannsen/qbittorrent_search_plugins/master/magnetdl.png]] [http://www.magnetdl.com/ MagnetDL]
 | [https://github.com/hannsen/qbittorrent_search_plugins/ hannsen]
