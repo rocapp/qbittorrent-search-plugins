@@ -196,11 +196,11 @@ Mejor Torrent]
 | Python2 & Python3<br />✔ qbt 4.0.x
 |-
 | [[https://raw.githubusercontent.com/hannsen/qbittorrent_search_plugins/master/snowfl.png]] [https://snowfl.com/ snowfl.com]
-| [https://github.com/hannsen/qbittorrent_search_plugins/ hannsen]
+| [https://github.com/gitDew/qbittorrent-snowfl-search-plugin gitDew]
 | 1.00
-| 3/Mar<br />2017
-| [https://raw.githubusercontent.com/hannsen/qbittorrent_search_plugins/master/snowfl.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
-| Python3<br />✖ Not Working
+| 27/Oct<br />2018
+| [https://raw.githubusercontent.com/gitDew/qbittorrent-snowfl-search-plugin/master/snowfl.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
+| Python3<br />✔ qbt 4.1.x+
 |-
 | [[https://github.com/MaurizioRicci/qBittorrent_search_engine/blob/master/solotorrent_icon.png]] 
 [https://solotorrent.net/ SoloTorrent]
