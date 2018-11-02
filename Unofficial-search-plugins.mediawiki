@@ -87,10 +87,10 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 | [https://raw.githubusercontent.com/MaurizioRicci/qBittorrent_search_engine/master/extratorrent.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | Python2 & Python3<br />✔ qbt 4.1.x+
 |-
-| [[https://www.google.com/s2/favicons?domain=idope.top#.png]] [https://www.idope.top/ iDope]
+| [[https://proxy.duckduckgo.com/ip3/idope.site.ico]] [https://www.idope.top/ iDope]
 | [https://github.com/nindogo Ni Ndogo]
-| 0.92
-| 15/Sept <br />2018
+| 0.93
+| 2/Nov <br />2018
 | [https://raw.githubusercontent.com/nindogo/qbtSearchScripts/master/idope.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | Python3<br />✔ qbt 4.1.x
 |-
