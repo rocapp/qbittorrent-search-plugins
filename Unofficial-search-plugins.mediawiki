@@ -18,7 +18,7 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 |-
 |[http://yts.am/ YTS.AM]
 |[https://github.com/khensolomon/leyts Lethil]
-|0.3
+|3.2
 |2/Nov<br />2018
 |[https://raw.githubusercontent.com/khensolomon/leyts/master/yts.py 
 [[https://github.com/Pireo/hello-world/blob/master/Download.gif]]]
