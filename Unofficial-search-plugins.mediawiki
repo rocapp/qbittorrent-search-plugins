@@ -7,7 +7,7 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 * To write your own search plugins, please follow this [[How-to-write-a-search-plugin|tutorial]].
 
 = Plugins for Public sites =
-The plugins shown as ✖ or ❗ will result in the malfunction of other plugins as well, hence the use of these plugins are strongly discouraged.
+The plugins shown as ✖ or ❗ will result in the slowdown and malfunction of other plugins as well, hence the use of these plugins are strongly discouraged.
 {|
 |-
 !  Search Engine
