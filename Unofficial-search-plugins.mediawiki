@@ -153,6 +153,7 @@ Mejor Torrent]
 | 10/Aug<br />2018
 | [https://raw.githubusercontent.com/nindogo/qbtSearchScripts/master/mkvcage.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | Python3<br />✔ qbt 4.0.x
+| Python3<br />✖ Not Working qbt 4.1.3
 |-
 | [[https://raw.githubusercontent.com/4chenz/pantsu-plugin/master/pantsu.png]] [https://nyaa.pantsu.cat/ Nyaa.Pantsu]
 | [https://github.com/4chenz/pantsu-plugin/ 4chenz]
