@@ -39,6 +39,7 @@ The plugins shown as ✖ or ❗ will result in the slowdown and malfunction of o
 | 25/Dec<br />2017
 | [https://raw.githubusercontent.com/hannsen/qbittorrent_search_plugins/master/ali213.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]<br /> [https://github.com/hannsen/qbittorrent_search_plugins#user-content-ali213net--ali213py [[https://github.com/Pireo/hello-world/blob/master/Help%20book.gif]] ]
 | Python2 & Python3<br />✔ qbt 4.0.x
+<br />❗ qbt 4.1.3(Does not work with other plugins)
 |-
 | [[https://raw.githubusercontent.com/hannsen/qbittorrent_search_plugins/master/threedm.png]] [http://bt.3dmgame.com/ bt.3dmgame.com]
 | [https://github.com/hannsen/qbittorrent_search_plugins/ hannsen]
@@ -104,6 +105,7 @@ The plugins shown as ✖ or ❗ will result in the slowdown and malfunction of o
 | 2/Nov <br />2018
 | [https://raw.githubusercontent.com/nindogo/qbtSearchScripts/master/idope.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | Python3<br />✔ qbt 4.1.x
+<br />❗ qbt 4.1.3(No result)
 |-
 | [[https://github.com/MaurizioRicci/qBittorrent_search_engine/blob/master/corsaroblu_icon.png]] 
 [https://www.ilcorsaroblu.org/  Il Corsaro Blu]
@@ -127,7 +129,7 @@ The plugins shown as ✖ or ❗ will result in the slowdown and malfunction of o
 | 30/Sept<br />2018
 | [https://raw.githubusercontent.com/MaurizioRicci/qBittorrent_search_engine/master/kickass_torrent.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | Python2 & Python3<br />✔ qbt 4.1.x+
-<br />✖ qbt 4.1.3(intermittent failure ) 
+<br />✖ qbt 4.1.3(plugin v1.6)
 |-
 | [[https://raw.githubusercontent.com/Pireo/hello-world/master/tux.png]] [http://linuxtracker.org/ Linux Tracker]
 | [https://github.com/MadeOfMagicAndWires/qBit-plugins Made Of Magic<br />And Wires]
@@ -157,7 +159,7 @@ Mejor Torrent]
 | 10/Aug<br />2018
 | [https://raw.githubusercontent.com/nindogo/qbtSearchScripts/master/mkvcage.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | Python3<br />✔ qbt 4.0.x
-<br />✖ qbt 4.1.3(intermittent failure) 
+<br />✖ qbt 4.1.3(plugin v1.3) 
 |-
 | [[https://raw.githubusercontent.com/4chenz/pantsu-plugin/master/pantsu.png]] [https://nyaa.pantsu.cat/ Nyaa.Pantsu]
 | [https://github.com/4chenz/pantsu-plugin/ 4chenz]
@@ -186,7 +188,7 @@ Mejor Torrent]
 | 23/Apr<br />2017
 | [https://raw.githubusercontent.com/Pireo/hello-world/master/rockbox.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | Python2 & Python3<br />✔ qbt 4.0.x
-<br />✖ qbt 4.1.3(intermittent failure)
+<br />✖ qbt 4.1.3(plugin v1.1)
 |-
 | [[https://github.com/Pireo/hello-world/blob/master/rutor.png]] [http://rutor.info/ Rutor]
 | [https://github.com/Pireo/hello-world/ Pireo]
@@ -194,6 +196,7 @@ Mejor Torrent]
 | 23/Jan<br />2017
 | [https://raw.githubusercontent.com/Pireo/hello-world/master/rutor.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | Python3<br />✔ qbt 4.0.x
+<br />❗ qbt 4.1.3(no result)
 |-
 | [[https://www.google.com/s2/favicons?domain=skytorrents.lol#.png]] [https://www.skytorrents.lol/ SkyTorrents]
 | [https://gist.github.com/kernc/67c939c57edb7dd057b3abf9f159598a kernc]
@@ -215,6 +218,7 @@ Mejor Torrent]
 | 27/Oct<br />2018
 | [https://raw.githubusercontent.com/gitDew/qbittorrent-snowfl-search-plugin/master/snowfl.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | Python3<br />✔ qbt 4.1.x+
+<br />❗ qbt 4.1.3(no result)
 |-
 | [[https://github.com/MaurizioRicci/qBittorrent_search_engine/blob/master/solotorrent_icon.png]] 
 [https://solotorrent.net/ SoloTorrent]
@@ -288,7 +292,7 @@ Mejor Torrent]
 | 4/Aug<br />2018
 | [https://raw.githubusercontent.com/nindogo/qbtSearchScripts/master/yourbittorrent.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | Python3<br />✔ qbt 4.1.x
-<br />❗ qbt 4.1.3(no result)
+<br />❗ qbt 4.1.3(Does not work with other plugins)
 |-
 |}
 
