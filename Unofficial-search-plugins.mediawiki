@@ -286,7 +286,7 @@ Mejor Torrent]
 | Python3<br />✔ qbt 4.1.x
 <br />❗ qbt 4.1.3(Does not work with other plugins)
 |-
-|[http://yts.am/ YTS.AM]
+|[[https://github.com/Pireo/hello-world/blob/master/yts.png]] [http://yts.am/ YTS.AM]
 |[https://github.com/khensolomon/leyts Lethil]
 |3.2
 |2/Nov<br />2018
