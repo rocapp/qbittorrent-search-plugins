@@ -16,14 +16,7 @@ The plugins shown as ✖ or ❗ will result in the slowdown and malfunction of o
 !  Update
 !  DL/<br/>Info
 !  Comment
-|-
-|[http://yts.am/ YTS.AM]
-|[https://github.com/khensolomon/leyts Lethil]
-|3.2
-|2/Nov<br />2018
-|[https://raw.githubusercontent.com/khensolomon/leyts/master/yts.py 
-[[https://github.com/Pireo/hello-world/blob/master/Download.gif]]]
-|Python3<br />✔ qbt 4.0.x
+
 |-
 |[[https://github.com/Pireo/hello-world/blob/master/MA_Icon_Graduation.png]] [http://academictorrents.com/ Academic Torrents]
 |[https://github.com/solenskiner/search-plugins solenskiner]
@@ -292,6 +285,14 @@ Mejor Torrent]
 | [https://raw.githubusercontent.com/nindogo/qbtSearchScripts/master/yourbittorrent.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | Python3<br />✔ qbt 4.1.x
 <br />❗ qbt 4.1.3(Does not work with other plugins)
+|-
+|[http://yts.am/ YTS.AM]
+|[https://github.com/khensolomon/leyts Lethil]
+|3.2
+|2/Nov<br />2018
+|[https://raw.githubusercontent.com/khensolomon/leyts/master/yts.py 
+[[https://github.com/Pireo/hello-world/blob/master/Download.gif]]]
+|Python3<br />✔ qbt 4.0.x
 |-
 |}
 
