@@ -329,6 +329,13 @@ Mejor Torrent]
 | [https://raw.githubusercontent.com/hannsen/qbittorrent_search_plugins/master/jackett.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]<br /> [https://github.com/hannsen/qbittorrent_search_plugins#user-content-jackett--jackettpy [[https://github.com/Pireo/hello-world/blob/master/Help%20book.gif]] ]
 | Python2 & Python3<br />✔ qbt 4.0.x
 |-
+| [[https://raw.githubusercontent.com/imDMG/qBt_SE/master/kinozal.png]] [http://kinozal.tv/ Kinozal]
+| [https://github.com/imDMG/qBt_SE imDMG]
+| 1.0
+| 17/Jan<br />2019
+| [https://raw.githubusercontent.com/imDMG/qBt_SE/master/kinozal.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]<br /> [https://github.com/imDMG/qBt_SE/blob/master/README.md [[https://github.com/Pireo/hello-world/blob/master/Help%20book.gif]] ]
+| Python3<br />✔ qbt 4.1.x
+|-
 | [[https://raw.githubusercontent.com/Skymirrh/qBittorrent-rutracker-plugin/master/rutracker.png]] [http://rutracker.org/ RuTracker]
 | [https://github.com/Skymirrh/qBittorrent-rutracker-plugin Skymirrh]
 | 1.1.2
