@@ -336,6 +336,13 @@ Mejor Torrent]
 | [https://raw.githubusercontent.com/imDMG/qBt_SE/master/kinozal.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]<br /> [https://github.com/imDMG/qBt_SE/blob/master/README.md [[https://github.com/Pireo/hello-world/blob/master/Help%20book.gif]] ]
 | Python3<br />✔ qbt 4.1.x
 |-
+| [[https://raw.githubusercontent.com/imDMG/qBt_SE/master/nnmclub.png]] [https://nnm-club.me/ NoNaMe-Club]
+| [https://github.com/imDMG/qBt_SE imDMG]
+| 1.0
+| 19/Jan<br />2019
+| [https://raw.githubusercontent.com/imDMG/qBt_SE/master/nnmclub.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]<br /> [https://github.com/imDMG/qBt_SE/blob/master/README.md [[https://github.com/Pireo/hello-world/blob/master/Help%20book.gif]] ]
+| Python3<br />✔ qbt 4.1.x
+|-
 | [[https://raw.githubusercontent.com/Skymirrh/qBittorrent-rutracker-plugin/master/rutracker.png]] [http://rutracker.org/ RuTracker]
 | [https://github.com/Skymirrh/qBittorrent-rutracker-plugin Skymirrh]
 | 1.1.2
