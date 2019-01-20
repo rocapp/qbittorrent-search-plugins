@@ -13,3 +13,4 @@ If you know a torrent site that is not in the official/unofficial list, you can 
 |   WorldWide torrents |       NO      |   N/A  |                                |
 |   Cpasbien           |       NO      |   N/A  |    Already done, not working   |
 |   Archive.org        |       NO      |   N/A  |                                |
+|   MVGROUP.org        |       NO      |   N/A  |                                |
