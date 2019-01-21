@@ -63,6 +63,14 @@ The plugins shown as ✖ or ❗ will result in the slowdown and malfunction of o
 | [https://raw.githubusercontent.com/davy39/qbfrench/master/cpasbien.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | Python2 & Python3<br />✖ Not Working
 |-
+| [[https://github.com/MaurizioRicci/qBittorrent_search_engine/blob/master/cpasbien_icon.png]] 
+[https://www.cinecalidad.to/  Cpasbien]
+| [https://github.com/MaurizioRicci/qBittorrent_search_engine/ Maurizio Ricci]
+| 1.0
+|21/Jan<br />2019
+| [https://raw.githubusercontent.com/MaurizioRicci/qBittorrent_search_engine/master/cpasbien.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
+| Python2 & Python3<br />✔ qbt 4.1.x+
+|-
 | [[https://raw.githubusercontent.com/hannsen/qbittorrent_search_plugins/master/demonoid.png]] [http://demonoid.pw/ Demonoid]
 | [https://github.com/hannsen/qbittorrent_search_plugins/ hannsen]
 | 2.0
