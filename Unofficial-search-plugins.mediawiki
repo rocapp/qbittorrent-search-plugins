@@ -50,7 +50,7 @@ The plugins shown as ✖ or ❗ will result in the slowdown and malfunction of o
 |-
 | [[https://github.com/MaurizioRicci/qBittorrent_search_engine/blob/master/cinecalidad_icon.png]] 
 [https://www.cinecalidad.to/  CineCalidad]
-| [https://github.com/MaurizioRicci/qBittorrent_search_engine/ Maurizio Ricci]
+| [https://github.com/MaurizioRicci/qBittorrent_search_engine/ mauricci]
 | 1.0
 | 23/Sept<br />2018
 | [https://raw.githubusercontent.com/MaurizioRicci/qBittorrent_search_engine/master/cinecalidad.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
@@ -65,7 +65,7 @@ The plugins shown as ✖ or ❗ will result in the slowdown and malfunction of o
 |-
 | [[https://github.com/MaurizioRicci/qBittorrent_search_engine/blob/master/cpasbien_icon.png]] 
 [https://www.cinecalidad.to/  Cpasbien]
-| [https://github.com/MaurizioRicci/qBittorrent_search_engine/ Maurizio Ricci]
+| [https://github.com/MaurizioRicci/qBittorrent_search_engine/ mauricci]
 | 1.0
 |21/Jan<br />2019
 | [https://raw.githubusercontent.com/MaurizioRicci/qBittorrent_search_engine/master/cpasbien.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
@@ -86,14 +86,14 @@ The plugins shown as ✖ or ❗ will result in the slowdown and malfunction of o
 | Python3<br />✔ qbt 4.1.x
 |-
 | [[https://github.com/MaurizioRicci/qBittorrent_search_engine/blob/master/ettv_icon.png]][https://www.ettv.tv/ ETTV]
-| [https://github.com/MaurizioRicci/qBittorrent_search_engine/ Maurizio Ricci]
+| [https://github.com/MaurizioRicci/qBittorrent_search_engine/ mauricci]
 | 1.1
 | 25/Sept<br />2018
 | [https://raw.githubusercontent.com/MaurizioRicci/qBittorrent_search_engine/master/ettv.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | Python2 & Python3<br />✔ qbt 4.1.x+
 |-
 | [[https://github.com/MaurizioRicci/qBittorrent_search_engine/blob/master/extratorrent_icon.png]][https://extratorrent.si/ ExtraTorrent]
-| [https://github.com/MaurizioRicci/qBittorrent_search_engine/ Maurizio Ricci]
+| [https://github.com/MaurizioRicci/qBittorrent_search_engine/ mauricci]
 | 1.0
 | 21/Sept<br />2018
 | [https://raw.githubusercontent.com/MaurizioRicci/qBittorrent_search_engine/master/extratorrent.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
@@ -109,7 +109,7 @@ The plugins shown as ✖ or ❗ will result in the slowdown and malfunction of o
 |-
 | [[https://github.com/MaurizioRicci/qBittorrent_search_engine/blob/master/corsaroblu_icon.png]] 
 [https://www.ilcorsaroblu.org/  Il Corsaro Blu]
-| [https://github.com/MaurizioRicci/qBittorrent_search_engine/ Maurizio Ricci]
+| [https://github.com/MaurizioRicci/qBittorrent_search_engine/ mauricci]
 | 1.6
 | 25/Nov<br />2018
 | [https://raw.githubusercontent.com/MaurizioRicci/qBittorrent_search_engine/master/corsaroblu.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
@@ -117,14 +117,14 @@ The plugins shown as ✖ or ❗ will result in the slowdown and malfunction of o
 |-
 | [[https://github.com/MaurizioRicci/qBittorrent_search_engine/blob/master/corsaronero_icon.png]] 
 [http://ilcorsaroneros.info/  Il Corsaro Nero]
-| [https://github.com/MaurizioRicci/qBittorrent_search_engine/ Maurizio Ricci]
+| [https://github.com/MaurizioRicci/qBittorrent_search_engine/ mauricci]
 | 1.5
 | 26/Sept<br />2018
 | [https://raw.githubusercontent.com/MaurizioRicci/qBittorrent_search_engine/master/corsaronero.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | Python2 & Python3<br />✔ qbt 4.1.x+
 |-
 | [[https://github.com/MaurizioRicci/qBittorrent_search_engine/blob/master/kickass_icon.png]] [https://kickass-cr.online/  Kickass Torrent]
-| [https://github.com/MaurizioRicci/qBittorrent_search_engine/ Maurizio Ricci]
+| [https://github.com/MaurizioRicci/qBittorrent_search_engine/ mauricci]
 | 1.8
 | 9/Gen<br />2019
 | [https://raw.githubusercontent.com/MaurizioRicci/qBittorrent_search_engine/master/kickass_torrent.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
@@ -146,7 +146,7 @@ The plugins shown as ✖ or ❗ will result in the slowdown and malfunction of o
 |-
 | [[https://github.com/MaurizioRicci/qBittorrent_search_engine/blob/master/mejor_icon.png]][http://www.mejortorrent.org/ 
 Mejor Torrent]
-| [https://github.com/MaurizioRicci/qBittorrent_search_engine/ Maurizio Ricci]
+| [https://github.com/MaurizioRicci/qBittorrent_search_engine/ mauricci]
 | 1.3
 | 21/Sept<br />2018
 | [https://raw.githubusercontent.com/MaurizioRicci/qBittorrent_search_engine/master/mejor.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
@@ -222,7 +222,7 @@ Mejor Torrent]
 |-
 | [[https://github.com/MaurizioRicci/qBittorrent_search_engine/blob/master/solotorrent_icon.png]] 
 [https://solotorrent.net/ SoloTorrent]
-| [https://github.com/MaurizioRicci/qBittorrent_search_engine/ Maurizio Ricci]
+| [https://github.com/MaurizioRicci/qBittorrent_search_engine/ mauricci]
 | 1.0
 | 24/Sept<br />2018
 | [https://raw.githubusercontent.com/MaurizioRicci/qBittorrent_search_engine/master/solotorrent.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
@@ -273,7 +273,7 @@ Mejor Torrent]
 <br />❗ qbt 4.1.3(no result)
 |-
 | [[https://github.com/MaurizioRicci/qBittorrent_search_engine/blob/master/torrentfunk_icon.png]][https://www.torrentfunk.com/ TorrentFunk]
-| [https://github.com/MaurizioRicci/qBittorrent_search_engine/ Maurizio Ricci]
+| [https://github.com/MaurizioRicci/qBittorrent_search_engine/ mauricci]
 | 1.0
 | 22/Sept<br />2018
 | [https://raw.githubusercontent.com/MaurizioRicci/qBittorrent_search_engine/master/torrentfunk.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
