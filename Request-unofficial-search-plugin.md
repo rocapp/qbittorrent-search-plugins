@@ -13,3 +13,6 @@ If you know a torrent site that is not in the official/unofficial list, you can 
 |   WorldWide torrents |       NO      |   N/A  |                                |
 |   Archive.org        |       NO      |   N/A  |                                |
 |   MVGROUP.org        |       NO      |   N/A  |                                |
+|   Torrentz2.eu       |       NO      |   N/A  |                                |
+|   TorrentProject2.se |       NO      |   N/A  |                                |
+|   Btdb.to            |       NO      |   N/A  |                                |
