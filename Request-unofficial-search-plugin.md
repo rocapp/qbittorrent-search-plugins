@@ -16,5 +16,4 @@ If you know a torrent site that is not in the official/unofficial list, you can 
 |   Torrentz2.eu       |       NO      |   N/A  |                                |
 |   TorrentProject2.se |       NO      |   N/A  |                                |
 |   Btdb.to            |       NO      |   N/A  |                                |
-|   HorribleSubs.net   |       NO      |   N/A  |                                |
 |   YTS.ag             |       NO      |   N/A  |                                |
