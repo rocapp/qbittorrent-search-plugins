@@ -106,6 +106,14 @@ The plugins shown as ✖ or ❗ will result in the slowdown and malfunction of o
 | [https://raw.githubusercontent.com/MaurizioRicci/qBittorrent_search_engine/master/foxcili.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | Python2 & Python3<br />✔ qbt 4.1.x+
 |-
+| [[https://github.com/MaurizioRicci/qBittorrent_search_engine/blob/master/horriblesubs_icon.png]] 
+[https://www.cinecalidad.to/  HorribleSubs]
+| [https://github.com/MaurizioRicci/qBittorrent_search_engine/ mauricci]
+| 1.0
+| 27/Jan<br />2019
+| [https://raw.githubusercontent.com/MaurizioRicci/qBittorrent_search_engine/master/horriblesubs.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
+| Python2 & Python3<br />✔ qbt 4.1.x+
+|-
 | [[https://www.google.com/s2/favicons?domain=idope.site#.png]] [https://www.idope.site/ iDope]
 | [https://github.com/nindogo Ni Ndogo]
 | 0.93
