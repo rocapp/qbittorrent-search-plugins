@@ -294,6 +294,13 @@ Mejor Torrent]
 | [https://raw.githubusercontent.com/MaurizioRicci/qBittorrent_search_engine/master/torrentfunk.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | Python2 & Python3<br />✔ qbt 4.1.x+
 |-
+| [[https://github.com/MaurizioRicci/qBittorrent_search_engine/blob/master/torrentproject_icon.png]][https://www.torrentfunk.com/ TorrentProject]
+| [https://github.com/MaurizioRicci/qBittorrent_search_engine/ mauricci]
+| 1.0
+| 28/Jan<br />2019
+| [https://raw.githubusercontent.com/MaurizioRicci/qBittorrent_search_engine/master/torrentproject.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
+| Python2 & Python3<br />✔ qbt 4.1.x+
+|-
 | [[https://github.com/Pireo/hello-world/blob/master/uniondht%20favicon.jpg]] [http://uniondht.org/ UnionDHT]
 | [https://github.com/nindogo Ni Ndogo], [https://github.com/ngosang/qBittorrent-plugins ngosang]
 | 0.03
