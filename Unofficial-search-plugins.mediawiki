@@ -64,7 +64,7 @@ The plugins shown as ✖ or ❗ will result in the slowdown and malfunction of o
 | Python2 & Python3<br />✖ Not Working
 |-
 | [[https://github.com/MaurizioRicci/qBittorrent_search_engine/blob/master/cpasbien_icon.png]] 
-[https://www.cinecalidad.to/  Cpasbien]
+[http://ww2.cpasbiens.co  Cpasbien]
 | [https://github.com/MaurizioRicci/qBittorrent_search_engine/ mauricci]
 | 1.1
 |29/Jan<br />2019
@@ -99,7 +99,7 @@ The plugins shown as ✖ or ❗ will result in the slowdown and malfunction of o
 | [https://raw.githubusercontent.com/MaurizioRicci/qBittorrent_search_engine/master/extratorrent.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | Python2 & Python3<br />✔ qbt 4.1.x+
 |-
-| [[https://github.com/MaurizioRicci/qBittorrent_search_engine/blob/master/foxcili_icon.png]][https://extratorrent.si/ Foxcili]
+| [[https://github.com/MaurizioRicci/qBittorrent_search_engine/blob/master/foxcili_icon.png]][http://foxcili.org/ Foxcili]
 | [https://github.com/MaurizioRicci/qBittorrent_search_engine/ mauricci]
 | 1.0
 | 27/Jan<br />2019
@@ -107,7 +107,7 @@ The plugins shown as ✖ or ❗ will result in the slowdown and malfunction of o
 | Python2 & Python3<br />✔ qbt 4.1.x+
 |-
 | [[https://github.com/MaurizioRicci/qBittorrent_search_engine/blob/master/horriblesubs_icon.png]] 
-[https://www.cinecalidad.to/  HorribleSubs]
+[https://horriblesubs.info/  HorribleSubs]
 | [https://github.com/MaurizioRicci/qBittorrent_search_engine/ mauricci]
 | 1.0
 | 27/Jan<br />2019
@@ -294,7 +294,7 @@ Mejor Torrent]
 | [https://raw.githubusercontent.com/MaurizioRicci/qBittorrent_search_engine/master/torrentfunk.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | Python2 & Python3<br />✔ qbt 4.1.x+
 |-
-| [[https://github.com/MaurizioRicci/qBittorrent_search_engine/blob/master/torrentproject_icon.png]][https://www.torrentfunk.com/ TorrentProject]
+| [[https://github.com/MaurizioRicci/qBittorrent_search_engine/blob/master/torrentproject_icon.png]][https://torrentproject2.se TorrentProject]
 | [https://github.com/MaurizioRicci/qBittorrent_search_engine/ mauricci]
 | 1.0
 | 28/Jan<br />2019
