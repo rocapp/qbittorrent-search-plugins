@@ -15,5 +15,5 @@ If you know a torrent site that is not in the official/unofficial list, you can 
 |   MVGROUP.org        |       NO      |   N/A  |                                |
 |   Torrentz2.eu       |       NO      |   N/A  |                                |
 |   Btdb.to            |       NO      |   N/A  |                                |
-|   YTS.ag             |       NO      |   N/A  |                                |
+|   YTS.ag             |       YES      |   https://github.com/MaurizioRicci/qBittorrent_search_engine/blob/master/yts_am.py  | Done but not tested due to geoblocking policy                               |
 |   yinyueso.com       |       NO      |   N/A  |                                |
