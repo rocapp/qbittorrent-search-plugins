@@ -324,6 +324,14 @@ Mejor Torrent]
 [[https://github.com/Pireo/hello-world/blob/master/Download.gif]]]
 |Python3<br />✔ qbt 4.0.x
 |-
+| [[https://github.com/MaurizioRicci/qBittorrent_search_engine/blob/master/yts_am_icon.png]] 
+[https://yts.am/  Yts.am]
+| [https://github.com/MaurizioRicci/qBittorrent_search_engine/ mauricci]
+| 1.0
+| 04/Feb<br />2019
+| [https://raw.githubusercontent.com/MaurizioRicci/qBittorrent_search_engine/master/yts_am.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
+| Uses Yts.am's API. Python2 & Python3<br />✔ qbt 4.1.x+
+|-
 |}
 
 = Plugins for Private sites =
