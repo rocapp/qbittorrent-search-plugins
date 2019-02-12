@@ -358,7 +358,7 @@ Mejor Torrent]
 | [https://github.com/adrianmocan/qbittorrent_plugin_filelist.ro adrianmocan]
 | 2.50
 | 10/Feb<br />2019
-| [https://raw.githubusercontent.com/adrianmocan/qbittorrent_plugin_filelist.ro/master/filelist_ro/filelist.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]<br />[https://github.com/adrianmocan/qbittorrent_plugin_filelist.ro/blob/master/filelist_ro/filelist.INSTALL_en.txt [[https://github.com/Pireo/hello-world/blob/master/Help%20book.gif]] ]
+| [https://raw.githubusercontent.com/adrianmocan/qbittorrent_plugin_filelist.ro/master/filelist_ro/filelist.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]<br />[https://github.com/adrianmocan/qbittorrent_plugin_filelist.ro/blob/master/README.adoc [[https://github.com/Pireo/hello-world/blob/master/Help%20book.gif]] ]
 | Python2 & Python3<br />✔ qbt 4.1.x
 |-
 | [[https://raw.githubusercontent.com/hannsen/qbittorrent_search_plugins/master/jackett.png]] [https://github.com/Jackett/Jackett/ Jackett]
