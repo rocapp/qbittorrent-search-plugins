@@ -10,9 +10,14 @@ If you know a torrent site that is not in the official/unofficial list, you can 
 
 |      Site            |  In Progress? |  Dev   |             Notes              |  
 | :-------------------:|:-------------:| :-----:| :----------------------------: |
-|   WorldWide torrents |       NO      |   N/A  |                                |
-|   Archive.org        |       NO      |   N/A  |                                |
-|   MVGROUP.org        |       NO      |   N/A  |                                |
-|   Torrentz2.eu       |       NO      |   N/A  |                                |
-|   Btdb.to            |       NO      |   N/A  |                                |
-|   yinyueso.com       |       NO      |   N/A  |                                |
+|   WorldWide torrents |       NO      |  N/A   |                                |
+|   Archive.org        |       NO      |  N/A   |                                |
+|   MVGROUP.org        |       NO      |  N/A   |                                |
+|   Torrentz2.eu       |       NO      |  N/A   |                                |
+|   Btdb.to            |       NO      |  N/A   |                                |
+|   yinyueso.com       |       NO      |  N/A   |                                |
+|   yts.gd             |       NO      |  N/A   |                                |
+|   eztv.io            |       NO      |  N/A   |                                |
+|   limetorrents.info  |       NO      |  N/A   |                                |
+|   openpirate.org     |       NO      |  N/A   |                                |
+|   torrentz.io        |       NO      |  N/A   |                                |
