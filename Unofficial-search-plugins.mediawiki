@@ -368,19 +368,19 @@ Mejor Torrent]
 | [https://raw.githubusercontent.com/adrianmocan/qbittorrent_plugin_filelist.ro/master/filelist_ro/filelist.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]<br />[https://github.com/adrianmocan/qbittorrent_plugin_filelist.ro/blob/master/README.adoc [[https://github.com/Pireo/hello-world/blob/master/Help%20book.gif]] ]
 | Python2 & Python3<br />✔ qbt 4.1.x
 |-
-| [[https://raw.githubusercontent.com/hannsen/qbittorrent_search_plugins/master/jackett.png]] [https://github.com/Jackett/Jackett/ Jackett]
-| [https://github.com/hannsen/qbittorrent_search_plugins/ ukharley, hannsen]
-| 1.10
-| 29/Jun<br />2018
-| [https://raw.githubusercontent.com/hannsen/qbittorrent_search_plugins/master/jackett.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]<br /> [https://github.com/hannsen/qbittorrent_search_plugins#user-content-jackett--jackettpy [[https://github.com/Pireo/hello-world/blob/master/Help%20book.gif]] ]
-| Python2 & Python3<br />✔ qbt 4.0.x
-|-
 | [[https://github.com/txtsd/qB-IPT/raw/master/iptorrents.png]] [https://iptorrents.com IPTorrents]
 | [https://github.com/txtsd/qB-IPT txtsd (qB-IPT)]
 | 1.0
 | 20/Mar<br />2019
 | [https://raw.githubusercontent.com/txtsd/qB-IPT/master/iptorrents.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]<br /> [https://github.com/txtsd/qB-IPT/blob/master/README.md [[https://github.com/Pireo/hello-world/blob/master/Help%20book.gif]] ]
 | Python3<br />✔ qbt 4.1.x
+|-
+| [[https://raw.githubusercontent.com/hannsen/qbittorrent_search_plugins/master/jackett.png]] [https://github.com/Jackett/Jackett/ Jackett]
+| [https://github.com/hannsen/qbittorrent_search_plugins/ ukharley, hannsen]
+| 1.10
+| 29/Jun<br />2018
+| [https://raw.githubusercontent.com/hannsen/qbittorrent_search_plugins/master/jackett.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]<br /> [https://github.com/hannsen/qbittorrent_search_plugins#user-content-jackett--jackettpy [[https://github.com/Pireo/hello-world/blob/master/Help%20book.gif]] ]
+| Python2 & Python3<br />✔ qbt 4.0.x
 |-
 | [[https://raw.githubusercontent.com/imDMG/qBt_SE/master/kinozal.png]] [http://kinozal.tv/ Kinozal]
 | [https://github.com/imDMG/qBt_SE imDMG]
