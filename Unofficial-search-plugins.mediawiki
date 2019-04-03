@@ -288,11 +288,10 @@ Mejor Torrent]
 |-
 | [[https://raw.githubusercontent.com/CravateRouge/qBittorrentSearchPlugins/master/torrent9.png]] [http://www.torrent9.ph/ Torrent9]
 | [https://github.com/CravateRouge/qBittorrentSearchPlugins CravateRouge]
-| 2.00
+| 2.1
 | 26/Jun<br />2018
 | [https://raw.githubusercontent.com/CravateRouge/qBittorrentSearchPlugins/master/torrent9.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]<br /> [https://github.com/CravateRouge/qBittorrentSearchPlugins/blob/master/README.md [[https://github.com/Pireo/hello-world/blob/master/Help%20book.gif]] ]
-| Python3<br />✔ qbt 4.1.1
-<br />❗ qbt 4.1.3(no result)
+| Python3<br />✔ qbt 4.1.5
 |-
 | [[https://github.com/MaurizioRicci/qBittorrent_search_engine/blob/master/torrentfunk_icon.png]][https://www.torrentfunk.com/ TorrentFunk]
 | [https://github.com/MaurizioRicci/qBittorrent_search_engine/ mauricci]
