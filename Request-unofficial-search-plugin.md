@@ -21,3 +21,4 @@ If you know a torrent site that is not in the official/unofficial list, you can 
 |   limetorrents.info  |       NO      |  N/A   |                                |
 |   openpirate.org     |       NO      |  N/A   |                                |
 |   torrentz.io        |       NO      |  N/A   |                                |
+|   bit-titan.net      |       NO      |  N/A   |      good German tracker       |
