@@ -402,7 +402,7 @@ Mejor Torrent]
 | [https://raw.githubusercontent.com/alvin1979/qbrutracker/master/qbrutracker.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | Python3<br />✖ Not Working
 |-
-| [[https://raw.githubusercontent.com/CravateRouge/qBittorrentSearchPlugins/master/yggtorrent.png]] [https://yggtorrent.to/ YggTorrent]
+| [[https://raw.githubusercontent.com/CravateRouge/qBittorrentSearchPlugins/master/yggtorrent.png]] [https://yggtorrent.ch YggTorrent]
 | [https://github.com/CravateRouge/qBittorrentSearchPlugins CravateRouge]
 | 0.3
 | 04/Apr<br />2019
