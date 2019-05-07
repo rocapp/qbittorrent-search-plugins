@@ -302,8 +302,8 @@ Mejor Torrent]
 |-
 | [[https://github.com/MaurizioRicci/qBittorrent_search_engine/blob/master/torrentproject_icon.png]][https://torrentproject2.se TorrentProject]
 | [https://github.com/MaurizioRicci/qBittorrent_search_engine/ mauricci]
-| 1.0
-| 28/Jan<br />2019
+| 1.1
+| 07/May<br />2019
 | [https://raw.githubusercontent.com/MaurizioRicci/qBittorrent_search_engine/master/torrentproject.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | Python2 & Python3<br />✔ qbt 4.1.x+
 |-
