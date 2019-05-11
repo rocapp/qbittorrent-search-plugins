@@ -22,3 +22,4 @@ If you know a torrent site that is not in the official/unofficial list, you can 
 |   WorldWide torrents |       NO      |  N/A   |                                |
 |   yinyueso.com       |       NO      |  N/A   |                                |
 |   yts.gd             |       NO      |  N/A   |                                |
+|   speed.cd           |       NO      |  N/A   |    a nice private tracker      |
