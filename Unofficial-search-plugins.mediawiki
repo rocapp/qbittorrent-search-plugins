@@ -300,6 +300,13 @@ Mejor Torrent]
 | [https://raw.githubusercontent.com/MaurizioRicci/qBittorrent_search_engine/master/torrentfunk.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | Python2 & Python3<br />✔ qbt 4.1.x+
 |-
+| [[https://www.google.com/s2/favicons?domain=torrentgalaxy.org#.png]][https://torrentgalaxy.org/ TorrentGalaxy]
+| [https://github.com/nindogo Ni Ndogo]
+| 0.04
+| 10/June<br />2019
+| [https://raw.githubusercontent.com/nindogo/qbtSearchScripts/master/torrentgalaxy.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
+| Python3<br />✔ qbt 4.1.6+
+|-
 | [[https://github.com/MaurizioRicci/qBittorrent_search_engine/blob/master/torrentproject_icon.png]][https://torrentproject2.se TorrentProject]
 | [https://github.com/MaurizioRicci/qBittorrent_search_engine/ mauricci]
 | 1.1
