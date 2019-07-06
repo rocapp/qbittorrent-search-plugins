@@ -34,6 +34,13 @@ The plugins shown as ✖ or ❗ will result in the slowdown and malfunction of o
 | [https://raw.githubusercontent.com/hannsen/qbittorrent_search_plugins/master/ali213.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]<br /> [https://github.com/hannsen/qbittorrent_search_plugins#user-content-ali213net--ali213py [[https://github.com/Pireo/hello-world/blob/master/Help%20book.gif]] ]
 | Python2 & Python3<br />✔ qbt 4.1.x
 |-
+| [[https://www.google.com/s2/favicons?domain=anidex.info#.png]] [http://anidex.info/ anidex.info]
+| [https://github.com/nindogo Ni Ndogo]
+| 0.02
+| 06/Jul<br />2019
+| [https://github.com/nindogo/qbtSearchScripts/raw/master/anidex.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
+| Python2 & Python3<br />✔ qbt 4.1.x
+|-
 | [[https://raw.githubusercontent.com/hannsen/qbittorrent_search_plugins/master/threedm.png]] [http://bt.3dmgame.com/ bt.3dmgame.com]
 | [https://github.com/hannsen/qbittorrent_search_plugins/ hannsen]
 | 1.04
