@@ -263,13 +263,6 @@ Mejor Torrent]
 | [https://raw.githubusercontent.com/ngosang/qBittorrent-plugins/master/sumotorrent/sumotorrent.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | Python2 & Python3<br />✔ qbt 4.0.x <br />✖ Warning : fake<br /> torrents site
 |-
-| [[https://raw.githubusercontent.com/ngosang/qBittorrent-plugins/master/tntvillage/tntvillage.png]] [http://www.tntvillage.scambioetico.org/?releaselist TNT Village]
-| [https://github.com/ngosang/qBittorrent-plugins ngosang]
-| 1.00
-| 17/Oct<br />2015
-| [https://raw.githubusercontent.com/ngosang/qBittorrent-plugins/master/tntvillage/tntvillage.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
-| Python2 & Python3<br />✔ qbt 4.0.x
-|-
 | [[https://raw.githubusercontent.com/BrunoReX/qBittorrent-Search-Plugin-TokyoToshokan/master/tokyotoshokan.png]] [https://tokyotosho.info/index.php Tokyo Toshokan]
 | [https://github.com/BrunoReX/qBittorrent-Search-Plugin-TokyoToshokan BrunoReX]
 | 2.3
