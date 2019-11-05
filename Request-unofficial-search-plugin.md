@@ -17,6 +17,7 @@ If you know a torrent site that is not in the official/unofficial list, you can 
 |   limetorrents.info  |       NO      |  N/A   |                                |
 |   MVGROUP.org        |       NO      |  N/A   |                                |
 |   openpirate.org     |       NO      |  N/A   |                                |
+|   torrentday.com     |       NO      |  N/A   |                                |
 |   torrentz.io        |       NO      |  N/A   |                                |
 |   Torrentz2.eu       |       NO      |  N/A   |                                |
 |   WorldWide torrents |       NO      |  N/A   |                                |
