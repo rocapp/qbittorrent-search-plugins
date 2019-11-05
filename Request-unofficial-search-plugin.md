@@ -22,5 +22,6 @@ If you know a torrent site that is not in the official/unofficial list, you can 
 |   WorldWide torrents |       NO      |  N/A   |                                |
 |   yinyueso.com       |       NO      |  N/A   |                                |
 |   yts.gd             |       NO      |  N/A   |                                |
+|   rarbg.is           |       NO      |  N/A   |                                |
 |   speed.cd           |       NO      |  N/A   |    a nice private tracker      |
 |   [anidex.info](https://github.com/nindogo/qbtSearchScripts/raw/master/anidex.py)        |     DONE      |  [Ni Ndogo](https://github.com/nindogo)   |                                |
