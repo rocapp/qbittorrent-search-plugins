@@ -25,4 +25,5 @@ If you know a torrent site that is not in the official/unofficial list, you can 
 |   yts.gd             |       NO      |  N/A   |                                |
 |   rarbg.is           |       NO      |  N/A   |                                |
 |   speed.cd           |       NO      |  N/A   |    a nice private tracker      |
+|   torrenthashes.com  |       NO      |  N/A   |                                |
 |   [anidex.info](https://github.com/nindogo/qbtSearchScripts/raw/master/anidex.py)        |     DONE      |  [Ni Ndogo](https://github.com/nindogo)   |                                |
