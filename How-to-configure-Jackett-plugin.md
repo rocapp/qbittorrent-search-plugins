@@ -1,6 +1,6 @@
-**qBittorrent** comes with few of search plugins. Although it is enough for most users, if you wish to add more search engines you can configure the **Jackett plugin**.
+**qBittorrent** comes with few search plugins. Although it is enough for most users, if you wish to add more search engines you can configure the **Jackett plugin**.
 
-**[Jackett](https://github.com/Jackett/Jackett)** provides support for almost 300 torrent sites (public and private).
+**[Jackett](https://github.com/Jackett/Jackett)** provides support for more than 400 torrent sites (public and private).
 
 ### Disable Jackett plugin
 By default, Jackett plugin is enabled. If you want to disable it, follow the next steps:
