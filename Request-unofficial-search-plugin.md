@@ -10,7 +10,7 @@ If you know a torrent site that is not in the official/unofficial list, you can 
 
 |      Site            |  In Progress? |  Dev   |             Notes              |  
 | :-------------------:|:-------------:| :-----:| :----------------------------: |
-|   Archive.org        |       NO      |  N/A   |                                |
+|   Archive.org        | Not needed    |  N/A   |   Jackett already supports archive, use jackett plugin   |
 |   bit-titan.net      |       NO      |  N/A   |      good german tracker       |
 |   Btdb.to            |       NO      |  N/A   |                                |
 |   eztv.io            |       NO      |  N/A   |                                |
@@ -23,7 +23,7 @@ If you know a torrent site that is not in the official/unofficial list, you can 
 |   WorldWide torrents |       NO      |  N/A   |                                |
 |   yinyueso.com       |       NO      |  N/A   |                                |
 |   yts.gd             |       NO      |  N/A   |                                |
-|   rarbg.is           |       NO      |  N/A   |                                |
+|   rarbg.is           |      DONE     |  N/A   |   Already an official search plugin   |
 |   speed.cd           |       NO      |  N/A   |    a nice private tracker      |
 |   torrenthashes.com  |       NO      |  N/A   |                                |
 |   [anidex.info](https://github.com/nindogo/qbtSearchScripts/raw/master/anidex.py)        |     DONE      |  [Ni Ndogo](https://github.com/nindogo)   |                                |
