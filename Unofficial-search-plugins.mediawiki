@@ -41,7 +41,7 @@ The plugins shown as ✖ or ❗ will result in the slowdown and malfunction of o
 | [https://github.com/nindogo/qbtSearchScripts/raw/master/anidex.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | Python2 & Python3<br />✔ qbt 4.1.x
 |-
-| [[https://raw.githubusercontent.com/hannsen/qbittorrent_search_plugins/master/threedm.png]] [http://bt.3dmgame.com/ bt.3dmgame.com]
+| [[https://raw.githubusercontent.com/hannsen/qbittorrent_search_plugins/00e876a51f2cb45ee22071c56fc7ba52dc117721/threedm.png]] [http://bt.3dmgame.com/ bt.3dmgame.com]
 | [https://github.com/hannsen/qbittorrent_search_plugins/ hannsen]
 | 1.04
 | 25/Dec<br />2017
@@ -78,7 +78,7 @@ The plugins shown as ✖ or ❗ will result in the slowdown and malfunction of o
 | [https://raw.githubusercontent.com/MaurizioRicci/qBittorrent_search_engine/master/cpasbien.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | Python2 & Python3<br />✔ qbt 4.1.x+
 |-
-| [[https://raw.githubusercontent.com/hannsen/qbittorrent_search_plugins/master/demonoid.png]] [http://demonoid.pw/ Demonoid]
+| [[https://raw.githubusercontent.com/hannsen/qbittorrent_search_plugins/80a3ea4226a6b0c74aacfff5d0becf0460f4b01f/demonoid.png]] [http://demonoid.pw/ Demonoid]
 | [https://github.com/hannsen/qbittorrent_search_plugins/ hannsen]
 | 2.0
 | 26/May<br />2018
@@ -173,7 +173,7 @@ The plugins shown as ✖ or ❗ will result in the slowdown and malfunction of o
 | [https://raw.githubusercontent.com/MadeOfMagicAndWires/qBit-plugins/6074a7cccb90dfd5c81b7eaddd3138adec7f3377/engines/linuxtracker.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | Python2 & Python3<br />✔ qbt 4.1.x 
 |-
-| [[https://raw.githubusercontent.com/hannsen/qbittorrent_search_plugins/master/magnetdl.png]] [http://www.magnetdl.com/ MagnetDL]
+| [[https://raw.githubusercontent.com/hannsen/qbittorrent_search_plugins/00e876a51f2cb45ee22071c56fc7ba52dc117721/magnetdl.png]] [http://www.magnetdl.com/ MagnetDL]
 | [https://github.com/nindogo/qbtSearchScripts Ni Ndogo]
 | 1.3
 | 25/Jul<br />2018
