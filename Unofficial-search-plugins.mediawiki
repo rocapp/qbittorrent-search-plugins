@@ -46,7 +46,7 @@ The plugins shown as ✖ or ❗ will result in the slowdown and malfunction of o
 | 1.04
 | 25/Dec<br />2017
 | [https://raw.githubusercontent.com/hannsen/qbittorrent_search_plugins/master/threedm.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]<br /> [https://github.com/hannsen/qbittorrent_search_plugins#user-content-bt3dmgamecom--threedmpy [[https://github.com/Pireo/hello-world/blob/master/Help%20book.gif]] ]
-| ✖ Not Working
+| ✖ Site offline
 |-
 | [[https://github.com/Pireo/hello-world/blob/master/etree.png]] [http://bt.etree.org/ bt.etree.org]
 | [https://github.com/lima66/Torrents_Plugin/ lima66]
@@ -83,7 +83,7 @@ The plugins shown as ✖ or ❗ will result in the slowdown and malfunction of o
 | 2.0
 | 26/May<br />2018
 | [https://raw.githubusercontent.com/hannsen/qbittorrent_search_plugins/master/demonoid.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]<br />
-| Python2 & Python3<br />✔ qbt 4.0.x
+| Python2 & Python3<br />✖ Went semi-private
 |-
 | [[https://i.imgur.com/2QEr3r0.png]] [https://share.dmhy.org/ DMHY]
 | [https://github.com/xyauhideto/DMHY_qBittorrent_search_plugin xyauhideto]
