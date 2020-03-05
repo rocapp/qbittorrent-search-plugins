@@ -94,8 +94,8 @@ The plugins shown as ✖ or ❗ will result in the slowdown and malfunction of o
 |-
 | [[https://github.com/iordic/qbittorrent-search-plugins/raw/master/engines/elitetorrent.png]] [https://www.elitetorrent.li/ Elitetorrent]
 | [https://github.com/iordic/qbittorrent-search-plugins iordic]
-| 1.0
-| 26/Jan<br />2020
+| 1.1
+| 05/March<br />2020
 | [https://raw.githubusercontent.com/iordic/qbittorrent-search-plugins/master/engines/elitetorrent.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | Python3<br />✔ qbt 4.2.x+
 |-
