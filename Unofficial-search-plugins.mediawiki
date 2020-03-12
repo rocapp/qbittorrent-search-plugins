@@ -382,15 +382,15 @@ Mejor Torrent]
 |-
 | [[https://raw.githubusercontent.com/imDMG/qBt_SE/master/kinozal.png]] [http://kinozal.tv/ Kinozal]
 | [https://github.com/imDMG/qBt_SE imDMG]
-| 2.2
-| 16/Dec<br />2019
+| 2.3
+| 12/Mar<br />2020
 | [https://raw.githubusercontent.com/imDMG/qBt_SE/master/kinozal.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]<br /> [https://github.com/imDMG/qBt_SE/blob/master/README.md [[https://github.com/Pireo/hello-world/blob/master/Help%20book.gif]] ]
 | Python 3.6+<br />✔ qbt 4.1.x
 |-
 | [[https://raw.githubusercontent.com/imDMG/qBt_SE/master/nnmclub.png]] [https://nnm-club.me/ NoNaMe-Club]
 | [https://github.com/imDMG/qBt_SE imDMG]
-| 2.2
-| 16/Dec<br />2019
+| 2.3
+| 12/Mar<br />2020
 | [https://raw.githubusercontent.com/imDMG/qBt_SE/master/nnmclub.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]<br /> [https://github.com/imDMG/qBt_SE/blob/master/README.md [[https://github.com/Pireo/hello-world/blob/master/Help%20book.gif]] ]
 | Python 3.6+<br />✔ qbt 4.1.x
 |-
