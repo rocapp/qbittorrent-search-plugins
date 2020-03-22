@@ -3,7 +3,7 @@
 **[Jackett](https://github.com/Jackett/Jackett)** provides support for more than 400 torrent sites (public and private).
 
 ### Disable Jackett plugin
-By default, Jackett plugin is enabled (on windows, it's [installed as a service](https://github.com/Jackett/Jackett/blob/master/README.md)). If you want to disable it, follow the next steps:
+By default, Jackett plugin is enabled in qBittorrent. If you want to disable it, follow the next steps:
 1. In `Search tab`, click in the `Search plugins...` button (bottom right)
 2. Right click over the `Jackett` plugin
 3. Uncheck the `Enabled` checkbox
@@ -27,6 +27,8 @@ Note 2: If the file doesn't exist, you can create it copying the following json:
     "url": "http://127.0.0.1:9117"
 }
 ```
+
+Note 3: Remember to start Jackett. :)
 
 ### Configuration properties
 | Property |  Default value |  Description |
