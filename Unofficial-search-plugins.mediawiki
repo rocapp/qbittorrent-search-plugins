@@ -389,7 +389,7 @@ Mejor Torrent]
 |-
 | [[https://raw.githubusercontent.com/darktohka/qbittorrent-plugins/master/resources/ncore.png]] [https://ncore.cc/ nCore]
 | [https://github.com/darktohka/qbittorrent-plugins darktohka]
-| 1.0
+| 1.1
 | 26/Mar<br />2020
 | [https://raw.githubusercontent.com/darktohka/qbittorrent-plugins/master/ncore.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]<br /> [https://github.com/darktohka/qbittorrent-plugins/blob/master/README.md [[https://github.com/Pireo/hello-world/blob/master/Help%20book.gif]] ]
 | Python2 & Python3 <br />✔ qbt 4.1.x+
