@@ -27,3 +27,4 @@ If you know a torrent site that is not in the official/unofficial list, you can 
 |   speed.cd           |       NO      |  N/A   |    a nice private tracker      |
 |   torrenthashes.com  |       NO      |  N/A   |                                |
 |   [anidex.info](https://github.com/nindogo/qbtSearchScripts/raw/master/anidex.py)        |     DONE      |  [Ni Ndogo](https://github.com/nindogo)   |                                |
+|   Partis.si | NO | N/A | Nice Slovenian rep |
