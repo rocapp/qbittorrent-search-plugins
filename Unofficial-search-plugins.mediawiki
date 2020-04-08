@@ -213,7 +213,7 @@ Mejor Torrent]
 | [[https://www.google.com/s2/favicons?domain=anidex.info#.png]]
 [https://pctreload.com/ PCTReload]
 | [https://github.com/joseeloren/qbittorrent-search-plugins joseeloren]
-| 1.0
+| 1.1
 | 08/April<br />2020
 | [https://github.com/joseeloren/search-plugins/raw/master/nova3/engines/pctreload.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | Python3<br />✔ qbt 4.2.x+
