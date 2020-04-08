@@ -217,14 +217,7 @@ Mejor Torrent]
 | 08/April<br />2020
 | [https://github.com/joseeloren/search-plugins/raw/master/nova3/engines/pctreload.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | Python3<br />✔ qbt 4.2.x+
-|-
-| [[https://www.google.com/s2/favicons?domain=anidex.info#.png]]
-[https://www.subtorrents.la SubTorrents]
-| [https://github.com/joseeloren/qbittorrent-search-plugins joseeloren]
-| 1.0
-| 08/April<br />2020
-| [https://raw.githubusercontent.com/joseeloren/search-plugins/master/nova3/engines/subtorrents.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
-| Python3<br />✔ qbt 4.2.x+
+
 |-
 | [[https://github.com/Pireo/hello-world/blob/master/rockbox.png]] [https://rawkbawx.rocks/ RockBox]
 | [https://github.com/lima66/Torrents_Plugin/ lima66]
@@ -271,6 +264,14 @@ Mejor Torrent]
 | 24/Sept<br />2018
 | [https://raw.githubusercontent.com/MaurizioRicci/qBittorrent_search_engine/master/solotorrent.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | Python2 & Python3<br />✔ qbt 4.1.x+
+|-
+| [[https://www.google.com/s2/favicons?domain=anidex.info#.png]]
+[https://www.subtorrents.la SubTorrents]
+| [https://github.com/joseeloren/qbittorrent-search-plugins joseeloren]
+| 1.0
+| 08/April<br />2020
+| [https://raw.githubusercontent.com/joseeloren/search-plugins/master/nova3/engines/subtorrents.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
+| Python3<br />✔ qbt 4.2.x+
 |-
 | [[https://raw.githubusercontent.com/MadeOfMagicAndWires/qBit-plugins/master/engines/nyaasi.png]] [https://sukebei.nyaa.si/ Sukebei Nyaa]
 | [https://github.com/phuongtailtranminh/qBittorrent-Nyaa-Search-Plugin/ phuongtail<br />tranminh]
