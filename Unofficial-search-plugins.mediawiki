@@ -210,6 +210,13 @@ Mejor Torrent]
 | [https://raw.githubusercontent.com/MadeOfMagicAndWires/qBit-plugins/master/engines/nyaasi.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | Python2 & Python3 <br />✔ qbt 4.0.x
 |-
+| [[https://www.google.com/s2/favicons?domain=anidex.info#.png]] [http://anidex.info/ anidex.info][https://pctreload.com/ PCTReload]
+| [https://github.com/joseeloren/qbittorrent-search-plugins joseeloren]
+| 1.0
+| 08/April<br />2020
+| [https://raw.githubusercontent.com/iordic/qbittorrent-search-plugins/master/engines/pctreload.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
+| Python3<br />✔ qbt 4.2.x+
+|-
 | [[https://github.com/Pireo/hello-world/blob/master/rockbox.png]] [https://rawkbawx.rocks/ RockBox]
 | [https://github.com/lima66/Torrents_Plugin/ lima66]
 | 1.1
