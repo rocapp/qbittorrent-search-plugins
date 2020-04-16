@@ -38,7 +38,7 @@ The plugins shown as ✖ or ❗ will result in the slowdown and malfunction of o
 | [https://github.com/nindogo Ni Ndogo]
 | 0.02
 | 06/Jul<br />2019
-| [https://github.com/nindogo/qbtSearchScripts/raw/master/anidex.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
+| [https://raw.githubusercontent.com/nindogo/qbtSearchScripts/master/anidex.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | Python2 & Python3<br />✔ qbt 4.1.x
 |-
 | [[https://raw.githubusercontent.com/hannsen/qbittorrent_search_plugins/00e876a51f2cb45ee22071c56fc7ba52dc117721/threedm.png]] [http://bt.3dmgame.com/ bt.3dmgame.com]
@@ -89,7 +89,7 @@ The plugins shown as ✖ or ❗ will result in the slowdown and malfunction of o
 | [https://github.com/xyauhideto/DMHY_qBittorrent_search_plugin xyauhideto]
 | 1.0
 | 23/July<br />2018
-| [https://github.com/xyauhideto/DMHY_qBittorrent_search_plugin/raw/master/dmhyorg.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]<br />
+| [https://raw.githubusercontent.com/xyauhideto/DMHY_qBittorrent_search_plugin/master/dmhyorg.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]<br />
 | Python3<br />✔ qbt 4.1.x
 |-
 | [[https://github.com/iordic/qbittorrent-search-plugins/raw/master/engines/elitetorrent.png]] [https://www.elitetorrent.nl/ Elitetorrent]
@@ -156,7 +156,7 @@ The plugins shown as ✖ or ❗ will result in the slowdown and malfunction of o
 | [https://github.com/dandag/qBittorrent_search_engine shamalaya]
 | 1.0
 | 16/Feb<br />2019
-| [https://github.com/dandag/qBittorrent_search_engine/blob/master/corsarored.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]<br /> [https://github.com/dandag/qBittorrent_search_engine#user-content-corsarored--corsaroredpy [[https://github.com/Pireo/hello-world/blob/master/Help%20book.gif]] ]
+| [https://raw.githubusercontent.com/dandag/qBittorrent_search_engine/master/corsarored.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]<br /> [https://github.com/dandag/qBittorrent_search_engine#user-content-corsarored--corsaroredpy [[https://github.com/Pireo/hello-world/blob/master/Help%20book.gif]] ]
 | Python3<br />✔ qbt 4.1.x+
 |-
 | [[https://github.com/MaurizioRicci/qBittorrent_search_engine/blob/master/kickass_icon.png]] [https://kickass-cr.online/  Kickass Torrent]
@@ -215,7 +215,7 @@ Mejor Torrent]
 | [https://github.com/joseeloren/qbittorrent-search-plugins joseeloren]
 | 1.16
 | 08/April<br />2020
-| [https://github.com/joseeloren/search-plugins/raw/master/nova3/engines/pctreload.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
+| [https://raw.githubusercontent.com/joseeloren/search-plugins/master/nova3/engines/pctreload.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | Python3<br />✔ qbt 4.2.x+
 
 |-
