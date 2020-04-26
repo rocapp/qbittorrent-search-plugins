@@ -41,13 +41,6 @@ The plugins shown as ✖ or ❗ will result in the slowdown and malfunction of o
 | [https://raw.githubusercontent.com/nindogo/qbtSearchScripts/master/anidex.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | Python2 & Python3<br />✔ qbt 4.1.x
 |-
-| [[https://raw.githubusercontent.com/hannsen/qbittorrent_search_plugins/00e876a51f2cb45ee22071c56fc7ba52dc117721/threedm.png]] [http://bt.3dmgame.com/ bt.3dmgame.com]
-| [https://github.com/hannsen/qbittorrent_search_plugins/ hannsen]
-| 1.04
-| 25/Dec<br />2017
-| [https://raw.githubusercontent.com/hannsen/qbittorrent_search_plugins/master/threedm.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]<br /> [https://github.com/hannsen/qbittorrent_search_plugins#user-content-bt3dmgamecom--threedmpy [[https://github.com/Pireo/hello-world/blob/master/Help%20book.gif]] ]
-| ✖ Site offline
-|-
 | [[https://github.com/Pireo/hello-world/blob/master/etree.png]] [http://bt.etree.org/ bt.etree.org]
 | [https://github.com/lima66/Torrents_Plugin/ lima66]
 | 1.00
