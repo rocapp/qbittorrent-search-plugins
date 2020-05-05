@@ -399,10 +399,10 @@ Mejor Torrent]
 |-
 | [[https://raw.githubusercontent.com/Skymirrh/qBittorrent-rutracker-plugin/master/rutracker.png]] [http://rutracker.org/ RuTracker]
 | [https://github.com/Skymirrh/qBittorrent-rutracker-plugin Skymirrh]
-| 1.1.3
-| 04/Sep<br />2019
+| 1.1.4
+| 06/May<br />2020
 | [https://raw.githubusercontent.com/Skymirrh/qBittorrent-rutracker-plugin/master/rutracker.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]<br />[https://github.com/Skymirrh/qBittorrent-rutracker-plugin/blob/master/README.md [[https://github.com/Pireo/hello-world/blob/master/Help%20book.gif]] ]
-| Python2 & Python3<br />✔ qbt 4.1.x
+| Python2 & Python3<br />✔ qbt 4.2.x
 |-
 | [[https://raw.githubusercontent.com/Skymirrh/qBittorrent-rutracker-plugin/master/rutracker.png]] [http://rutracker.org/ RuTracker]
 | [https://github.com/alvin1979/qbrutracker alvin1979]
