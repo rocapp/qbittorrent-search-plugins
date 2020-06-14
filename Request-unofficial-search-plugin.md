@@ -28,6 +28,7 @@ If you know a torrent site that is not in the official/unofficial list, you can 
 |   torrenthashes.com  |       NO      |  N/A   |                                |
 |   [anidex.info](https://github.com/nindogo/qbtSearchScripts/raw/master/anidex.py)        |     DONE      |  [Ni Ndogo](https://github.com/nindogo)   |                                |
 |   Partis.si | NO | N/A | Nice Slovenian rep |
-|   torrentdownloads.me | NO | N/A | Huge torrent indexer |
-|   mejortorrentt.net | NO | N/A | Inglés / Latino / Castellano |
-|   GranTorrent.eu | NO | N/A | Inglés / Latino / Castellano |
+|   torrentdownloads.me| NO | N/A | Huge torrent indexer |
+|   mejortorrentt.net  | NO | N/A | Inglés / Latino / Castellano |
+|   GranTorrent.eu     | NO | N/A | Inglés / Latino / Castellano |
+|   tupelihd.com       | NO | N/A | Inglés / Latino / Castellano |
