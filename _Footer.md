@@ -1,0 +1,1 @@
+Here is the custom footer to qbittorrent/search-plugins
