@@ -37,5 +37,4 @@ If you know a torrent site that is not in the official/unofficial list, you can 
 |   sharewood.tv       | NO | N/A | French torrent               |
 |   rutracker.guru     | NO | N/A | Easily search for Rutracker torrents |
 |   dirtytorrents.com  | NO | N/A | Torrent search engine from different trackers |
-|   nyaa.si            | NO | N/A | Torrent for animes & manga   |
 |   sound-park.world   | NO | N/A | Torrent for music            |
