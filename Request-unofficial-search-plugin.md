@@ -33,8 +33,7 @@ If you know a torrent site that is not in the official/unofficial list, you can 
 |   GranTorrent.eu     | NO | N/A | Inglés / Latino / Castellano |
 |   tupelihd.com       | NO | N/A | Inglés / Latino / Castellano |
 |   Descargas2020.org  | NO | N/A | Inglés / Latino / Castellano |
-|   yggtorrent.si      | NO | N/A | Most popular French torrent  |
 |   sharewood.tv       | NO | N/A | French torrent               |
-|   rutracker.guru     | NO | N/A | Easily search for Rutracker torrents |
+|   rutracker.guru     | NO | N/A | Easily search for Rutracker torrents without account |
 |   dirtytorrents.com  | NO | N/A | Torrent search engine from different trackers |
 |   sound-park.world   | NO | N/A | Torrent for music            |
