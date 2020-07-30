@@ -15,7 +15,8 @@ If you know a torrent site that is not in the official/unofficial list, you can 
 |   Btdb.to            |       NO      |  N/A   |                                |
 |   eztv.io            |       NO      |  N/A   |                                |
 |   limetorrents.info  |       NO      |  N/A   |                                |
-|   MVGROUP.org        |       NO      |  N/A   |                                |
+|   MVGROUP.org        |       NO      |  N/A   |                                |  
+|   mobilism.org       |       NO      |  N/A   | requires login                 |
 |   openpirate.org     |       NO      |  N/A   |                                |
 |   torrentday.com     |       NO      |  N/A   |        have invite             |
 |   torrentz.io        |       NO      |  N/A   |                                |
