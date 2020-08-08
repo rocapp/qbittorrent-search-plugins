@@ -147,8 +147,8 @@ The plugins shown as ✖ or ❗ will result in the slowdown and malfunction of o
 |-
 | [[https://github.com/dandag/qBittorrent_search_engine/blob/master/corsarored.png]] [https://corsaro.red/ Corsaro.red]
 | [https://github.com/dandag/qBittorrent_search_engine shamalaya]
-| 1.0
-| 16/Feb<br />2019
+| 1.1
+| 08/Aug<br />2020
 | [https://raw.githubusercontent.com/dandag/qBittorrent_search_engine/master/corsarored.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]<br /> [https://github.com/dandag/qBittorrent_search_engine#user-content-corsarored--corsaroredpy [[https://github.com/Pireo/hello-world/blob/master/Help%20book.gif]] ]
 | Python3<br />✔ qbt 4.1.x+
 |-
