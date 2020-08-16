@@ -38,3 +38,4 @@ If you know a torrent site that is not in the official/unofficial list, you can 
 |   rutracker.guru     | NO | N/A | Easily search for Rutracker torrents without account |
 |   dirtytorrents.com  | NO | N/A | Torrent search engine from different trackers |
 |   sound-park.world   | NO | N/A | Torrent for music            |
+|   pirateiro.com      |       NO      |  N/A   |                                |
