@@ -17,9 +17,7 @@ The file `jackett.json` should be located in qBittorrent search engines folder:
 * Linux: `~/.local/share/data/qBittorrent/nova3/engines/`
 * OS X: `~/Library/Application Support/qBittorrent/nova3/engines/`
 
-Note: If you use Python 2 instead of Python 3, replace `nova3` with `nova`
-
-Note 2: If the file doesn't exist, you can create it copying the following json:
+Note: If the file doesn't exist, you can create it copying the following json:
 ```
 {
     "api_key": "YOUR_API_KEY_HERE", 
