@@ -28,6 +28,16 @@ Note: If the file doesn't exist, you can create it copying the following json:
 
 Note 3: Remember to start Jackett. :)
 
+Note 4: If running qBittorrent headless and using the web page on a remote server, Jackett needs to be configured to allow remote calls and its IP. Eg:
+```
+$ cat config/data/qBittorrent/nova3/engines/jackett.json
+{
+    "api_key": "YOUR_API_KEY_HERE",
+    "tracker_first": false,
+    "url": "http://yourserverip:9117"
+}
+```
+
 ### Configuration properties
 | Property |  Default value |  Description |
 |---|---|---|
