@@ -16,6 +16,8 @@ The file `jackett.json` should be located in qBittorrent search engines folder:
 * Windows: `%localappdata%\qBittorrent\nova3\engines\`
 * Linux: `~/.local/share/data/qBittorrent/nova3/engines/`
 * OS X: `~/Library/Application Support/qBittorrent/nova3/engines/`
+### Also try
+* Linux Mint 20: `~/.var/app/org.qbittorrent.qBittorrent/data/data/qBittorrent/nova3/engines/
 
 Note: If the file doesn't exist, you can create it copying the following json:
 ```
