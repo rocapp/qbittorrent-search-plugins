@@ -95,7 +95,7 @@ The plugins shown as ✖ or ❗ will result in the slowdown and malfunction of o
 | [https://raw.githubusercontent.com/xyauhideto/DMHY_qBittorrent_search_plugin/master/dmhyorg.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]<br />
 | ✔ qbt 4.1.x / python 3.5.0
 |-
-| [[https://github.com/iordic/qbittorrent-search-plugins/raw/master/engines/elitetorrent.png]] [https://www.elitetorrent.nl/ Elitetorrent]
+| [[https://github.com/iordic/qbittorrent-search-plugins/raw/master/engines/elitetorrent.png]] [https://www.elitetorrent.com/ Elitetorrent]
 | [https://github.com/iordic/qbittorrent-search-plugins iordic]
 | 1.1
 | 05/Mar<br />2020
