@@ -387,10 +387,10 @@ Mejor Torrent]
 |-
 | [[https://raw.githubusercontent.com/imDMG/qBt_SE/master/kinozal.png]] [http://kinozal.tv/ Kinozal]
 | [https://github.com/imDMG/qBt_SE imDMG]
-| 2.3
-| 12/Mar<br />2020
+| 2.4
+| 20/Sep<br />2020
 | [https://raw.githubusercontent.com/imDMG/qBt_SE/master/kinozal.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]<br /> [https://github.com/imDMG/qBt_SE/blob/master/README.md [[https://github.com/Pireo/hello-world/blob/master/Help%20book.gif]] ]
-| ✔ qbt 4.1.x / python 3.6+
+| ✔ qbt 4.2.x / python 3.6+
 |-
 | [[https://raw.githubusercontent.com/darktohka/qbittorrent-plugins/master/resources/ncore.png]] [https://ncore.cc/ nCore]
 | [https://github.com/darktohka/qbittorrent-plugins darktohka]
@@ -401,10 +401,10 @@ Mejor Torrent]
 |-
 | [[https://raw.githubusercontent.com/imDMG/qBt_SE/master/nnmclub.png]] [https://nnm-club.me/ NoNaMe-Club]
 | [https://github.com/imDMG/qBt_SE imDMG]
-| 2.3
-| 12/Mar<br />2020
+| 2.5
+| 20/Sep<br />2020
 | [https://raw.githubusercontent.com/imDMG/qBt_SE/master/nnmclub.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]<br /> [https://github.com/imDMG/qBt_SE/blob/master/README.md [[https://github.com/Pireo/hello-world/blob/master/Help%20book.gif]] ]
-| ✔ qbt 4.1.x / python 3.6+
+| ✔ qbt 4.2.x / python 3.6+
 |-
 | [[https://raw.githubusercontent.com/Skymirrh/qBittorrent-rutracker-plugin/master/rutracker.png]] [http://rutracker.org/ RuTracker]
 | [https://github.com/Skymirrh/qBittorrent-rutracker-plugin Skymirrh]
