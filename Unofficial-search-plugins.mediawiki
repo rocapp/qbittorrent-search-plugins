@@ -401,8 +401,8 @@ Mejor Torrent]
 |-
 | [[https://raw.githubusercontent.com/imDMG/qBt_SE/master/nnmclub.png]] [https://nnm-club.me/ NoNaMe-Club]
 | [https://github.com/imDMG/qBt_SE imDMG]
-| 2.5
-| 20/Sep<br />2020
+| 2.6
+| 22/Sep<br />2020
 | [https://raw.githubusercontent.com/imDMG/qBt_SE/master/nnmclub.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]<br /> [https://github.com/imDMG/qBt_SE/blob/master/README.md [[https://github.com/Pireo/hello-world/blob/master/Help%20book.gif]] ]
 | ✔ qbt 4.2.x / python 3.6+
 |-
