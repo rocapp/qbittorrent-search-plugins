@@ -213,7 +213,7 @@ Mejor Torrent]
 | ✔ qbt 4.0.x / python 3.5.0
 |-
 | [[https://www.google.com/s2/favicons?domain=anidex.info#.png]]
-[https://https://pctfenix.com/ PCTFenix]
+[https://pctfenix.com/ PCTFenix]
 | [https://github.com/joseeloren/qbittorrent-search-plugins joseeloren]
 | 1.01
 | 04/October<br />2020
