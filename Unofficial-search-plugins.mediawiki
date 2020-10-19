@@ -223,7 +223,7 @@ Mejor Torrent]
 | [[https://www.google.com/s2/favicons?domain=anidex.info#.png]]
 [https://pctfenix.com/ PCTMix]
 | [https://github.com/joseeloren/qbittorrent-search-plugins joseeloren]
-| 1.1
+| 1.22
 | 19/October<br />2020
 | [https://raw.githubusercontent.com/joseeloren/search-plugins/master/nova3/engines/pctmix.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | ✔ qbt 4.2.x / python 3.5.0
