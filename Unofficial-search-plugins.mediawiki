@@ -392,7 +392,7 @@ Mejor Torrent]
 | 1.30
 | 13/Apr<br />2017
 | [https://raw.githubusercontent.com/MadeOfMagicAndWires/qBit-plugins/master/engines/bakabt.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]<br />[https://github.com/MadeOfMagicAndWires/qBit-plugins/blob/master/README.md [[https://github.com/Pireo/hello-world/blob/master/Help%20book.gif]] ]
-| ✖ Not Tested
+| ✔ qbt 4.3.x / python 3.9.x
 |-
 | [[https://github.com/txtsd/qB-IPT/raw/master/iptorrents.png]] [https://iptorrents.com IPTorrents]
 | [https://github.com/txtsd/qB-IPT txtsd (qB-IPT)]
