@@ -40,3 +40,5 @@ If you know a torrent site that is not in the official/unofficial list, you can 
 |   sound-park.world   | NO | N/A | Torrent for music            |
 |   pirateiro.com      |       NO      |  N/A   |                                |
 |   dontorrent.org     |       NO      |  N/A   | Inglés / Castellano            |
+|   sukebei.nyaa.si    | NO | N/A |NSFW version that shows a list of hentai torrents and manga. |
+|   nyaa.si    | NO | N/A | Main Website for anime/manga torrents|
