@@ -40,3 +40,4 @@ If you know a torrent site that is not in the official/unofficial list, you can 
 |   sound-park.world   | NO | N/A | Torrent for music            |
 |   pirateiro.com      |       NO      |  N/A   |                                |
 |   dontorrent.org     |       NO      |  N/A   | Inglés / Castellano            |
+|   NewPCT (pctmix.com)|       NO      |  N/A   | Inglés / Castellano            |
