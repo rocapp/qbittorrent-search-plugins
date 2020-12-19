@@ -41,4 +41,4 @@ If you know a torrent site that is not in the official/unofficial list, you can 
 |   pirateiro.com      |       NO      |  N/A   |                                |
 |   dontorrent.org     |       NO      |  N/A   | Inglés / Castellano            |
 |   NewPCT (pctmix.com)|       NO      |  N/A   | Inglés / Castellano            |
-|   xspeeds.eu         |       NO      |  N/A   | Private Torrent Tracker        |
+|   xspeeds.eu         |       NO      |  N/A   | Private Tracker, Requires Login |
