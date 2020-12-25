@@ -12,7 +12,7 @@ If you know a torrent site that is not in the official/unofficial list, you can 
 | :-------------------:|:-------------:| :-----:| :----------------------------: |
 |   Archive.org        | Not needed    |  N/A   |   Jackett already supports archive, use jackett plugin   |
 |   bit-titan.net      |       NO      |  N/A   |      good german tracker       |
-|   Btdb.to            |       NO      |  N/A   |                                |
+|   Btdb.eu            |       NO      |  N/A   |                                |
 |   eztv.io            |       NO      |  N/A   |   This is no longer working. Use eztv.it instead.   |
 |   limetorrents.info  |       NO      |  N/A   |                                |
 |   MVGROUP.org        |       NO      |  N/A   |                                |  
@@ -29,6 +29,7 @@ If you know a torrent site that is not in the official/unofficial list, you can 
 |   torrenthashes.com  |       NO      |  N/A   |                                |
 |   [anidex.info](https://github.com/nindogo/qbtSearchScripts/raw/master/anidex.py)        |     DONE      |  [Ni Ndogo](https://github.com/nindogo)   |                                |
 |   Partis.si | NO | N/A | Nice Slovenian rep |
+|   torrent-paradise.ml| NO | N/A | |
 |   torrentdownloads.me| NO | N/A | Huge torrent indexer |
 |   mejortorrentt.net  | NO | N/A | Inglés / Latino / Castellano |
 |   GranTorrent.eu     | NO | N/A | Inglés / Latino / Castellano |
