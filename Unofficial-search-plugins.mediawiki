@@ -66,13 +66,6 @@ The plugins shown as ✖ or ❗ will result in the slowdown and malfunction of o
 | [https://raw.githubusercontent.com/MaurizioRicci/qBittorrent_search_engine/master/cinecalidad.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | ✔ qbt 4.1.x / python 3.5.0 <br />❗ qbt 4.3.0.1 / python 3.9
 |-
-| [[https://raw.githubusercontent.com/davy39/qbfrench/master/cpasbien.png]] [http://www.cpabien.tv/ Cpasbien]
-| [https://github.com/davy39/qbfrench davy39]
-| 1.10
-| 19/Aug<br />2016
-| [https://raw.githubusercontent.com/davy39/qbfrench/master/cpasbien.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
-| ✖ Not Working
-|-
 | [[https://github.com/MaurizioRicci/qBittorrent_search_engine/blob/master/cpasbien_icon.png]] 
 [http://ww2.cpasbiens.co  Cpasbien]
 | [https://github.com/MaurizioRicci/qBittorrent_search_engine/ mauricci]
@@ -428,13 +421,6 @@ Mejor Torrent]
 | 06/May<br />2020
 | [https://raw.githubusercontent.com/Skymirrh/qBittorrent-rutracker-plugin/master/rutracker.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]<br />[https://github.com/Skymirrh/qBittorrent-rutracker-plugin/blob/master/README.md [[https://github.com/Pireo/hello-world/blob/master/Help%20book.gif]] ]
 | ✔ qbt 4.2.x / python 3.5.0
-|-
-| [[https://raw.githubusercontent.com/Skymirrh/qBittorrent-rutracker-plugin/master/rutracker.png]] [http://rutracker.org/ RuTracker]
-| [https://github.com/alvin1979/qbrutracker alvin1979]
-| 1.00
-| 14/Sep<br />2016
-| [https://raw.githubusercontent.com/alvin1979/qbrutracker/master/qbrutracker.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
-| ✖ Not Working
 |-
 | [[https://raw.githubusercontent.com/CravateRouge/qBittorrentSearchPlugins/master/yggtorrent.png]] [https://www2.yggtorrent.pe/ YggTorrent]
 | [https://github.com/CravateRouge/qBittorrentSearchPlugins CravateRouge]
