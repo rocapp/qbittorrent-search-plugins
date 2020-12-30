@@ -257,7 +257,7 @@ Mejor Torrent]
 | [https://raw.githubusercontent.com/hannsen/qbittorrent_search_plugins/master/smallgames.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]<br /> [https://github.com/hannsen/qbittorrent_search_plugins#user-content-small-gamesinfo--smallgamespy [[https://github.com/Pireo/hello-world/blob/master/Help%20book.gif]] ]
 | ✔ qbt 4.0.x / python 3.5.0
 |-
-| [[https://raw.githubusercontent.com/hannsen/qbittorrent_search_plugins/master/snowfl.png]] [https://snowfl.com/ snowfl.com]
+| [[https://raw.githubusercontent.com/libellula/favicons/main/favicon-16x16.png]] [https://snowfl.com/ snowfl.com]
 | [https://github.com/gitDew/qbittorrent-snowfl-search-plugin gitDew]
 | 1.00
 | 27/Oct<br />2018
