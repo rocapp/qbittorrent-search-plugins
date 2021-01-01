@@ -74,6 +74,13 @@ The plugins shown as ✖ or ❗ will result in the slowdown and malfunction of o
 | [https://raw.githubusercontent.com/MaurizioRicci/qBittorrent_search_engine/master/cpasbien.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | ✔ qbt 4.1.x / python 3.5.0
 |-
+| [[https://github.com/bugsbringer/qbit-plugins/blob/master/darklibria.png]] [https://dark-libria.it/ dark-libria]
+| [https://github.com/bugsbringer/qbit-plugins Bugsbringer]
+| 0.10
+| 20/June<br />2020
+| [https://raw.githubusercontent.com/bugsbringer/qbit-plugins/master/darklibria.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]<br /> [https://github.com/bugsbringer/qbit-plugins/blob/master/README.md [[https://github.com/Pireo/hello-world/blob/master/Help%20book.gif]] ]
+| ✔ qbt 4.2.x / python 3.5.0
+|-
 | [[https://raw.githubusercontent.com/hannsen/qbittorrent_search_plugins/80a3ea4226a6b0c74aacfff5d0becf0460f4b01f/demonoid.png]] [http://demonoid.pw/ Demonoid]
 | [https://github.com/hannsen/qbittorrent_search_plugins/ hannsen]
 | 2.0
@@ -335,13 +342,6 @@ Mejor Torrent]
 | 04/Feb<br />2019
 | [https://raw.githubusercontent.com/MaurizioRicci/qBittorrent_search_engine/master/yts_am.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | ✔ qbt 4.1.x / python 3.5.0 <br />Uses Yts.am's API
-|-
-| [[https://github.com/bugsbringer/qbit-plugins/blob/master/darklibria.png]] [https://dark-libria.it/ dark-libria]
-| [https://github.com/bugsbringer/qbit-plugins Bugsbringer]
-| 0.10
-| 20/June<br />2020
-| [https://raw.githubusercontent.com/bugsbringer/qbit-plugins/master/darklibria.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]<br /> [https://github.com/bugsbringer/qbit-plugins/blob/master/README.md [[https://github.com/Pireo/hello-world/blob/master/Help%20book.gif]] ]
-| ✔ qbt 4.2.x / python 3.5.0
 |}
 
 = Plugins for Private sites =
@@ -378,6 +378,13 @@ Mejor Torrent]
 | [https://raw.githubusercontent.com/imDMG/qBt_SE/master/kinozal.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]<br /> [https://github.com/imDMG/qBt_SE/blob/master/README.md [[https://github.com/Pireo/hello-world/blob/master/Help%20book.gif]] ]
 | ✔ qbt 4.2.x / python 3.6+
 |-
+| [[https://github.com/bugsbringer/qbit-plugins/blob/master/lostfilm.png]] [https://www.lostfilm.tv/ LostFilm.TV]
+| [https://github.com/bugsbringer/qbit-plugins Bugsbringer]
+| 0.14
+| 13/June<br />2020
+| [https://raw.githubusercontent.com/bugsbringer/qbit-plugins/master/lostfilm.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]<br /> [https://github.com/bugsbringer/qbit-plugins/blob/master/README.md [[https://github.com/Pireo/hello-world/blob/master/Help%20book.gif]] ]
+| ✔ qbt 4.2.x / python 3.5.0
+|-
 | [[https://raw.githubusercontent.com/darktohka/qbittorrent-plugins/master/resources/ncore.png]] [https://ncore.cc/ nCore]
 | [https://github.com/darktohka/qbittorrent-plugins darktohka]
 | 1.2
@@ -392,6 +399,13 @@ Mejor Torrent]
 | [https://raw.githubusercontent.com/imDMG/qBt_SE/master/nnmclub.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]<br /> [https://github.com/imDMG/qBt_SE/blob/master/README.md [[https://github.com/Pireo/hello-world/blob/master/Help%20book.gif]] ]
 | ✔ qbt 4.2.x / python 3.6+
 |-
+| [[https://raw.githubusercontent.com/TainakaDrums/qbPornolab/master/pornolab.png]] [https://pornolab.net/ Pornolab]
+| [https://github.com/TainakaDrums/qbPornolab TainakaDrums]
+| 1.0
+| 18/Aug<br />2020
+| [https://raw.githubusercontent.com/TainakaDrums/qbPornolab/master/pornolab.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]<br /> [https://github.com/TainakaDrums/qbPornolab/blob/master/README.md [[https://github.com/Pireo/hello-world/blob/master/Help%20book.gif]] ]
+| ✔ qbt 4.2.x / python 3.5.0
+|-
 | [[https://raw.githubusercontent.com/Skymirrh/qBittorrent-rutracker-plugin/master/rutracker.png]] [http://rutracker.org/ RuTracker]
 | [https://github.com/Skymirrh/qBittorrent-rutracker-plugin Skymirrh]
 | 1.1.5
@@ -405,19 +419,5 @@ Mejor Torrent]
 | 25/Nov<br />2019
 | [https://raw.githubusercontent.com/CravateRouge/qBittorrentSearchPlugins/master/yggtorrent.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]<br /> [https://github.com/CravateRouge/qBittorrentSearchPlugins/blob/master/README.md [[https://github.com/Pireo/hello-world/blob/master/Help%20book.gif]] ]
 | ✖ Not Working
-|-
-| [[https://github.com/bugsbringer/qbit-plugins/blob/master/lostfilm.png]] [https://www.lostfilm.tv/ LostFilm.TV]
-| [https://github.com/bugsbringer/qbit-plugins Bugsbringer]
-| 0.14
-| 13/June<br />2020
-| [https://raw.githubusercontent.com/bugsbringer/qbit-plugins/master/lostfilm.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]<br /> [https://github.com/bugsbringer/qbit-plugins/blob/master/README.md [[https://github.com/Pireo/hello-world/blob/master/Help%20book.gif]] ]
-| ✔ qbt 4.2.x / python 3.5.0
-|-
-| [[https://raw.githubusercontent.com/TainakaDrums/qbPornolab/master/pornolab.png]] [https://pornolab.net/ Pornolab]
-| [https://github.com/TainakaDrums/qbPornolab TainakaDrums]
-| 1.0
-| 18/Aug<br />2020
-| [https://raw.githubusercontent.com/TainakaDrums/qbPornolab/master/pornolab.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]<br /> [https://github.com/TainakaDrums/qbPornolab/blob/master/README.md [[https://github.com/Pireo/hello-world/blob/master/Help%20book.gif]] ]
-| ✔ qbt 4.2.x / python 3.5.0
 |}
 ''*All files'' is a tarball (.tar.gz) containing script, icon, README & INSTALL files.
