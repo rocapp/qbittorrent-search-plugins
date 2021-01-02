@@ -166,7 +166,7 @@ Mejor Torrent]
 | [https://raw.githubusercontent.com/MadeOfMagicAndWires/qBit-plugins/master/engines/nyaasi.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | ✔ qbt 4.0.x / python 3.5.0
 |-
-| [[https://raw.githubusercontent.com/CravateRouge/qBittorrentSearchPlugins/master/oxtorrent.png]] [https://www.oxtorrent.com OxTorrent]
+| [[https://github.com/libellula/qbt-plugins/blob/main/favicon-16x16.png]] [https://www.oxtorrent.com OxTorrent]
 | [https://github.com/CravateRouge/qBittorrentSearchPlugins CravateRouge]
 | 1.0
 | 02/Jan<br />2021
