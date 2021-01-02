@@ -151,7 +151,7 @@ Mejor Torrent]
 | 1.5
 | 02/Jan<br />2021
 | [https://raw.githubusercontent.com/libellula/qbt-plugins/main/mejor.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
-| ✔ qbt 4.1.x / python 3.5.0 (no seeds/peers and results not clickable)
+| ✔ qbt 4.1.x / python 3.5.0 <br />(no seeds/peers and results not clickable)
 |-
 | [[https://raw.githubusercontent.com/4chenz/pantsu-plugin/master/pantsu.png]] [https://nyaa.pantsu.cat/ Nyaa.Pantsu]
 | [https://github.com/4chenz/pantsu-plugin/ 4chenz]
@@ -295,7 +295,7 @@ Mejor Torrent]
 | 0.03
 | 22/Sept<br />2018
 | [https://raw.githubusercontent.com/nindogo/qbtSearchScripts/master/uniondht.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
-| ✔ qbt 4.1.x / python 3.5.0 (results not clickable)
+| ✔ qbt 4.1.x / python 3.5.0 <br />(results not clickable)
 |-
 | [[https://www.google.com/s2/favicons?domain=yourbittorrent.com#.png]] [https://yourbittorrent.com/ YourBittorrent]
 | [https://github.com/nindogo Ni Ndogo]
