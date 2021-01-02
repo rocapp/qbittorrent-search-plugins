@@ -122,7 +122,7 @@ The plugins shown as ✖ or ❗ will result in the slowdown and malfunction of o
 | 1.9
 | 31/July<br />2019
 | [https://raw.githubusercontent.com/MaurizioRicci/qBittorrent_search_engine/master/corsaronero.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
-| ✔ qbt 4.1.x / python 3.5.0
+| ✖ Not Working
 |-
 | [[https://github.com/MaurizioRicci/qBittorrent_search_engine/blob/master/kickass_icon.png]] [https://kickass-cr.online/  Kickass Torrent]
 | [https://github.com/MaurizioRicci/qBittorrent_search_engine/ mauricci]
