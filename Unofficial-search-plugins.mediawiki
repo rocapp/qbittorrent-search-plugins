@@ -205,10 +205,10 @@ Mejor Torrent]
 | ✔ qbt 4.0.x / python 3.5.0 <br />✖ qbt 4.1.3 (plugin v1.1)
 |-
 | [[https://github.com/Pireo/hello-world/blob/master/rutor.png]] [http://rutor.info/ Rutor]
-| [https://github.com/Pireo/hello-world/ Pireo]
-| 1.40
-| 23/Jan<br />2017
-| [https://raw.githubusercontent.com/Pireo/hello-world/master/rutor.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
+| [https://github.com/imDMG/qBt_SE]
+| 1.1
+| 02/Jan<br />2021
+| [https://raw.githubusercontent.com/imDMG/qBt_SE/master/rutor.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | ✔ qbt 4.0.x / python 3.5.0 <br />❗ qbt 4.1.3 (no result)
 |-
 | [[https://www.google.com/s2/favicons?domain=skytorrents.lol#.png]] [https://www.skytorrents.lol/ SkyTorrents]
