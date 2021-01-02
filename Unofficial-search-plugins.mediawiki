@@ -58,8 +58,7 @@ The plugins shown as ✖ or ❗ will result in the slowdown and malfunction of o
 | [https://raw.githubusercontent.com/lima66/Torrents_Plugin/master/btetree.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | ✖ Not Working
 |-
-| [[https://github.com/MaurizioRicci/qBittorrent_search_engine/blob/master/cinecalidad_icon.png]] 
-[https://www.cinecalidad.to/  CineCalidad]
+| [[https://github.com/MaurizioRicci/qBittorrent_search_engine/blob/master/cinecalidad_icon.png]] [https://www.cinecalidad.to/  CineCalidad]
 | [https://github.com/MaurizioRicci/qBittorrent_search_engine/ mauricci]
 | 1.0
 | 23/Sept<br />2018
@@ -226,7 +225,7 @@ Mejor Torrent]
 | [https://raw.githubusercontent.com/hannsen/qbittorrent_search_plugins/master/smallgames.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]<br /> [https://github.com/hannsen/qbittorrent_search_plugins#user-content-small-gamesinfo--smallgamespy [[https://github.com/Pireo/hello-world/blob/master/Help%20book.gif]] ]
 | ✔ qbt 4.0.x / python 3.5.0
 |-
-| [[https://raw.githubusercontent.com/libellula/qbt-plugins/main/favicon-16x16.png]] [https://snowfl.com/ snowfl.com]
+| [[https://github.com/libellula/qbt-plugins/blob/main/snfavicon-16x16.png]] [https://snowfl.com/ snowfl.com]
 | [https://github.com/gitDew/qbittorrent-snowfl-search-plugin gitDew]
 | 1.00
 | 27/Oct<br />2018
