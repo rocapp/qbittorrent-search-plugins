@@ -208,7 +208,7 @@ Mejor Torrent]
 | [https://github.com/imDMG/qBt_SE imDMG]
 | 1.1
 | 02/Jan<br />2021
-| [https://raw.githubusercontent.com/imDMG/qBt_SE/master/rutor.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
+| [https://raw.githubusercontent.com/imDMG/qBt_SE/master/rutor.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]<br /> [https://github.com/imDMG/qBt_SE/blob/master/README.md#rutrackerorg [[https://github.com/Pireo/hello-world/blob/master/Help%20book.gif]] ]
 | ✔ qbt 4.0.x / python 3.5.0 <br />❗ qbt 4.1.3 (no result)
 |-
 | [[https://www.google.com/s2/favicons?domain=skytorrents.lol#.png]] [https://www.skytorrents.lol/ SkyTorrents]
