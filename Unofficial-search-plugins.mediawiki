@@ -157,7 +157,7 @@ Mejor Torrent]
 | [https://github.com/4chenz/pantsu-plugin/ 4chenz]
 | 1.11
 | 07/Aug<br />2017
-| [https://raw.githubusercontent.com/4chenz/pantsu-plugin/master/pantsu.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
+| [https://raw.githubusercontent.com/libellula/favicons/c601cda42341167646144884723e0a350d5646f2/pantsu.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | ✔ qbt 4.0.x / python 3.5.0 <br />✖ qbt 4.1.3 (intermittent failure)
 |-
 | [[https://raw.githubusercontent.com/MadeOfMagicAndWires/qBit-plugins/master/engines/nyaapantsu.png]] [https://nyaa.pantsu.cat/ Nyaa.pantsu]
