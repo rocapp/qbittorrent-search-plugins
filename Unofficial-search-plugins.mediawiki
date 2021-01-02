@@ -166,6 +166,13 @@ Mejor Torrent]
 | [https://raw.githubusercontent.com/MadeOfMagicAndWires/qBit-plugins/master/engines/nyaasi.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | ✔ qbt 4.0.x / python 3.5.0
 |-
+| [[https://raw.githubusercontent.com/CravateRouge/qBittorrentSearchPlugins/master/oxtorrent.png]] [https://www.oxtorrent.com OxTorrent]
+| [https://github.com/CravateRouge/qBittorrentSearchPlugins CravateRouge]
+| 1.0
+| 02/Jan<br />2021
+| [https://raw.githubusercontent.com/CravateRouge/qBittorrentSearchPlugins/master/oxtorrent.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]<br /> [https://github.com/CravateRouge/qBittorrentSearchPlugins/blob/master/README.md [[https://github.com/Pireo/hello-world/blob/master/Help%20book.gif]] ]
+| ✔ qbt 4.3.2 / python 3.8.2
+|-
 | [[https://www.google.com/s2/favicons?domain=anidex.info#.png]]
 [https://pctfenix.com/ PCTFenix]
 | [https://github.com/joseeloren/qbittorrent-search-plugins joseeloren]
@@ -253,13 +260,6 @@ Mejor Torrent]
 | 18/Mar<br />2018
 | [https://raw.githubusercontent.com/BrunoReX/qBittorrent-Search-Plugin-TokyoToshokan/master/tokyotoshokan.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | ✔ qbt 4.0.x / python 3.5.0
-|-
-| [[https://raw.githubusercontent.com/CravateRouge/qBittorrentSearchPlugins/master/torrent9.png]] [https://www.oxtorrent.com Torrent9]
-| [https://github.com/CravateRouge/qBittorrentSearchPlugins CravateRouge]
-| 2.3
-| 25/Nov<br />2019
-| [https://raw.githubusercontent.com/CravateRouge/qBittorrentSearchPlugins/master/torrent9.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]<br /> [https://github.com/CravateRouge/qBittorrentSearchPlugins/blob/master/README.md [[https://github.com/Pireo/hello-world/blob/master/Help%20book.gif]] ]
-| ✖ Not Working
 |-
 | [[https://github.com/MaurizioRicci/qBittorrent_search_engine/blob/master/torrentfunk_icon.png]] [https://www.torrentfunk.com/ TorrentFunk]
 | [https://github.com/MaurizioRicci/qBittorrent_search_engine/ mauricci]
