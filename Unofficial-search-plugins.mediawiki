@@ -291,7 +291,7 @@ Mejor Torrent]
 | ✔ qbt 4.1.x / python 3.5.0
 |-
 | [[https://github.com/Pireo/hello-world/blob/master/uniondht%20favicon.jpg]] [http://uniondht.org/ UnionDHT]
-| [https://github.com/nindogo Ni Ndogo], [https://github.com/ngosang/qBittorrent-plugins ngosang]
+| [https://github.com/nindogo Ni Ndogo], <br />[https://github.com/ngosang/qBittorrent-plugins ngosang]
 | 0.03
 | 22/Sept<br />2018
 | [https://raw.githubusercontent.com/nindogo/qbtSearchScripts/master/uniondht.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
