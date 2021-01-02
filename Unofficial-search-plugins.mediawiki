@@ -151,7 +151,7 @@ Mejor Torrent]
 | 1.5
 | 02/Jan<br />2021
 | [https://raw.githubusercontent.com/libellula/qbt-plugins/main/mejor.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
-| ✔ qbt 4.1.x / python 3.5.0 <br />(no seeds/peers and results not clickable)
+| ✔ qbt 4.1.x / python 3.5.0 <br />(no s/l and results not clickable)
 |-
 | [[https://raw.githubusercontent.com/4chenz/pantsu-plugin/master/pantsu.png]] [https://nyaa.pantsu.cat/ Nyaa.Pantsu]
 | [https://github.com/4chenz/pantsu-plugin/ 4chenz]
