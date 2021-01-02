@@ -178,7 +178,7 @@ Mejor Torrent]
 [https://pctfenix.com/ PCTFenix]
 | [https://github.com/joseeloren/qbittorrent-search-plugins joseeloren]
 | 1.1
-| 19/October<br />2020
+| 19/Oct<br />2020
 | [https://raw.githubusercontent.com/joseeloren/search-plugins/master/nova3/engines/pctfenix.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | ✔ qbt 4.3.x / python 3.5.0
 |-
@@ -186,7 +186,7 @@ Mejor Torrent]
 [https://pctmix.com/ PCTMix]
 | [https://github.com/joseeloren/qbittorrent-search-plugins joseeloren]
 | 1.22
-| 19/October<br />2020
+| 19/Oct<br />2020
 | [https://raw.githubusercontent.com/joseeloren/search-plugins/master/nova3/engines/pctmix.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | ✔ qbt 4.3.x / python 3.5.0
 |-
@@ -194,7 +194,7 @@ Mejor Torrent]
 [https://pctreload.com/ PCTReload]
 | [https://github.com/joseeloren/qbittorrent-search-plugins joseeloren]
 | 1.22
-| 19/October<br />2020
+| 19/Oct<br />2020
 | [https://raw.githubusercontent.com/joseeloren/search-plugins/master/nova3/engines/pctreload.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | ✔ qbt 4.3.x / python 3.5.0
 |-
