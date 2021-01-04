@@ -377,10 +377,10 @@ Mejor Torrent]
 |-
 | [[https://raw.githubusercontent.com/Skymirrh/qBittorrent-rutracker-plugin/master/rutracker.png]] [http://rutracker.org/ RuTracker]
 | [https://github.com/Skymirrh/qBittorrent-rutracker-plugin Skymirrh]
-| 1.1.5
-| 06/May<br />2020
+| 1.1.6
+| 04/Jan<br />2021
 | [https://raw.githubusercontent.com/Skymirrh/qBittorrent-rutracker-plugin/master/rutracker.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]<br />[https://github.com/Skymirrh/qBittorrent-rutracker-plugin/blob/master/README.md [[https://github.com/Pireo/hello-world/blob/master/Help%20book.gif]] ]
-| ✔ qbt 4.2.x / python 3.5.0
+| ✔ qbt 4.3.x / python 3.5.0
 |-
 | [[https://raw.githubusercontent.com/CravateRouge/qBittorrentSearchPlugins/master/yggtorrent.png]] [https://www2.yggtorrent.pe/ YggTorrent]
 | [https://github.com/CravateRouge/qBittorrentSearchPlugins CravateRouge]
