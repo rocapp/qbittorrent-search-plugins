@@ -49,7 +49,7 @@ $ cat config/data/qBittorrent/nova3/engines/jackett.json
 
 API Key in Jackett web UI:
 
-![](https://i.imgur.com/Jr40WZx.png)
+![](https://i.imgur.com/87yZeAU.png)
 
 ### Screenshot
 ![](https://i.imgur.com/uCawgLa.png)
