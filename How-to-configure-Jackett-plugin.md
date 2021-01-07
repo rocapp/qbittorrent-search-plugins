@@ -47,5 +47,9 @@ $ cat config/data/qBittorrent/nova3/engines/jackett.json
 | tracker_first | false | (false/true) add tracker name to the beginning of search result |
 | url | http://127.0.0.1:9117 | Jackett URL (without the end slash) |
 
+API Key in Jackett web UI:
+
+![](https://i.imgur.com/Jr40WZx.png)
+
 ### Screenshot
 ![](https://i.imgur.com/uCawgLa.png)
