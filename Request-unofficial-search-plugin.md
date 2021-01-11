@@ -14,7 +14,6 @@ If you know a torrent site that is not in the official/unofficial list, you can 
 |   bit-titan.net      |       NO      |  N/A   |      good german tracker       |
 |   Btdb.eu            |       NO      |  N/A   |                                |
 |   eztv.io            |       NO      |  N/A   |   This is no longer working. Use eztv.it instead.   |
-
 |   limetorrents.info  |       NO      |  N/A   |                                |
 |   MVGROUP.org        |       NO      |  N/A   |                                |  
 |   mobilism.org       |       NO      |  N/A   | requires login                 |
