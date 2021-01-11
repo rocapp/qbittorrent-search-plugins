@@ -14,6 +14,7 @@ If you know a torrent site that is not in the official/unofficial list, you can 
 |   bit-titan.net      |       NO      |  N/A   |      good german tracker       |
 |   Btdb.eu            |       NO      |  N/A   |                                |
 |   eztv.io            |       NO      |  N/A   |   This is no longer working. Use eztv.it instead.   |
+
 |   limetorrents.info  |       NO      |  N/A   |                                |
 |   MVGROUP.org        |       NO      |  N/A   |                                |  
 |   mobilism.org       |       NO      |  N/A   | requires login                 |
@@ -43,3 +44,6 @@ If you know a torrent site that is not in the official/unofficial list, you can 
 |   dontorrent.org     |       NO      |  N/A   | Inglés / Castellano            |
 |   NewPCT (pctmix.com)|       NO      |  N/A   | Inglés / Castellano            |
 |   xspeeds.eu         |       NO      |  N/A   | Private Tracker, Requires Login |
+
+some of TORRENT are not mention above are here:
+TPB , KAT , ZOOQLE , TORLOCK , BTDIGG ,BTSTOR , NYAA , SEEDPEER , , ETTV , BT4G , GLODLS , SKYTORRENTS, TORRENTGALAXY. 
