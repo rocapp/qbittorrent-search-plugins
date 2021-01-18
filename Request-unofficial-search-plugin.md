@@ -18,6 +18,7 @@ If you know a torrent site that is not in the official/unofficial list, you can 
 |   MVGROUP.org        |       NO      |  N/A   |                                |  
 |   mobilism.org       |       NO      |  N/A   | requires login                 |
 |   openpirate.org     |       NO      |  N/A   |                                |
+|   1tamilmv.cc        |       NO      |  N/A   |                                |
 |   torrentday.com     |       NO      |  N/A   |        have invite             |
 |   torrentz.io        |       NO      |  N/A   |                                |
 |   Torrentz2.eu       |       NO      |  N/A   |                                |
