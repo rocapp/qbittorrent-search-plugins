@@ -280,7 +280,7 @@ Mejor Torrent]
 | 1.1
 | 07/May<br />2019
 | [https://raw.githubusercontent.com/MaurizioRicci/qBittorrent_search_engine/master/torrentproject.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
-| ✔ qbt 4.1.x / python 3.5.0
+| ✔ qbt 4.1.x / python 3.5.0 <br /> (results not clickable)
 |-
 | [[https://github.com/Pireo/hello-world/blob/master/uniondht%20favicon.jpg]] [http://uniondht.org/ UnionDHT]
 | [https://github.com/nindogo Ni Ndogo], <br />[https://github.com/ngosang/qBittorrent-plugins ngosang]
