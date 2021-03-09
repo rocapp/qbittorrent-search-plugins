@@ -4,7 +4,7 @@
 
 ### Disable Jackett plugin
 By default, Jackett plugin is enabled in qBittorrent. If you want to disable it, follow the next steps:
-1. In `Search tab`, click in the `Search plugins...` button (bottom right)
+1. In `Search tab`, click in the `Search plugins...` button (bottom-right)
 2. Right click over the `Jackett` plugin
 3. Uncheck the `Enabled` checkbox
 4. Close the modal window
@@ -16,11 +16,13 @@ The file `jackett.json` should be located in qBittorrent search engines folder:
 * Windows: `%localappdata%\qBittorrent\nova3\engines\`
 * Linux: `~/.local/share/data/qBittorrent/nova3/engines/`
 * OS X: `~/Library/Application Support/qBittorrent/nova3/engines/`
+
 ### Also try
-* Linux Mint 20: `~/.var/app/org.qbittorrent.qBittorrent/data/data/qBittorrent/nova3/engines/
+* Linux Mint 20: `~/.var/app/org.qbittorrent.qBittorrent/data/data/qBittorrent/nova3/engines/`
 
 Note: If the file doesn't exist, you can create it copying the following json:
-```
+
+```json
 {
     "api_key": "YOUR_API_KEY_HERE", 
     "tracker_first": false, 
@@ -31,7 +33,8 @@ Note: If the file doesn't exist, you can create it copying the following json:
 Note 3: Remember to start Jackett. :)
 
 Note 4: If running qBittorrent headless and using the web page on a remote server, Jackett needs to be configured to allow remote calls and its IP. Eg:
-```
+
+```json
 $ cat config/data/qBittorrent/nova3/engines/jackett.json
 {
     "api_key": "YOUR_API_KEY_HERE",
