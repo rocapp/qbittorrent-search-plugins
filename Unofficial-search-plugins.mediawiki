@@ -371,7 +371,7 @@ Mejor Torrent]
 | [[https://raw.githubusercontent.com/TainakaDrums/qbPornolab/master/pornolab.png]] [https://pornolab.net/ Pornolab]
 | [https://github.com/TainakaDrums/qbPornolab TainakaDrums]
 | 1.0
-| 18/Aug<br />2020
+| 09/Mar<br />2021
 | [https://raw.githubusercontent.com/TainakaDrums/qbPornolab/master/pornolab.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]<br /> [https://github.com/TainakaDrums/qbPornolab/blob/master/README.md [[https://github.com/Pireo/hello-world/blob/master/Help%20book.gif]] ]
 | ✔ qbt 4.2.x / python 3.5.0
 |-
