@@ -204,12 +204,12 @@ Mejor Torrent]
 | [https://raw.githubusercontent.com/Pireo/hello-world/master/rockbox.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | ✔ qbt 4.0.x / python 3.5.0 <br />✖ qbt 4.1.3 (plugin v1.1)
 |-
-| [[https://github.com/Pireo/hello-world/blob/master/rutor.png]] [http://rutor.info/ Rutor]
+| [[https://github.com/imDMG/qBt_SE/blob/master/rutor.png]] [http://rutor.info/ Rutor]
 | [https://github.com/imDMG/qBt_SE imDMG]
-| 1.1
-| 02/Jan<br />2021
+| 1.2
+| 30/Mar<br />2021
 | [https://raw.githubusercontent.com/imDMG/qBt_SE/master/rutor.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]<br /> [https://github.com/imDMG/qBt_SE/blob/master/README.md#rutrackerorg [[https://github.com/Pireo/hello-world/blob/master/Help%20book.gif]] ]
-| ✔ qbt 4.2.x / python 3.6.0+
+| ✔ qbt 4.2.x / python 3.6+
 |-
 | [[https://www.google.com/s2/favicons?domain=skytorrents.lol#.png]] [https://www.skytorrents.lol/ SkyTorrents]
 | [https://gist.github.com/kernc/67c939c57edb7dd057b3abf9f159598a kernc]
@@ -342,8 +342,8 @@ Mejor Torrent]
 |-
 | [[https://raw.githubusercontent.com/imDMG/qBt_SE/master/kinozal.png]] [http://kinozal.tv/ Kinozal]
 | [https://github.com/imDMG/qBt_SE imDMG]
-| 2.4
-| 20/Sep<br />2020
+| 2.5
+| 30/Mar<br />2021
 | [https://raw.githubusercontent.com/imDMG/qBt_SE/master/kinozal.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]<br /> [https://github.com/imDMG/qBt_SE/blob/master/README.md [[https://github.com/Pireo/hello-world/blob/master/Help%20book.gif]] ]
 | ✔ qbt 4.2.x / python 3.6+
 |-
@@ -363,8 +363,8 @@ Mejor Torrent]
 |-
 | [[https://raw.githubusercontent.com/imDMG/qBt_SE/master/nnmclub.png]] [https://nnm-club.me/ NoNaMe-Club]
 | [https://github.com/imDMG/qBt_SE imDMG]
-| 2.6
-| 22/Sep<br />2020
+| 2.7
+| 30/Mar<br />2021
 | [https://raw.githubusercontent.com/imDMG/qBt_SE/master/nnmclub.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]<br /> [https://github.com/imDMG/qBt_SE/blob/master/README.md [[https://github.com/Pireo/hello-world/blob/master/Help%20book.gif]] ]
 | ✔ qbt 4.2.x / python 3.6+
 |-
