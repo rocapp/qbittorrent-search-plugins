@@ -65,10 +65,10 @@ The plugins shown as ✖ or ❗ will result in the slowdown and malfunction of o
 | [https://raw.githubusercontent.com/lima66/Torrents_Plugin/master/btetree.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | ✖ Not Working
 |-
-| [[https://github.com/msagca/qbittorrent_plugins/blob/main/btmulu_icon.png]] [https://www.btmulu.com/ btmulu]
+| [[https://github.com/msagca/qbittorrent_plugins/blob/main/btmulu_icon.png]] [https://www.btmulu.com/ BTmulu]
 | [https://github.com/msagca/qbittorrent_plugins/ msagca]
-| 1.0
-| 10/Apr<br />2021
+| 1.1
+| 15/Apr<br />2021
 | [https://raw.githubusercontent.com/msagca/qbittorrent_plugins/main/btmulu.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | ✔ qbt 4.3.4.1 / python 3.9.2
 |-
