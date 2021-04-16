@@ -151,6 +151,14 @@ The plugins shown as ✖ or ❗ will result in the slowdown and malfunction of o
 | [https://raw.githubusercontent.com/nindogo/qbtSearchScripts/master/magnetdl.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | ✔ qbt 4.0.x / python 3.5.0
 |-
+| [[https://www.google.com/s2/favicons?domain=anidex.info#.png]]
+[https://maxitorrent.com/ MaxiTorrent]
+| [https://github.com/joseeloren/qbittorrent-search-plugins joseeloren]
+| 1.25
+| 16/Apr<br />2021
+| [https://raw.githubusercontent.com/joseeloren/search-plugins/master/nova3/engines/maxitorrent.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
+| ✔ qbt 4.3.x / python 3.5.0
+|-
 | [[https://github.com/MaurizioRicci/qBittorrent_search_engine/blob/master/mejor_icon.png]] [http://www.mejortorrens.net/ 
 Mejor Torrent]
 | [https://github.com/MaurizioRicci/qBittorrent_search_engine/ mauricci]
