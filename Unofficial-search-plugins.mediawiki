@@ -316,7 +316,7 @@ Mejor Torrent]
 | 1.0
 | 17/Apr<br />2021
 | [https://raw.githubusercontent.com/msagca/qbittorrent_plugins/main/uniondht.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
-| ✔ qbt 4.3.4.1 / python 3.9.2 <br />(you need to wait <br />before downloading <br />another torrent file<br />because of reCAPTCHA)
+| ✔ qbt 4.3.4.1 / python 3.9.2
 |-
 | [[https://www.google.com/s2/favicons?domain=yourbittorrent.com#.png]] [https://yourbittorrent.com/ YourBittorrent]
 | [https://github.com/nindogo Ni Ndogo]
