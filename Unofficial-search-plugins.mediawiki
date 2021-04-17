@@ -67,8 +67,8 @@ The plugins shown as ✖ or ❗ will result in the slowdown and malfunction of o
 |-
 | [[https://github.com/msagca/qbittorrent_plugins/blob/main/btmulu_icon.png]] [https://www.btmulu.com/ BTmulu]
 | [https://github.com/msagca/qbittorrent_plugins/ msagca]
-| 1.1
-| 15/Apr<br />2021
+| 1.2
+| 17/Apr<br />2021
 | [https://raw.githubusercontent.com/msagca/qbittorrent_plugins/main/btmulu.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | ✔ qbt 4.3.4.1 / python 3.9.2
 |-
@@ -310,6 +310,13 @@ Mejor Torrent]
 | 22/Sep<br />2018
 | [https://raw.githubusercontent.com/nindogo/qbtSearchScripts/master/uniondht.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | ✔ qbt 4.1.x / python 3.5.0 <br />(results not clickable)
+|-
+| [[https://github.com/msagca/qbittorrent_plugins/blob/main/uniondht_icon.png]] [http://uniondht.org/ UnionDHT]
+| [https://github.com/msagca/qbittorrent_plugins/ msagca]
+| 1.0
+| 17/Apr<br />2021
+| [https://raw.githubusercontent.com/msagca/qbittorrent_plugins/main/uniondht.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
+| ✔ qbt 4.3.4.1 / python 3.9.2 <br />(you need to wait <br />before downloading <br />another torrent file<br />because of reCAPTCHA)
 |-
 | [[https://www.google.com/s2/favicons?domain=yourbittorrent.com#.png]] [https://yourbittorrent.com/ YourBittorrent]
 | [https://github.com/nindogo Ni Ndogo]
