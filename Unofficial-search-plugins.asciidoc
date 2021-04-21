@@ -18,7 +18,7 @@ The plugins shown as ✖ or ❗ will result in the slowdown and malfunction of o
 !  Author<br/>(Repository)
 !  Ver.
 !  Update
-!  [[https://github.com/libellula/qbt-plugins/blob/main/chain+link+outline+seo+icon-1320195324238244888_16.png]]
+!  [[https://github.com/libellula/qbt-plugins/blob/main/chain+link+outline+seo+icon-13201953242382448788_16.png]]
 !  Comment
 
 |-
