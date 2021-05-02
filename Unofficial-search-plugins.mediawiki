@@ -406,8 +406,8 @@ Mejor Torrent]
 |-
 | [[https://raw.githubusercontent.com/nbusseneau/qBittorrent-rutracker-plugin/master/rutracker.png]] [http://rutracker.org/ RuTracker]
 | [https://github.com/nbusseneau/qBittorrent-rutracker-plugin nbusseneau]
-| 1.1.7
-| 29/Apr<br />2021
+| 2.1.0
+| 02/May<br />2021
 | [https://raw.githubusercontent.com/nbusseneau/qBittorrent-rutracker-plugin/master/rutracker.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]<br />[https://github.com/nbusseneau/qBittorrent-rutracker-plugin/blob/master/README.md [[https://github.com/Pireo/hello-world/blob/master/Help%20book.gif]] ]
 | ✔ qbt 4.3.x / python 3.8.x
 |-
