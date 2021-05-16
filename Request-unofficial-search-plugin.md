@@ -43,6 +43,7 @@ If you know a torrent site that is not in the official/unofficial list, you can 
 |   dontorrent.org     |       NO      |  N/A   | Inglés / Castellano            |
 |   NewPCT (pctmix.com)|       NO      |  N/A   | Inglés / Castellano            |
 |   xspeeds.eu         |       NO      |  N/A   | Private Tracker, Requires Login |
+|   thepiratebay.org   |       NO      |  N/A   | |
 
 some of TORRENT are not mention above are here:
 TPB , KAT , ZOOQLE , TORLOCK , BTDIGG ,BTSTOR , NYAA , SEEDPEER , , ETTV , BT4G , GLODLS , SKYTORRENTS, TORRENTGALAXY. 
