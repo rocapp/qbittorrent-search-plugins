@@ -65,6 +65,13 @@ The plugins shown as ✖ or ❗ will result in the slowdown and malfunction of o
 | [https://raw.githubusercontent.com/lima66/Torrents_Plugin/master/btetree.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | ✖ Not Working
 |-
+| [[https://github.com/Pireo/hello-world/blob/master/etree.png]] [http://bt.etree.org/ bt.etree.org]
+| [https://github.com/LightDestory/qBittorrent-Search-Plugins LightDestory]
+| 1.0
+| 30/May<br />2021
+| [https://raw.githubusercontent.com/LightDestory/qBittorrent-Search-Plugins/master/src/engines/btetree.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
+| ✔ qbt 4.3.5 / python 3.8.5
+|-
 | [[https://github.com/msagca/qbittorrent_plugins/blob/main/btmulu_icon.png]] [https://www.btmulu.com/ BTmulu]
 | [https://github.com/msagca/qbittorrent_plugins/ msagca]
 | 1.2
@@ -115,6 +122,13 @@ The plugins shown as ✖ or ❗ will result in the slowdown and malfunction of o
 | [https://raw.githubusercontent.com/MaurizioRicci/qBittorrent_search_engine/master/ettv.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | ✖ Not Working
 |-
+| [[https://github.com/MaurizioRicci/qBittorrent_search_engine/blob/master/ettv_icon.png]] [https://www.ettv.tv/ ETTV]
+| [https://github.com/LightDestory/qBittorrent-Search-Plugins LightDestory]
+| 1.0
+| 30/May<br />2021
+| [https://raw.githubusercontent.com/LightDestory/qBittorrent-Search-Plugins/master/src/engines/ettv.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
+| ✔ qbt 4.3.5 / python 3.8.5
+|-
 | [[https://github.com/MaurizioRicci/qBittorrent_search_engine/blob/master/extratorrent_icon.png]] [https://extratorrent.si/ ExtraTorrent]
 | [https://github.com/MaurizioRicci/qBittorrent_search_engine/ mauricci]
 | 1.1
@@ -129,6 +143,13 @@ The plugins shown as ✖ or ❗ will result in the slowdown and malfunction of o
 | 31/Jul<br />2019
 | [https://raw.githubusercontent.com/MaurizioRicci/qBittorrent_search_engine/master/corsaronero.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | ✖ Not Working
+|-
+| [[https://github.com/MaurizioRicci/qBittorrent_search_engine/blob/master/corsaronero_icon.png]] [https://ilcorsaronero.link/  Il Corsaro Nero]
+| [https://github.com/LightDestory/qBittorrent-Search-Plugins LightDestory]
+| 1.0
+| 30/May<br />2021
+| [https://raw.githubusercontent.com/LightDestory/qBittorrent-Search-Plugins/master/src/engines/ilcorsaronero.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
+| ✔ qbt 4.3.5 / python 3.8.5
 |-
 | [[https://github.com/MaurizioRicci/qBittorrent_search_engine/blob/master/kickass_icon.png]] [https://kickass-cr.online/  Kickass Torrent]
 | [https://github.com/MaurizioRicci/qBittorrent_search_engine/ mauricci]
