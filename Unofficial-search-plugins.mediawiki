@@ -396,7 +396,7 @@ Mejor Torrent]
 | [https://raw.githubusercontent.com/TainakaDrums/qbPornolab/master/pornolab.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]<br /> [https://github.com/TainakaDrums/qbPornolab/blob/master/README.md [[https://github.com/Pireo/hello-world/blob/master/Help%20book.gif]] ]
 | ✔ qbt 4.2.x / python 3.5.0
 |-
-| [[https://raw.githubusercontent.com/nbusseneau/qBittorrent-rutracker-plugin/master/rutracker.png]] [http://rutracker.org/ RuTracker]
+| [[https://github.com/libellula/Official-search-engines-plugins-favicons/blob/bf2aaabe07ba94b993282d8dd888674469f2ab1e/favicon-16x16.png]] [http://rutracker.org/ RuTracker]
 | [https://github.com/nbusseneau/qBittorrent-rutracker-plugin nbusseneau]
 | 2.1.0
 | 02/May<br />2021
