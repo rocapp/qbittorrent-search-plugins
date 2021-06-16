@@ -59,13 +59,6 @@ The plugins shown as ✖ or ❗ will result in the slowdown and malfunction of o
 | ✔ qbt 4.1.x / python 3.5.0
 |-
 | [[https://github.com/Pireo/hello-world/blob/master/etree.png]] [http://bt.etree.org/ bt.etree.org]
-| [https://github.com/lima66/Torrents_Plugin/ lima66]
-| 1.00
-| 21/Apr<br />2017
-| [https://raw.githubusercontent.com/lima66/Torrents_Plugin/master/btetree.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
-| ✖ Not Working
-|-
-| [[https://github.com/Pireo/hello-world/blob/master/etree.png]] [http://bt.etree.org/ bt.etree.org]
 | [https://github.com/LightDestory/qBittorrent-Search-Plugins LightDestory]
 | 1.0
 | 30/May<br />2021
@@ -135,14 +128,6 @@ The plugins shown as ✖ or ❗ will result in the slowdown and malfunction of o
 | 29/Jan<br />2019
 | [https://raw.githubusercontent.com/MaurizioRicci/qBittorrent_search_engine/master/extratorrent.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | ✔ qbt 4.1.x / python 3.5.0
-|-
-| [[https://github.com/MaurizioRicci/qBittorrent_search_engine/blob/master/corsaronero_icon.png]] 
-[http://ilcorsaronero.gratis/  Il Corsaro Nero]
-| [https://github.com/MaurizioRicci/qBittorrent_search_engine/ mauricci]
-| 1.9
-| 31/Jul<br />2019
-| [https://raw.githubusercontent.com/MaurizioRicci/qBittorrent_search_engine/master/corsaronero.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
-| ✖ Not Working
 |-
 | [[https://github.com/MaurizioRicci/qBittorrent_search_engine/blob/master/corsaronero_icon.png]] [https://ilcorsaronero.link/  Il Corsaro Nero]
 | [https://github.com/LightDestory/qBittorrent-Search-Plugins LightDestory]
@@ -324,13 +309,6 @@ Mejor Torrent]
 | 07/May<br />2019
 | [https://raw.githubusercontent.com/MaurizioRicci/qBittorrent_search_engine/master/torrentproject.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | ✔ qbt 4.1.x / python 3.5.0 <br /> (results not clickable)
-|-
-| [[https://github.com/Pireo/hello-world/blob/master/uniondht%20favicon.jpg]] [http://uniondht.org/ UnionDHT]
-| [https://github.com/nindogo Ni Ndogo], <br />[https://github.com/ngosang/qBittorrent-plugins ngosang]
-| 0.03
-| 22/Sep<br />2018
-| [https://raw.githubusercontent.com/nindogo/qbtSearchScripts/master/uniondht.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
-| ✔ qbt 4.1.x / python 3.5.0 <br />(results not clickable)
 |-
 | [[https://github.com/msagca/qbittorrent_plugins/blob/main/uniondht_icon.png]] [http://uniondht.org/ UnionDHT]
 | [https://github.com/msagca/qbittorrent_plugins/ msagca]
