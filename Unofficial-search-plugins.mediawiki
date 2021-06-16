@@ -232,7 +232,7 @@ Mejor Torrent]
 | [https://raw.githubusercontent.com/imDMG/qBt_SE/master/rutor.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]<br /> [https://github.com/imDMG/qBt_SE/blob/master/README.md#rutrackerorg [[https://github.com/Pireo/hello-world/blob/master/Help%20book.gif]] ]
 | ✔ qbt 4.2.x / python 3.6+
 |-
-| [[https://www.google.com/s2/favicons?domain=skytorrents.lol#.png]] [https://www.skytorrents.lol/ SkyTorrents]
+| [[https://github.com/libellula/Official-search-engines-plugins-favicons/blob/main/skytorrents%20favicon.PNG]] [https://www.skytorrents.lol/ SkyTorrents]
 | [https://gist.github.com/kernc/67c939c57edb7dd057b3abf9f159598a kernc]
 | 2.0
 | 11/Jun<br />2018
