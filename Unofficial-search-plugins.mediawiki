@@ -109,13 +109,6 @@ The plugins shown as ✖ or ❗ will result in the slowdown and malfunction of o
 |  ✔ qbt 4.1.x / python 3.8.5
 |-
 | [[https://github.com/MaurizioRicci/qBittorrent_search_engine/blob/master/ettv_icon.png]] [https://www.ettv.tv/ ETTV]
-| [https://github.com/MaurizioRicci/qBittorrent_search_engine/ mauricci]
-| 1.2
-| 28/May<br />2019
-| [https://raw.githubusercontent.com/MaurizioRicci/qBittorrent_search_engine/master/ettv.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
-| ✖ Not Working
-|-
-| [[https://github.com/MaurizioRicci/qBittorrent_search_engine/blob/master/ettv_icon.png]] [https://www.ettv.tv/ ETTV]
 | [https://github.com/LightDestory/qBittorrent-Search-Plugins LightDestory]
 | 1.0
 | 30/May<br />2021
