@@ -30,7 +30,7 @@ The plugins shown as ✖ or ❗ will result in the slowdown and malfunction of o
 | ✔ qbt v4.2.x / python 3.5.0
 |-
 |-
-|[[https://raw.githubusercontent.com/libellula/Official-search-engines-plugins-favicons/main/academictorrents%20favicon.ico]] [http://academictorrents.com/ Academic Torrents]
+|[[https://github.com/libellula/Official-search-engines-plugins-favicons/blob/main/academictorrentsfavicon-16x16.png]] [http://academictorrents.com/ Academic Torrents]
 |[https://github.com/solenskiner/search-plugins solenskiner]
 |0.3
 |15/Jan<br />2018
