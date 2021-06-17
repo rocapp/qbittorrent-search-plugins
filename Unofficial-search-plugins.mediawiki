@@ -259,7 +259,7 @@ Mejor Torrent]
 | [https://raw.githubusercontent.com/gitDew/qbittorrent-snowfl-search-plugin/master/snowfl.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | ✔ qbt 4.1.x / python 3.5.0 <br />❗ qbt 4.1.3 (no result)
 |-
-|[[https://github.com/libellula/qbt-plugins/blob/main/snfavicon-16x16.png]] https://snowfl.com/ Snowfl]
+|[[https://github.com/libellula/qbt-plugins/blob/main/snfavicon-16x16.png]] [https://snowfl.com Snowfl]
 |[https://github.com/LightDestory/qBittorrent-Search-Plugins LightDestory]
 |1.0
 |17/Jun<br />2021
