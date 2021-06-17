@@ -37,6 +37,13 @@ The plugins shown as ✖ or ❗ will result in the slowdown and malfunction of o
 |[https://raw.githubusercontent.com/solenskiner/search-plugins/master/nova3/engines/academictorrents.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 |✔ qbt 4.0.x / python 3.5.0 <br />❗ qbt 4.1.3 (no result)
 |-
+|[[https://github.com/libellula/Official-search-engines-plugins-favicons/blob/main/academictorrentsfavicon-16x16.png]] [https://academictorrents.com/ Academic Torrents]
+|[https://github.com/LightDestory/qBittorrent-Search-Plugins LightDestory]
+|1.0
+|17/Jun<br />2021
+|[https://raw.githubusercontent.com/LightDestory/qBittorrent-Search-Plugins/master/src/engines/academictorrents.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
+|✔ qbt 4.3.x / python 3.8.5 <br />**READ REPOSITORY NOTES**
+|-
 | [[https://raw.githubusercontent.com/hannsen/qbittorrent_search_plugins/master/ali213.png]] [http://down.ali213.net/ ali213.net]
 | [https://github.com/hannsen/qbittorrent_search_plugins/ hannsen]
 | 1.00
@@ -60,8 +67,8 @@ The plugins shown as ✖ or ❗ will result in the slowdown and malfunction of o
 |-
 | [[https://github.com/Pireo/hello-world/blob/master/etree.png]] [http://bt.etree.org/ bt.etree.org]
 | [https://github.com/LightDestory/qBittorrent-Search-Plugins LightDestory]
-| 1.0
-| 30/May<br />2021
+| 1.2
+| 17/Jun<br />2021
 | [https://raw.githubusercontent.com/LightDestory/qBittorrent-Search-Plugins/master/src/engines/btetree.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | ✔ qbt 4.3.5 / python 3.8.5
 |-
@@ -110,8 +117,8 @@ The plugins shown as ✖ or ❗ will result in the slowdown and malfunction of o
 |-
 | [[https://github.com/MaurizioRicci/qBittorrent_search_engine/blob/master/ettv_icon.png]] [https://www.ettv.tv/ ETTV]
 | [https://github.com/LightDestory/qBittorrent-Search-Plugins LightDestory]
-| 1.0
-| 30/May<br />2021
+| 1.2
+| 17/Jun<br />2021
 | [https://raw.githubusercontent.com/LightDestory/qBittorrent-Search-Plugins/master/src/engines/ettv.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | ✔ qbt 4.3.5 / python 3.8.5
 |-
@@ -122,10 +129,17 @@ The plugins shown as ✖ or ❗ will result in the slowdown and malfunction of o
 | [https://raw.githubusercontent.com/MaurizioRicci/qBittorrent_search_engine/master/extratorrent.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | ✔ qbt 4.1.x / python 3.5.0
 |-
+| [[https://raw.githubusercontent.com/LightDestory/qBittorrent-Search-Plugins/master/src/engines/glotorrents.png]] [https://ilcorsaronero.link/  GloTorrents]
+| [https://github.com/LightDestory/qBittorrent-Search-Plugins LightDestory]
+| 1.1
+| 17/Jun<br />2021
+| [https://raw.githubusercontent.com/LightDestory/qBittorrent-Search-Plugins/master/src/engines/glotorrents.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
+| ✔ qbt 4.3.5 / python 3.8.5
+|-
 | [[https://github.com/MaurizioRicci/qBittorrent_search_engine/blob/master/corsaronero_icon.png]] [https://ilcorsaronero.link/  Il Corsaro Nero]
 | [https://github.com/LightDestory/qBittorrent-Search-Plugins LightDestory]
-| 1.0
-| 30/May<br />2021
+| 1.2
+| 17/Jun<br />2021
 | [https://raw.githubusercontent.com/LightDestory/qBittorrent-Search-Plugins/master/src/engines/ilcorsaronero.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | ✔ qbt 4.3.5 / python 3.8.5
 |-
@@ -224,6 +238,13 @@ Mejor Torrent]
 | 23/Apr<br />2017
 | [https://raw.githubusercontent.com/Pireo/hello-world/master/rockbox.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | ✔ qbt 4.0.x / python 3.5.0 <br />✖ qbt 4.1.3 (plugin v1.1)
+|-
+| [[https://github.com/Pireo/hello-world/blob/master/rockbox.png]] [https://rawkbawx.rocks/ RockBox]
+| [https://github.com/LightDestory/qBittorrent-Search-Plugins LightDestory]
+| 1.0
+| 17/Jun<br />2021
+| [https://raw.githubusercontent.com/LightDestory/qBittorrent-Search-Plugins/master/src/engines/rockbox.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
+| ✔ qbt 4.3.x / python 3.8.5
 |-
 | [[https://github.com/imDMG/qBt_SE/blob/master/rutor.png]] [http://rutor.info/ Rutor]
 | [https://github.com/imDMG/qBt_SE imDMG]
