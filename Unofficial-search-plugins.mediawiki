@@ -29,14 +29,6 @@ The plugins shown as ✖ or ❗ will result in the slowdown and malfunction of o
 | [https://gist.github.com/sa3dany/1478e311e6371a60e251e7bdfc2dda65/raw/6288d84627e23823427d03f7aca2f492aa0c8338/one337x.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | ✔ qbt v4.2.x / python 3.5.0
 |-
-|-
-|[[https://github.com/libellula/Official-search-engines-plugins-favicons/blob/main/academictorrentsfavicon-16x16.png]] [http://academictorrents.com/ Academic Torrents]
-|[https://github.com/solenskiner/search-plugins solenskiner]
-|0.3
-|15/Jan<br />2018
-|[https://raw.githubusercontent.com/solenskiner/search-plugins/master/nova3/engines/academictorrents.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
-|✔ qbt 4.0.x / python 3.5.0 <br />❗ qbt 4.1.3 (no result)
-|-
 |[[https://github.com/libellula/Official-search-engines-plugins-favicons/blob/main/academictorrentsfavicon-16x16.png]] [https://academictorrents.com/ Academic Torrents]
 |[https://github.com/LightDestory/qBittorrent-Search-Plugins LightDestory]
 |1.0
@@ -58,7 +50,7 @@ The plugins shown as ✖ or ❗ will result in the slowdown and malfunction of o
 | [https://raw.githubusercontent.com/nindogo/qbtSearchScripts/master/anidex.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | ✔ qbt 4.1.x / python 3.5.0
 |-
-| [[https://github.com/libellula/Official-search-engines-plugins-favicons/blob/main/bt4gfavicon-16x16.png]] [https://bt4g.org/ b4tg]
+| [[https://github.com/libellula/Official-search-engines-plugins-favicons/blob/main/bt4gfavicon-16x16.png]] [https://bt4g.org/ bt4g]
 | [https://github.com/kjjejones44/b4tg_search_plugin kjjejones44]
 | 1.00
 | 01/Apr<br />2021
@@ -231,13 +223,6 @@ Mejor Torrent]
 | 19/Oct<br />2020
 | [https://raw.githubusercontent.com/joseeloren/search-plugins/master/nova3/engines/pctreload.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | ✔ qbt 4.3.x / python 3.5.0
-|-
-| [[https://github.com/Pireo/hello-world/blob/master/rockbox.png]] [https://rawkbawx.rocks/ RockBox]
-| [https://github.com/lima66/Torrents_Plugin/ lima66]
-| 1.1
-| 23/Apr<br />2017
-| [https://raw.githubusercontent.com/Pireo/hello-world/master/rockbox.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
-| ✔ qbt 4.0.x / python 3.5.0 <br />✖ qbt 4.1.3 (plugin v1.1)
 |-
 | [[https://github.com/Pireo/hello-world/blob/master/rockbox.png]] [https://rawkbawx.rocks/ RockBox]
 | [https://github.com/LightDestory/qBittorrent-Search-Plugins LightDestory]
