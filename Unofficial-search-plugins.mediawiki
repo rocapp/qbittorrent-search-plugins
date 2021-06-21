@@ -121,7 +121,7 @@ The plugins shown as ✖ or ❗ will result in the slowdown and malfunction of o
 | [https://raw.githubusercontent.com/MaurizioRicci/qBittorrent_search_engine/master/extratorrent.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | ✔ qbt 4.1.x / python 3.5.0
 |-
-| [[https://raw.githubusercontent.com/LightDestory/qBittorrent-Search-Plugins/master/src/engines/glotorrents.png]] [https://ilcorsaronero.link/  GloTorrents]
+| [[https://raw.githubusercontent.com/LightDestory/qBittorrent-Search-Plugins/master/src/engines/glotorrents.png]] [https://www.gtdb.to/  GloTorrents]
 | [https://github.com/LightDestory/qBittorrent-Search-Plugins LightDestory]
 | 1.1
 | 17/Jun<br />2021
