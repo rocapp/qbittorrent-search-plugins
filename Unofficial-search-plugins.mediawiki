@@ -288,7 +288,7 @@ Mejor Torrent]
 | [https://raw.githubusercontent.com/BrunoReX/qBittorrent-Search-Plugin-TokyoToshokan/master/tokyotoshokan.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | ✔ qbt 4.0.x / python 3.5.0
 |-
-| [[https://github.com/MaurizioRicci/qBittorrent_search_engine/blob/master/torrentfunk_icon.png]] [https://www.torrentfunk.com/ TorrentFunk]
+| [[https://github.com/libellula/Official-search-engines-plugins-favicons/blob/main/favicon-16x16.png]] [https://www.torrentfunk.com/ TorrentFunk]
 | [https://github.com/MaurizioRicci/qBittorrent_search_engine/ mauricci]
 | 1.1
 | 28/May<br />2019
