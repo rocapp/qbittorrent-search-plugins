@@ -1,1 +1,1 @@
-this page needs a footer bro.... or to have this locked so nobody can do this.
+This is a cool assfooter :)
