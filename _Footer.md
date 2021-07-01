@@ -1,1 +1,1 @@
-This is a cool assfooter :)
+This is a cool assfooter :D
