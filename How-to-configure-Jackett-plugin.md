@@ -14,7 +14,7 @@ The Jackett plugin uses an external configuration file. This allows to update th
 
 The file `jackett.json` should be located in the qBittorrent search engines folder:
 * Windows: `%localappdata%\qBittorrent\nova3\engines\`
-* Linux: `~/.local/share/data/qBittorrent/nova3/engines/`, or `~/.var/app/org.qbittorrent.qBittorrent/data/qBittorrent/nova3/engines` if using Flatpak
+* Linux: `~/.local/share/data/qBittorrent/nova3/engines/`, or `~/.local/share/qBittorrent/nova3/engines/`, or `~/.var/app/org.qbittorrent.qBittorrent/data/qBittorrent/nova3/engines` if using Flatpak
 * OS X: `~/Library/Application Support/qBittorrent/nova3/engines/`
 
 Note: If the file doesn't exist, you can create it by copying the following JSON:
