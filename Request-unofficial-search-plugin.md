@@ -47,5 +47,6 @@ If you know a torrent site that is not in the official/unofficial list, you can 
 |   audiobookbay.nl    |       NO      |  N/A   | |
 |   extremlymtorrents.ws|      NO      |  N/A   | |
 |   animetosho.org     |       NO      |  N/A   | |
+
 some of TORRENT are not mention above are here:
 TPB , KAT , ZOOQLE , TORLOCK , BTDIGG ,BTSTOR , NYAA , SEEDPEER , , ETTV , BT4G , GLODLS , SKYTORRENTS, TORRENTGALAXY. 
