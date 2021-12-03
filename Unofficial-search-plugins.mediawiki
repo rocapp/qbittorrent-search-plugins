@@ -66,10 +66,10 @@ The plugins shown as ✖ or ❗ will result in the slowdown and malfunction of o
 |-
 | [[https://github.com/msagca/qbittorrent_plugins/blob/main/btmulu_icon.png]] [https://www.btmulu.com/ BTmulu]
 | [https://github.com/msagca/qbittorrent_plugins/ msagca]
-| 1.2
-| 17/Apr<br />2021
+| 1.3
+| 03/Dec<br />2021
 | [https://raw.githubusercontent.com/msagca/qbittorrent_plugins/main/btmulu.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
-| ✔ qbt 4.3.4.1 / python 3.9.2
+| ✔ qbt 4.3.x / python 3.9.x
 |-
 | [[https://github.com/MaurizioRicci/qBittorrent_search_engine/blob/master/cinecalidad_icon.png]] [https://www.cinecalidad.to/  CineCalidad]
 | [https://github.com/MaurizioRicci/qBittorrent_search_engine/ mauricci]
@@ -319,10 +319,10 @@ Mejor Torrent]
 |-
 | [[https://github.com/msagca/qbittorrent_plugins/blob/main/uniondht_icon.png]] [http://uniondht.org/ UnionDHT]
 | [https://github.com/msagca/qbittorrent_plugins/ msagca]
-| 1.0
-| 17/Apr<br />2021
+| 1.1
+| 03/Dec<br />2021
 | [https://raw.githubusercontent.com/msagca/qbittorrent_plugins/main/uniondht.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
-| ✔ qbt 4.3.4.1 / python 3.9.2
+| ✔ qbt 4.3.x / python 3.9.x
 |-
 | [[https://www.google.com/s2/favicons?domain=yourbittorrent.com#.png]] [https://yourbittorrent.com/ YourBittorrent]
 | [https://github.com/LightDestory/qBittorrent-Search-Plugins LightDestory]
