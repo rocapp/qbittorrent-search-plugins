@@ -14,7 +14,7 @@ Since version 4.5.0 the native search engine is replaced with a new search engin
 There are several software compatible with this specification. Its goal is to support as many torrent sites as possible, parse the content and convert the results into Torznab format so it can be consumed by other applications such as qBittorrent. 
 
 These are the most popular applications:
-* [Jackett](https://github.com/Jackett/Jackett): **(recommended)**. It supports more than 500 torrent sites.
+* [Jackett](https://github.com/Jackett/Jackett): **(recommended)**. It supports more than 500 torrent sites and has the biggest user base.
 * [Prowlarr](https://github.com/Prowlarr/Prowlarr): It supports the same sites as Jackett but with more modern UI.
 * [NZB Hydra](https://github.com/theotherp/nzbhydra2): It includes more features but supports less torrent sites.
 * [Cardigann](https://github.com/cardigann/cardigann): Some sites still work, but it is no longer maintained.
@@ -33,3 +33,29 @@ Once Jackett is installed. You can open the Web UI to configure the torrent site
 When you're done, use the "Manual search" to check that it works correctly.
 
 ![](https://i.imgur.com/Q9L7vWH.png)
+
+## qBittorrent search engine
+
+By default the search engine is disabled. You can enable it in "View => Search engine".
+
+![](https://i.imgur.com/1GdF59Z.png)
+
+Now you will see a new tab where you can search and configure the "Indexers" (torrent sites).
+
+![](https://i.imgur.com/zV0BY5H.png)
+
+You have to add the indexers one by one. The name can be anything. The Toznab URL and API Key are copied from the Jackett Web UI.
+
+![](https://i.imgur.com/ChdYcEb.png)
+
+![](https://i.imgur.com/nouJlHW.png)
+
+The indexers can be disabled and edited with the "right-click menu".
+
+![](https://i.imgur.com/rezgU0m.png)
+
+You can perform searches in all enabled indexers as usual.
+
+![](https://i.imgur.com/TSVLRtD.png)
+
+If some indexer is not working as expected (or you don't get results at all) check the qBittorrent and Jackett logs for further details.
