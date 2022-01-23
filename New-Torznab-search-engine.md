@@ -28,34 +28,34 @@ You can find the installation instructions [here](https://github.com/Jackett/Jac
 
 Once Jackett is installed. You can open the Web UI to configure the torrent sites. The Jackett URL is usually http://127.0.0.1:9117 The next step is to set up your favorite torrent sites. Click the "Add indexer" button and follow the instructions. 
 
-![](https://i.imgur.com/d8WU007.png)
+![](https://raw.githubusercontent.com/qbittorrent/search-plugins/master/docs/qbittorrent_torznab_search_1.png)
 
 When you're done, use the "Manual search" to check that it works correctly.
 
-![](https://i.imgur.com/Q9L7vWH.png)
+![](https://raw.githubusercontent.com/qbittorrent/search-plugins/master/docs/qbittorrent_torznab_search_2.png)
 
 ## qBittorrent search engine
 
 By default the search engine is disabled. You can enable it in "View => Search engine".
 
-![](https://i.imgur.com/1GdF59Z.png)
+![](https://raw.githubusercontent.com/qbittorrent/search-plugins/master/docs/qbittorrent_torznab_search_3.png)
 
 Now you will see a new tab where you can search and configure the "Indexers" (torrent sites).
 
-![](https://i.imgur.com/zV0BY5H.png)
+![](https://raw.githubusercontent.com/qbittorrent/search-plugins/master/docs/qbittorrent_torznab_search_4.png)
 
 You have to add the indexers one by one. The name can be anything. The Toznab URL and API Key are copied from the Jackett Web UI.
 
-![](https://i.imgur.com/ChdYcEb.png)
+![](https://raw.githubusercontent.com/qbittorrent/search-plugins/master/docs/qbittorrent_torznab_search_5.png)
 
-![](https://i.imgur.com/nouJlHW.png)
+![](https://raw.githubusercontent.com/qbittorrent/search-plugins/master/docs/qbittorrent_torznab_search_6.png)
 
 The indexers can be disabled and edited with the "right-click menu".
 
-![](https://i.imgur.com/rezgU0m.png)
+![](https://raw.githubusercontent.com/qbittorrent/search-plugins/master/docs/qbittorrent_torznab_search_7.png)
 
 You can perform searches in all enabled indexers as usual.
 
-![](https://i.imgur.com/TSVLRtD.png)
+![](https://raw.githubusercontent.com/qbittorrent/search-plugins/master/docs/qbittorrent_torznab_search_8.png)
 
 If some indexer is not working as expected (or you don't get results at all) check the qBittorrent and Jackett logs for further details.
