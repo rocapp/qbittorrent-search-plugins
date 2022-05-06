@@ -13,6 +13,7 @@ If you know a torrent site that is not in the official/unofficial list, you can 
 |   720pier.ru         |       NO      |  N/A   |   Sport-focused. Fast with new uploads. Requires login   |
 |   Archive.org        | Not needed    |  N/A   |   Jackett already supports archive, use jackett plugin   |
 |   bit-titan.net      |       NO      |  N/A   |      good german tracker       |
+|   beyond-hd.me       |       NO      |  N/A   | Amazing tracker for good quality movies/tv shows. Private tracker & requires login.|
 |   Btdb.eu            |       NO      |  N/A   |                                |
 |   demonoid.is        |       NO      |  N/A   |                                |
 |   eztv.io            |       NO      |  N/A   |   This is no longer working. Use eztv.it instead.   |
