@@ -23,11 +23,11 @@ The plugins shown as ✖ or ❗ will result in the slowdown and malfunction of o
 
 |-
 | [[https://www.google.com/s2/favicons?domain=1337x.to#.png]] [http://1337x.to/ 1337x]
-| [https://github.com/sa3dany sa3dany]
-| 1.0
-| 01/Apr<br />2020
-| [https://gist.github.com/sa3dany/1478e311e6371a60e251e7bdfc2dda65/raw/6288d84627e23823427d03f7aca2f492aa0c8338/one337x.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
-| ✔ qbt v4.2.x / python 3.5.0
+| [https://github.com/sa3dany sa3dany], [https://github.com/Alyetama Alyetama]
+| 2.0
+| 14/May<br />2022
+| [https://gist.githubusercontent.com/Alyetama/809bc6947a273c630243ed8a5197eef0/raw/4775ee677160e94c773b953d7927a7ad0eb18312/one337x.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
+| ✔ qbt 4.4.x / python 3.6.0
 |-
 |[[https://github.com/libellula/Official-search-engines-plugins-favicons/blob/main/academictorrentsfavicon-16x16.png]] [https://academictorrents.com/ Academic Torrents]
 |[https://github.com/LightDestory/qBittorrent-Search-Plugins LightDestory]
