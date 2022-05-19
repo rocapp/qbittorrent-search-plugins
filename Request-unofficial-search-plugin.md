@@ -52,6 +52,7 @@ If you know a torrent site that is not in the official/unofficial list, you can 
 |   animetosho.org     |       NO      |  N/A   | |
 |   watchsomuch.org     |       NO      |  N/A   |Requires Login |
 |   xspeeds.eu   | NO | N/A | Great tracker for movies,TV Shows, with a bit of everything else thrown in |
+|   sktorrent.eu     |       NO      |  N/A   |Requires Login |
 
 some of TORRENT are not mention above are here:
 TPB , KAT , ZOOQLE , TORLOCK , BTDIGG ,BTSTOR , NYAA , SEEDPEER , , ETTV , BT4G , GLODLS , SKYTORRENTS, TORRENTGALAXY. 
