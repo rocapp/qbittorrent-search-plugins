@@ -50,6 +50,13 @@ The plugins shown as ✖ or ❗ will result in the slowdown and malfunction of o
 | [https://raw.githubusercontent.com/nindogo/qbtSearchScripts/master/anidex.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | ✔ qbt 4.1.x / python 3.5.0
 |-
+|[[https://raw.githubusercontent.com/nklido/qBittorrent_search_engines/master/engines/audiobookbay_icon_16x16.png]] [http://audiobookbay.fi AudioBook Bay (ABB) ]
+|[https://github.com/nklido/qBittorrent_search_engines nKlido]
+|0.0.1
+|21/May<br />2022
+|[https://raw.githubusercontent.com/nklido/qBittorrent_search_engines/master/engines/audiobookbay.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
+|✔ qbt 4.3.x / python 3.8.10 <br />
+|-
 | [[https://github.com/libellula/Official-search-engines-plugins-favicons/blob/main/bt4gfavicon-16x16.png]] [https://bt4g.org/ bt4g]
 | [https://github.com/kjjejones44/b4tg_search_plugin kjjejones44]
 | 1.00
@@ -267,7 +274,7 @@ Mejor Torrent]
 |✔ qbt 4.3.x / python 3.8.5 <br />**READ REPOSITORY NOTES**
 |-
 |-
-|[[https://raw.githubusercontent.com/nklido/qBittorrent_search_engines/master/engines/solidtorrents_icon_16x16.png]] [https://solidtorrents.eu Solid Torrents]
+|[[https://raw.githubusercontent.com/nklido/qBittorrent_search_engines/master/engines/solidtorrents_icon_16x16.png]] [https://solidtorrents.net Solid Torrents]
 |[https://github.com/nklido/qBittorrent_search_engines nKlido]
 |2.0.0
 |21/May<br />2022
