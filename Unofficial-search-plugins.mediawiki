@@ -267,11 +267,11 @@ Mejor Torrent]
 |✔ qbt 4.3.x / python 3.8.5 <br />**READ REPOSITORY NOTES**
 |-
 |-
-|[[https://raw.githubusercontent.com/nklido/qBittorrent_search_engines/master/solidtorrents_icon_16x16.png]] [https://solidtorrents.eu Solid Torrents]
+|[[https://raw.githubusercontent.com/nklido/qBittorrent_search_engines/master/engines/solidtorrents_icon_16x16.png]] [https://solidtorrents.eu Solid Torrents]
 |[https://github.com/nklido/qBittorrent_search_engines nKlido]
-|1.0
-|27/Oct<br />2021
-|[https://raw.githubusercontent.com/nklido/qBittorrent_search_engines/master/solidtorrents.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
+|2.0.0
+|21/May<br />2022
+|[https://raw.githubusercontent.com/nklido/qBittorrent_search_engines/master/engines/solidtorrents.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 |✔ qbt 4.3.x / python 3.8.10 <br />
 |-
 | [[https://github.com/libellula/qbt-plugins/blob/main/subtorrentsfavicon.png]]
