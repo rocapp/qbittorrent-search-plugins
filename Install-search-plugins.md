@@ -21,6 +21,6 @@
                      > <PLUGIN.NAME> search engine plugin could not be installed.
                     1. Using [this page](https://github.com/qbittorrent/search-plugins/wiki/Unofficial-search-plugins#plugins-for-public-sites) under the `Comment` column, double check that your system meets the minimum requirements for each search plugin. Maybe your present system does not have the requirements.
           1. Click on `Close` button
-1. You can delete the `.py` file from you temporary location on your local storage. As it is no longer needed.
-1. Optionally, you can use the `Search plugins` window to Enable or Deactivate search plugins, or check for updates
-1. Done. You have successfully install a new search plugin for qBittorrent.
+1. You can delete the `.py` file from your temporary location on your local storage, as it is no longer needed.
+1. Optionally, you can use the `Search plugins` window to Enable or Deactivate search plugins, or check for updates.
+1. Done. You have successfully installed a new search plugin for qBittorrent.
