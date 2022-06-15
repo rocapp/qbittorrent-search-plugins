@@ -54,7 +54,7 @@ If you know a torrent site that is not in the official/unofficial list, you can 
 |   watchsomuch.org     |       NO      |  N/A   |Requires Login |
 |   sktorrent.eu     |       NO      |  N/A   |Requires Login |
 |   zamunda.net     |       NO      |  N/A   |Supper stacked, Requires Login |
-|   https://www.myanonamouse.net/     |       NO      |  N/A   |Requires Login |
+|   myanonamouse.net     |       NO      |  N/A   |Requires Login |
 
 some of TORRENT are not mention above are here:
 TPB , KAT , ZOOQLE , TORLOCK , BTDIGG ,BTSTOR , NYAA , SEEDPEER , , ETTV , BT4G , GLODLS , SKYTORRENTS, TORRENTGALAXY. 
