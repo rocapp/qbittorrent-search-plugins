@@ -289,6 +289,13 @@ Mejor Torrent]
 | [https://raw.githubusercontent.com/joseeloren/search-plugins/master/nova3/engines/subtorrents.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | ✔ qbt 4.2.x / python 3.5.0
 |-
+| [[https://raw.githubusercontent.com/MadeOfMagicAndWires/qBit-plugins/master/engines/nyaasi.png]] [https://sukebei.nyaa.si/ Sukebei (Nyaa)]
+| [https://github.com/vt-idiot/qBit-SukebeiNyaa-plugin vt-idiot]
+| 1.11
+| 21/Jun<br />2022
+| [https://github.com/vt-idiot/qBit-SukebeiNyaa-plugin/raw/master/engines/sukebeisi.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
+| ✔ qbt 4.4.3.1 / python 3.10.5
+|-
 | [[https://raw.githubusercontent.com/MadeOfMagicAndWires/qBit-plugins/master/engines/nyaasi.png]] [https://sukebei.nyaa.si/ Sukebei Nyaa]
 | [https://github.com/phuongtailtranminh/qBittorrent-Nyaa-Search-Plugin/ phuongtail<br />tranminh]
 | 1.01
