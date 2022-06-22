@@ -195,10 +195,10 @@ Mejor Torrent]
 |-
 | [[https://raw.githubusercontent.com/MadeOfMagicAndWires/qBit-plugins/master/engines/nyaasi.png]] [https://nyaa.si/ Nyaa.si]
 | [https://github.com/MadeOfMagicAndWires/qBit-plugins Made Of Magic<br />And Wires]
-| 1.00
-| 19/May<br />2017
+| 1.1
+| 01/Mar<br />2019
 | [https://raw.githubusercontent.com/MadeOfMagicAndWires/qBit-plugins/master/engines/nyaasi.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
-| ✔ qbt 4.0.x / python 3.5.0
+| ✔ qbt 4.4.3.1 / python 3.10.5
 |-
 | [[https://github.com/libellula/qbt-plugins/blob/main/favicon-16x16.png]] [https://www.oxtorrent.com OxTorrent]
 | [https://github.com/CravateRouge/qBittorrentSearchPlugins CravateRouge]
