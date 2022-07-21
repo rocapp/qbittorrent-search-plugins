@@ -53,7 +53,7 @@ If you know a torrent site that is not in the official/unofficial list, you can 
 |   animetosho.org     |       NO      |  N/A   | |
 |   watchsomuch.org     |       NO      |  N/A   |Requires Login |
 |   sktorrent.eu     |       NO      |  N/A   |Requires Login |
-|   zamunda.net     |       NO      |  N/A   |Supper stacked, Requires Login |
+|   zamunda.net     |       YES      |  N/A   |Supper stacked, Requires Login |
 |   myanonamouse.net     |       NO      |  N/A   |Requires Login |
 
 some of TORRENT are not mention above are here:
