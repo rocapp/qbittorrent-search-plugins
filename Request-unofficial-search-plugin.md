@@ -55,6 +55,8 @@ If you know a torrent site that is not in the official/unofficial list, you can 
 |   sktorrent.eu     |       NO      |  N/A   |Requires Login |
 |   zamunda.net     |       YES      |  N/A   |Supper stacked, Requires Login |
 |   myanonamouse.net     |       NO      |  N/A   |Requires Login |
+|   1tamilmv.com       |       NO      |  N/A   | fast uploads & good quality indian movies/tv shows, no login required |
+|   tamilblasters.com  |       NO      |  N/A   | latest movies fast uploads, indian movies/tv shows, login not required |
 
 some of TORRENT are not mention above are here:
 TPB , KAT , ZOOQLE , TORLOCK , BTDIGG ,BTSTOR , NYAA , SEEDPEER , , ETTV , BT4G , GLODLS , SKYTORRENTS, TORRENTGALAXY. 
