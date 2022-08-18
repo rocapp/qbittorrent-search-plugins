@@ -10,7 +10,7 @@ If you know a torrent site that is not in the official/unofficial list, you can 
 
 |      Site            |  In Progress? |  Dev   |             Notes              |  
 | :-------------------:|:-------------:| :-----:| :----------------------------: |
-|   [1tamilmv.com](https://1tamilmv.com)       |       NO      |  N/A   | fast uploads & good quality indian movies/tv shows, no login required |
+|   [1tamilmv.com](https://1tamilmv.com)       |       NO      |  N/A   | fast uploads & good quality indian movies/tv shows, no login required [rss-feed](https://1tamilmv.com/index.php?/discover/all.xml/) |
 |   720pier.ru         |       NO      |  N/A   |   Sport-focused. Fast with new uploads. Requires login   |
 |   Archive.org        | Not needed    |  N/A   |   Jackett already supports archive, use jackett plugin   |
 |   bit-titan.net      |       NO      |  N/A   |      good german tracker       |
@@ -56,7 +56,7 @@ If you know a torrent site that is not in the official/unofficial list, you can 
 |   sktorrent.eu     |       NO      |  N/A   |Requires Login |
 |   zamunda.net     |       YES      |  N/A   |Supper stacked, Requires Login |
 |   myanonamouse.net     |       NO      |  N/A   |Requires Login |
-|   [tamilblasters.com](https://tamilblasters.com)  |       NO      |  N/A   | latest movies fast uploads, indian movies/tv shows, login not required |
+|   [tamilblasters.com](https://tamilblasters.com)  |       NO      |  N/A   | latest movies fast uploads, indian movies/tv shows, login not required [rss-feed](https://tamilblasters.com/index.php?/discover/all.xml/) |
 
 some of TORRENT are not mention above are here:
 TPB , KAT , ZOOQLE , TORLOCK , BTDIGG ,BTSTOR , NYAA , SEEDPEER , , ETTV , BT4G , GLODLS , SKYTORRENTS, TORRENTGALAXY. 
