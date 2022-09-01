@@ -337,6 +337,13 @@ Mejor Torrent]
 | [https://raw.githubusercontent.com/LightDestory/qBittorrent-Search-Plugins/master/src/engines/thepiratebay.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | ✔ qbt 4.3.x / python 3.8.5
 |-
+| [[http://scare.ca/dl/qBittorrent/thepiratebay.png]] [https://thepiratebay.org/  ThePirateBay w. categories]
+| [http://scare.ca/dl/qBittorrent Scare!]
+| 2.0
+| 1/Sep<br />2022
+| [http://scare.ca/dl/qBittorrent/thepiratebay.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
+| ✔ qbt 4.4.4 / python 3.8.10
+|-
 | [[https://github.com/LightDestory/qBittorrent-Search-Plugins/raw/master/src/engines/tntvillagedump.png]] [http://tntvillage.org/  TNTVillageDump]
 | [https://github.com/LightDestory/qBittorrent-Search-Plugins LightDestory]
 | 1.1
