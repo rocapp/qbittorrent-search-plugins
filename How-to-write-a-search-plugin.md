@@ -49,7 +49,7 @@ http://www.mininova.org/get/1109509|ubuntu-hardy-desktop-i386-alpha-3 iso|711332
 http://www.mininova.org/get/1088604|Xubuntu 7.10 for Virtual PC 2007|713901998|0|0|http://www.mininova.org
 ```
 ## Python Class File Structure
-Your plugin should be named "engine_name.py", in lowercase and without spaces not any special characters.
+Your plugin should be named "engine_name.py", in lowercase and without spaces nor any special characters.
 You'll also need the other files for the project ([Link](https://github.com/qbittorrent/qBittorrent/tree/master/src/searchengine/nova3))
 
 The Files Are:
