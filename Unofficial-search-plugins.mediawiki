@@ -338,10 +338,10 @@ Mejor Torrent]
 | ✔ qbt 4.3.x / python 3.8.5
 |-
 | [[https://github.com/LightDestory/qBittorrent-Search-Plugins/raw/master/src/engines/thepiratebay.png]] [https://thepiratebay.org/  ThePirateBay with categories]
-| [http://scare.ca/dl/qBittorrent Scare!]
+| [https://Scare.ca/dl/qBittorrent Scare!]
 | 2.0
 | 1/Sep<br />2022
-| [http://scare.ca/dl/qBittorrent/thepiratebay.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
+| [https://Scare.ca/dl/qBittorrent/thepiratebay.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | ✔ qbt 4.4.4 / python 3.8.10
 |-
 | [[https://github.com/LightDestory/qBittorrent-Search-Plugins/raw/master/src/engines/tntvillagedump.png]] [http://tntvillage.org/  TNTVillageDump]
@@ -364,6 +364,13 @@ Mejor Torrent]
 | 28/Jul<br />2022
 | [https://raw.githubusercontent.com/LightDestory/qBittorrent-Search-Plugins/master/src/engines/torrentdownload.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | ✔ qbt 4.3.x / python 3.8.5
+|-
+| [[https://github.com/LightDestory/qBittorrent-Search-Plugins/raw/master/src/engines/torrentdownload.png]] [https://torrentdownload.info/  TorrentDownload with categories]
+| [https://Scare.ca/dl/qBittorrent/ Scare!]
+| 2.0
+| 7/Sep<br />2022
+| [https://Scare.ca/dl/qBittorrent/torrentdownload.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
+| ✔ qbt 4.4.4 / python 3.8.10 
 |-
 | [[https://github.com/libellula/Official-search-engines-plugins-favicons/blob/main/favicon-16x16.png]] [https://www.torrentfunk.com/ TorrentFunk]
 | [https://github.com/MaurizioRicci/qBittorrent_search_engine/ mauricci]
