@@ -170,6 +170,13 @@ The plugins shown as ✖ or ❗ will result in the slowdown and malfunction of o
 | [https://raw.githubusercontent.com/nindogo/qbtSearchScripts/master/magnetdl.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
 | ✔ qbt 4.0.x / python 3.5.0
 |-
+| [[https://raw.githubusercontent.com/hannsen/qbittorrent_search_plugins/00e876a51f2cb45ee22071c56fc7ba52dc117721/magnetdl.png]] [http://www.magnetdl.com/ MagnetDL with categories]
+| [https://Scare.ca/dl/qBittorrent/ Scare!]
+| 2.0
+| 8/Sep<br />2022
+| [https://Scare.ca/dl/qBittorrent/magnetdl.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]
+| ✔ qbt 4.4.4 / python 3.8.10
+|-
 | [[https://www.google.com/s2/favicons?domain=anidex.info#.png]]
 [https://maxitorrent.com/ MaxiTorrent]
 | [https://github.com/joseeloren/qbittorrent-search-plugins joseeloren]
