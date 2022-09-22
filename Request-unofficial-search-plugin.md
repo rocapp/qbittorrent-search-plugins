@@ -57,6 +57,7 @@ If you know a torrent site that is not in the official/unofficial list, you can 
 |   zamunda.net     |       YES      |  N/A   |Supper stacked, Requires Login |
 |   myanonamouse.net     |       NO      |  N/A   |Requires Login |
 |   [tamilblasters.com](https://tamilblasters.com)  |       NO      |  N/A   | latest movies fast uploads, indian movies/tv shows, login not required, [rss-feed](https://tamilblasters.com/index.php?/discover/all.xml/) |
+|   [toloka.to](https://toloka.to)     |       NO      |  N/A   | The most popular Ukrainian tracker. Have the biggest content library in the Ukrainian language. Requires Login. Behind Cloudflare protection |
 
 some of TORRENT are not mention above are here:
 TPB , KAT , ZOOQLE , TORLOCK , BTDIGG ,BTSTOR , NYAA , SEEDPEER , , ETTV , BT4G , GLODLS , SKYTORRENTS, TORRENTGALAXY. 
