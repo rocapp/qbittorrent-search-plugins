@@ -454,7 +454,7 @@ Mejor Torrent]
 | [[https://github.com/Ooggle/qbittorrent-search-plugins/raw/master/engines/gazellegames.png]] [https://gazellegames.net GazelleGames]
 | [https://github.com/Ooggle/qbittorrent-search-plugins Ooggle]
 | 1.30
-| 13/Apr<br />2017
+| 07/Oct<br />2022
 | [https://raw.githubusercontent.com/Ooggle/qbittorrent-search-plugins/master/engines/gazellegames.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]<br />[https://github.com/Ooggle/qbittorrent-search-plugins/blob/master/README.md [[https://github.com/Pireo/hello-world/blob/master/Help%20book.gif]] ]
 | ✔ qbt 4.4.x / python 3.9+
 |-
