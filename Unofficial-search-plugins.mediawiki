@@ -451,6 +451,13 @@ Mejor Torrent]
 | [https://raw.githubusercontent.com/MadeOfMagicAndWires/qBit-plugins/master/engines/bakabt.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]<br />[https://github.com/MadeOfMagicAndWires/qBit-plugins/blob/master/README.md [[https://github.com/Pireo/hello-world/blob/master/Help%20book.gif]] ]
 | ✔ qbt 4.3.x / python 3.9.x
 |-
+| [[https://github.com/Ooggle/qbittorrent-search-plugins/raw/master/engines/gazellegames.png]] [https://gazellegames.net GazelleGames]
+| [https://github.com/Ooggle/qbittorrent-search-plugins Ooggle]
+| 1.30
+| 13/Apr<br />2017
+| [https://raw.githubusercontent.com/Ooggle/qbittorrent-search-plugins/master/engines/gazellegames.py [[https://github.com/Pireo/hello-world/blob/master/Download.gif]] ]<br />[https://github.com/Ooggle/qbittorrent-search-plugins/blob/master/README.md [[https://github.com/Pireo/hello-world/blob/master/Help%20book.gif]] ]
+| ✔ qbt 4.4w.x / python 3.9+
+|-
 | [[https://github.com/txtsd/qB-IPT/raw/master/iptorrents.png]] [https://iptorrents.com IPTorrents]
 | [https://github.com/txtsd/qB-IPT txtsd (qB-IPT)]
 | 1.01
