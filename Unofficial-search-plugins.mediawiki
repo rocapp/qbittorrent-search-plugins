@@ -221,7 +221,7 @@ Mejor Torrent]
 | [https://raw.githubusercontent.com/MadeOfMagicAndWires/qBit-plugins/master/engines/nyaasi.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]] ]
 | ✔ qbt 4.4.3.1 / python 3.10.5
 |-
-| [[https://github.com/libellula/qbt-plugins/blob/main/favicon-16x16.png]] [https://www.oxtorrent.com OxTorrent]
+| [[https://github.com/libellula/qbt-plugins/blob/main/favicon-16x16.png]] [https://www.oxtorrent.sk/ OxTorrent]
 | [https://github.com/CravateRouge/qBittorrentSearchPlugins CravateRouge]
 | 1.0
 | 02/Jan<br />2021
@@ -528,7 +528,7 @@ Mejor Torrent]
 | [https://raw.githubusercontent.com/swannie-eire/prowlarr-qbittorrent-plugins/main/prowlarr.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]] ]<br />[https://github.com/swannie-eire/prowlarr-qbittorrent-plugins [[https://github.com/Pireo/hello-world/blob/master/Help%20book.gif]] ]
 | ✔ qbt 4.3.x / python 3.+
 |-
-| [[https://raw.githubusercontent.com/CravateRouge/qBittorrentSearchPlugins/master/yggtorrent.png]] [https://www2.yggtorrent.pe/ YggTorrent]
+| [[https://raw.githubusercontent.com/CravateRouge/qBittorrentSearchPlugins/master/yggtorrent.png]] [https://yggtorrent.fi/ YggTorrent]
 | [https://github.com/CravateRouge/qBittorrentSearchPlugins CravateRouge]
 | 0.4
 | 25/Nov<br />2019
