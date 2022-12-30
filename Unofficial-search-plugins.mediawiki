@@ -85,6 +85,14 @@ The plugins shown as ✖ or ❗ will result in the slowdown and malfunction of o
 | [https://raw.githubusercontent.com/MaurizioRicci/qBittorrent_search_engine/master/cinecalidad.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]] ]
 | ✔ qbt 4.1.x / python 3.5.0 <br />❗ qbt 4.3.0.1 / python 3.9
 |-
+| [[https://github.com/menegop/qbfrench/blob/master/cpasbien.png]] 
+[http://www.cpasbiens.si  Cpasbien]
+| [https://raw.githubusercontent.com/menegop/qbfrench menegop]
+| 2.0
+|29/Dec<br />2022
+| [https://raw.githubusercontent.com/menegop/qbfrench/master/cpasbien.py]
+| ✔ qbt 4.3.6 / python 3.8
+|-
 | [[https://github.com/MaurizioRicci/qBittorrent_search_engine/blob/master/cpasbien_icon.png]] 
 [http://ww2.cpasbiens.co  Cpasbien]
 | [https://github.com/MaurizioRicci/qBittorrent_search_engine/ mauricci]
