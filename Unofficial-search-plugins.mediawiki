@@ -86,7 +86,7 @@ The plugins shown as ✖ or ❗ will result in the slowdown and malfunction of o
 | ✔ qbt 4.1.x / python 3.5.0 <br />❗ qbt 4.3.0.1 / python 3.9
 |-
 | [[https://github.com/menegop/qbfrench/blob/master/cpasbien.png]] 
-[http://www.cpasbiens.si  Cpasbien]
+[http://www.cpasbien.si  Cpasbien]
 | [https://raw.githubusercontent.com/menegop/qbfrench menegop]
 | 2.0
 |29/Dec<br />2022
