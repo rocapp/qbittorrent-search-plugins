@@ -363,7 +363,7 @@ Mejor Torrent]
 | [https://github.com/LightDestory/qBittorrent-Search-Plugins LightDestory]
 | 1.1
 | 31/Jan<br />2022
-| [https://raw.githubusercontent.com/LightDestory/qBittorrent-Search-Plugins/master/src/engines/tntvilagedump.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]] ]
+| [https://raw.githubusercontent.com/LightDestory/qBittorrent-Search-Plugins/master/src/engines/tntvillagedump.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]] ]
 | ✔ qbt 4.3.x / python 3.8.5
 |-
 | [[https://raw.githubusercontent.com/BrunoReX/qBittorrent-Search-Plugin-TokyoToshokan/master/tokyotoshokan.png]] [https://tokyotosho.info/index.php Tokyo Toshokan]
