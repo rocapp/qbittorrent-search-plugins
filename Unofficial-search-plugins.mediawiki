@@ -373,6 +373,14 @@ Mejor Torrent]
 | [https://raw.githubusercontent.com/BrunoReX/qBittorrent-Search-Plugin-TokyoToshokan/master/tokyotoshokan.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]] ]
 | ✔ qbt 4.0.x / python 3.5.0
 |-
+| [[https://github.com/menegop/qbfrench/blob/master/torrent9.png]] 
+[http://torent9.fr  Torrent9]
+| [https://raw.githubusercontent.com/menegop/qbfrench menegop]
+| 2.0
+|01/Jan<br />2023
+| [https://raw.githubusercontent.com/menegop/qbfrench/master/torrent9.py [[https://github.com/menegop/qbfrench/blob/master/Download.gif]]]
+| ✔ qbt 4.3.6 / python 3.8
+|-
 | [[https://github.com/LightDestory/qBittorrent-Search-Plugins/raw/master/src/engines/torrentdownload.png]] [https://torrentdownload.info/  TorrentDownload]
 | [https://github.com/LightDestory/qBittorrent-Search-Plugins LightDestory]
 | 1.0
