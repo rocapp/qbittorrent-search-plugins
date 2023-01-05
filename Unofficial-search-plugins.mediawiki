@@ -283,8 +283,8 @@ Mejor Torrent]
 |-
 | [[https://github.com/imDMG/qBt_SE/blob/master/engines/rutor.png]] [http://rutor.info/ Rutor]
 | [https://github.com/imDMG/qBt_SE imDMG]
-| 1.5
-| 22/Mar<br />2022
+| 1.6
+| 05/Jan<br />2023
 | [https://raw.githubusercontent.com/imDMG/qBt_SE/master/engines/rutor.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]] ]<br /> [https://github.com/imDMG/qBt_SE/blob/master/README.md#rutrackerorg [[https://github.com/Pireo/hello-world/blob/master/Help%20book.gif]] ]
 | ✔ qbt 4.2.x / python 3.7+
 |-
