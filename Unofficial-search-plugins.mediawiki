@@ -93,14 +93,6 @@ The plugins shown as ✖ or ❗ will result in the slowdown and malfunction of o
 | [https://raw.githubusercontent.com/menegop/qbfrench/master/cpasbien.py [[https://github.com/menegop/qbfrench/blob/master/Download.gif]]]
 | ✔ qbt 4.3.6 / python 3.8
 |-
-| [[https://github.com/MaurizioRicci/qBittorrent_search_engine/blob/master/cpasbien_icon.png]] 
-[http://ww2.cpasbiens.co  Cpasbien]
-| [https://github.com/MaurizioRicci/qBittorrent_search_engine/ mauricci]
-| 1.1
-|29/Jan<br />2019
-| [https://raw.githubusercontent.com/MaurizioRicci/qBittorrent_search_engine/master/cpasbien.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]] ]
-| ✔ qbt 4.1.x / python 3.5.0
-|-
 | [[https://github.com/bugsbringer/qbit-plugins/blob/master/darklibria.png]] [https://dark-libria.it/ dark-libria]
 | [https://github.com/bugsbringer/qbit-plugins Bugsbringer]
 | 0.10
