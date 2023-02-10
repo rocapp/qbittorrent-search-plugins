@@ -252,13 +252,6 @@ Mejor Torrent]
 | [https://raw.githubusercontent.com/LightDestory/qBittorrent-Search-Plugins/master/src/engines/pirateiro.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]] ]
 | ✔ qbt 4.3.x / python 3.8.5
 |-
-| [[https://github.com/LightDestory/qBittorrent-Search-Plugins/blob/master/src/engines/rarbg.png]] [http://www.rarbg.is/ RARBG]
-| [https://github.com/LightDestory/qBittorrent-Search-Plugins LightDestory]
-| 1.0
-| 14/Nov<br />2021
-| [https://raw.githubusercontent.com/LightDestory/qBittorrent-Search-Plugins/master/src/engines/rarbg.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]] ]
-| ✔ qbt 4.3.x / python 3.8.5
-|-
 | [[https://github.com/Pireo/hello-world/blob/master/rockbox.png]] [https://rawkbawx.rocks/ RockBox]
 | [https://github.com/LightDestory/qBittorrent-Search-Plugins LightDestory]
 | 1.0
