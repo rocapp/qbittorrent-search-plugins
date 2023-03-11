@@ -401,7 +401,7 @@ Mejor Torrent]
 | [https://raw.githubusercontent.com/LightDestory/qBittorrent-Search-Plugins/master/src/engines/yourbittorrent.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]] ]
 | ✔ qbt 4.3.x / python 3.8.5
 |-
-|[[https://github.com/Pireo/hello-world/blob/master/yts.png]] [http://yts.am/ YTS.AM]
+|[[https://github.com/Pireo/hello-world/blob/master/yts.png]] [http://yts.mx/ YTS.MX]
 |[https://github.com/khensolomon/leyts Lethil]
 |3.2
 |2/Nov<br />2018
