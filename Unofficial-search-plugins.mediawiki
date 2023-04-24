@@ -36,6 +36,13 @@ The plugins shown as ✖ or ❗ will result in the slowdown and malfunction of o
 |[https://raw.githubusercontent.com/LightDestory/qBittorrent-Search-Plugins/master/src/engines/academictorrents.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]] ]
 |✔ qbt 4.3.x / python 3.8.5 <br />**READ REPOSITORY NOTES**
 |-
+|[[https://raw.githubusercontent.com/Cc050511/qBit-acg.rip-search-plugins/main/favicon.png]] [https://acg.rip/ acgrip]
+|[https://github.com/Cc050511/qBit-acg.rip-search-plugins Yun]
+|1.0
+|24/Apr<br />2023
+|[https://raw.githubusercontent.com/Cc050511/qBit-acg.rip-search-plugins/main/acgrip.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]] ]
+|✔ qbt 4.5.2 / python 3.10 <br />
+|-
 | [[https://raw.githubusercontent.com/hannsen/qbittorrent_search_plugins/master/ali213.png]] [http://down.ali213.net/ ali213.net]
 | [https://github.com/hannsen/qbittorrent_search_plugins/ hannsen]
 | 1.00
