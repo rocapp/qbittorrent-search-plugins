@@ -101,7 +101,7 @@ class engine_name(object):
         implementation in case the search engine in question does not allow
         traditional downloads (for example, cookie-based download).
         """
-        print download_file(info)
+        print(download_file(info))
 
     # DO NOT CHANGE the name and parameters of this function
     # This function will be the one called by nova2.py
