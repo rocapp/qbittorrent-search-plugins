@@ -72,7 +72,7 @@ Here is the basic structure of engine_name.py:
 
 from helpers import download_file, retrieve_url
 from novaprinter import prettyPrinter
-import sgmllib
+import sgmllib3
 # some other imports if necessary
 
 class engine_name(object):
