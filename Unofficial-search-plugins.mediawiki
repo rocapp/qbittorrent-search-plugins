@@ -1,17 +1,19 @@
-Here you can find unofficial search engine plugins for qBittorrent that are made available by the community.
+Here you can find unofficial search engine plugins for qBittorrent that are made available by the community
 
 = Read First =
+* Note that python plugins/scripts are, by its nature, not considered to be safe. Therefore any use of the unofficial plugins is at your own risk. It is a good practice to audit/take a look at the plugin/script before you install.
 * To install search engine plugins, follow [[Install-search-plugins#steps-to-install-search-plugins-qbittorrent-version-3110-or-more-recent|this tutorial]].
 * To request search plugins not listed in this page, update [[Request-unofficial-search-plugin|this page]].
 * To write your own search plugins, please follow [[How-to-write-a-search-plugin|this tutorial]].
 * If you wrote one, you're welcome to add it to these tables. Please keep the list sorted by <code>Search Engine</code> name.
 * '''If you experience issues with any of the plugins posted here, please report to the author directly.''' In case the author is unresponsive, you can try to fix it yourself. Then you can edit this wiki page and update the link to your fixed plugin.
+* The plugins shown as ✖ or ❗ will result in the slowdown and malfunction of other plugins as well, hence the use of these plugins are strongly discouraged.
+
+⚠️ We removed support for Python 2. Please upgrade to Python 3 to continue using the search function.
+The minimum supported Python version (across all platforms) is specified at [https://github.com/qbittorrent/qBittorrent/blob/master/INSTALL#L21-L23 here].
 
 = Plugins for Public sites =
 
-⚠️ We removed support for Python 2. Please, upgrade to Python 3 to continue using the search function.
-
-The plugins shown as ✖ or ❗ will result in the slowdown and malfunction of other plugins as well, hence the use of these plugins are strongly discouraged.
 {|
 |-
 !  Search Engine
@@ -529,8 +531,3 @@ Mejor Torrent]
 | [https://raw.githubusercontent.com/CravateRouge/qBittorrentSearchPlugins/master/yggtorrent.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]] ]<br /> [https://github.com/CravateRouge/qBittorrentSearchPlugins/blob/master/README.md [[https://github.com/Pireo/hello-world/blob/master/Help%20book.gif]] ]
 | ❗ Working when DDOS cloudfare<br />protection is disabled
 |}
-
-Download all unofficial search plugins at once: (https://github.com/qbittorrent/search-plugins/files/10294954/All.unofficial.search.plugins.zip)
-
-''*All files'' is a tarball (.tar.gz) containing script, icon, README & INSTALL files.
-
