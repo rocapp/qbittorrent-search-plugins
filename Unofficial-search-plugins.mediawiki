@@ -12,17 +12,16 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 ⚠️ We removed support for Python 2. Please upgrade to Python 3 to continue using the search function.
 The minimum supported Python version (across all platforms) is specified at [https://github.com/qbittorrent/qBittorrent/blob/master/INSTALL#L21-L23 here].
 
-= Plugins for Public sites =
+= Plugins for Public Sites =
 
 {|
 |-
 !  Search Engine
-!  Author<br/>(Repository)
-!  Ver.
-!  Update
-!  [[https://github.com/libellula/qbt-plugins/raw/main/chain+link+outline+seo+icon-1320195324238244888_16.png]]
-!  Comment
-
+!  Author (Repository)
+!  Version
+!  Last update
+!  Download link
+!  Comments
 |-
 | [[https://www.google.com/s2/favicons?domain=1337x.to#.png]] [http://1337x.to/ 1337x]
 | [https://github.com/sa3dany sa3dany], [https://github.com/Alyetama Alyetama], [https://github.com/BurningMop BurningMop]
@@ -427,18 +426,18 @@ Mejor Torrent]
 | ✔ qbt 4.1.x / python 3.5.0 <br />Uses Yts.am's API
 |}
 
-= Plugins for Private sites =
-* These scripts probably require editing before you can use them.
-* Those sites probably require an account and your username & password need to be added into the script.
+= Plugins for Private Sites =
+* The plugin/script may require editing before you can use it.
+* Those sites may require registration and require adding your credentials to the plugin/script.
 
 {|
 |-
 !  Search Engine
-!  Author<br/>(Repository)
-!  Ver.
-!  Update
-!  [[https://github.com/libellula/qbt-plugins/blob/main/chain+link+outline+seo+icon-1320195324238244888_16.png]]
-!  Comment
+!  Author (Repository)
+!  Version
+!  Last update
+!  Download link
+!  Comments
 |-
 | [[https://raw.githubusercontent.com/MadeOfMagicAndWires/qBit-plugins/master/engines/bakabt.png]] [https://bakabt.me BakaBT]
 | [https://github.com/MadeOfMagicAndWires/qBit-plugins Made Of Magic<br />And Wires]
