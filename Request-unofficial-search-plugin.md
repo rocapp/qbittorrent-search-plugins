@@ -11,7 +11,7 @@ If you know a torrent site that is not in the official/unofficial list, you can 
 Please keep the list sorted alphabetically by `Site` column
 
 |         Site         |  In progress? | Plugin repository (Author)  |             Notes              |  
-| :------------------: | :-----------: | :-------------------------: | :----------------------------: |
+| -------------------- | :-----------: | :-------------------------: | ------------------------------ |
 | [1tamilmv.com](https://1tamilmv.com) | NO | N/A | fast uploads & good quality indian movies/tv shows, no login required, [rss-feed](https://1tamilmv.com/index.php?/discover/all.xml/) |
 | 720pier.ru | NO | N/A | Sport-focused. Fast with new uploads. Requires login |
 | [anidex.info](https://github.com/nindogo/qbtSearchScripts/raw/master/anidex.py) | DONE | [Ni Ndogo](https://github.com/nindogo) | |
