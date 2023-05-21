@@ -25,9 +25,10 @@ Note: If the file doesn't exist, you can create it by copying the following JSON
 
 ```json
 {
-    "api_key": "YOUR_API_KEY_HERE", 
-    "tracker_first": false, 
-    "url": "http://127.0.0.1:9117"
+    "api_key": "YOUR_API_KEY_HERE",
+    "url": "http://127.0.0.1:9117",
+    "tracker_first": false,
+    "thread_count": 20
 }
 ```
 
@@ -39,8 +40,9 @@ Note 4: If running qBittorrent headless and using the web page on a remote serve
 $ cat config/data/qBittorrent/nova3/engines/jackett.json
 {
     "api_key": "YOUR_API_KEY_HERE",
+    "url": "http://yourserverip:9117",
     "tracker_first": false,
-    "url": "http://yourserverip:9117"
+    "thread_count": 20
 }
 ```
 
@@ -48,8 +50,9 @@ $ cat config/data/qBittorrent/nova3/engines/jackett.json
 | Property |  Default value |  Description |
 |---|---|---|
 | api_key | YOUR_API_KEY_HERE | Jackett API Key (you can find it on top of Jackett UI) |
-| tracker_first | false | (false/true) add tracker name to the beginning of search result |
 | url | http://127.0.0.1:9117 | Jackett URL (without the end slash) |
+| tracker_first | false | (false/true) add tracker name to the beginning of search result |
+| thread_count | 20 | Number of threads to make concurrent requests to Jackett. Set 1 to disable concurrent requests (it will make just 1 request to the indexer 'all'). |
 
 API Key in Jackett web UI:
 
