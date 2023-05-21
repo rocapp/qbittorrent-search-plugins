@@ -33,7 +33,7 @@ The minimum supported Python version (across all platforms) is specified at [htt
 |[[https://github.com/libellula/Official-search-engines-plugins-favicons/blob/main/academictorrentsfavicon-16x16.png]] [https://academictorrents.com/ Academic Torrents]
 |[https://github.com/LightDestory/qBittorrent-Search-Plugins LightDestory]
 |1.2
-|01/May<br />2022
+|19/Mar<br />2023
 |[https://raw.githubusercontent.com/LightDestory/qBittorrent-Search-Plugins/master/src/engines/academictorrents.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]] ]
 |✔ qbt 4.3.x / python 3.8.5 <br />**READ REPOSITORY NOTES**
 |-
