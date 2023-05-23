@@ -446,12 +446,12 @@ Mejor Torrent]
 | [https://raw.githubusercontent.com/MadeOfMagicAndWires/qBit-plugins/master/engines/bakabt.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]] ]<br />[https://github.com/MadeOfMagicAndWires/qBit-plugins/blob/master/README.md [[https://github.com/Pireo/hello-world/blob/master/Help%20book.gif]] ]
 | ✔ qbt 4.3.x / python 3.9.x
 |-
-| [https://filelist.io FileList]
+| [[https://github.com/victorBuzdugan/QbittorrentFilelistSearchPlugin/master/filelist.png]] [https://filelist.io FileList]
 | [https://github.com/victorBuzdugan/QbittorrentFilelistSearchPlugin victor]
 | 0.90
 | 23/May<br />2023
 | [https://raw.githubusercontent.com/victorBuzdugan/QbittorrentFilelistSearchPlugin/master/filelist.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]] ]
-| ✔ qbt 4.5.2 / python 3.11.3
+| ✔ qbt 4.5.x / python 3.11.x
 |-
 | [[https://github.com/Ooggle/qbittorrent-search-plugins/raw/master/engines/gazellegames.png]] [https://gazellegames.net GazelleGames]
 | [https://github.com/Ooggle/qbittorrent-search-plugins Ooggle]
