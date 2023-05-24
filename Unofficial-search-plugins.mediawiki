@@ -450,7 +450,7 @@ Mejor Torrent]
 | [https://github.com/victorBuzdugan/QbittorrentFilelistSearchPlugin victor]
 | 0.90
 | 23/May<br />2023
-| [https://raw.githubusercontent.com/victorBuzdugan/QbittorrentFilelistSearchPlugin/master/filelist.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]] ]
+| [https://raw.githubusercontent.com/victorBuzdugan/QbittorrentFilelistSearchPlugin/master/filelist.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]] ]<br />[https://github.com/victorBuzdugan/QbittorrentFilelistSearchPlugin/blob/master/README.md [[https://github.com/Pireo/hello-world/blob/master/Help%20book.gif]] ]
 | ✔ qbt 4.5.x / python 3.11.x
 |-
 | [[https://github.com/Ooggle/qbittorrent-search-plugins/raw/master/engines/gazellegames.png]] [https://gazellegames.net GazelleGames]
