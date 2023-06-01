@@ -22,6 +22,7 @@ Please keep the list sorted alphabetically by `Site` column
 | bit-titan.net | NO | N/A | good german tracker |
 | bitsearch.to | NO | N/A | |
 | Btdb.eu | NO | N/A | |
+| btdig.com | NO | N/A | DHT search engine. Great for torrents that may not be in mainstream sites like TBP, 1337x or (the late) RARBG |
 | demonoid.is | NO | N/A | |
 | Descargas2020.org | NO | N/A | Inglés / Latino / Castellano |
 | dirtytorrents.com | NO | N/A | Torrent search engine from different trackers |
