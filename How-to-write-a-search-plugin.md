@@ -1,9 +1,10 @@
 qBittorrent provides a search engine plugins management system.
 Thanks to this, you can *easily* write your own plugins to look for torrents in your favorite Bittorrent search engines and extend qBittorrent integrated search engine.
 
-All you need is some motivation and some knowledge of [Python language](https://www.python.org). \
-And it would be a good idea to follow style guide: [PEP 8 - Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/) \
-**The minimum supported python version is specified [here](https://github.com/qbittorrent/qBittorrent/blob/master/INSTALL#L21-L23), make sure your plugin can work with it and every later versions.**
+* All you need is some motivation and some knowledge of [Python language](https://www.python.org).
+* And you are encouraged to ensure good quality of your plugin: [Python Code Quality: Tools & Best Practices](https://realpython.com/python-code-quality/). \
+  For example, here is how the official plugins are checked: [ci.yaml](https://github.com/qbittorrent/search-plugins/blob/60a3f4d9c97a5d1f94e75789a72ee054044c5802/.github/workflows/ci.yaml#L29-L44).
+* **The minimum supported python version is specified [here](https://github.com/qbittorrent/qBittorrent/blob/master/INSTALL#L21-L23), make sure your plugin can work with it and every later versions.**
 
 # INDEX
 ## [Plugins Specification](https://github.com/qbittorrent/search-plugins/wiki/How-to-write-a-search-plugin#plugins-specification-1)
@@ -37,7 +38,7 @@ And it would be a good idea to follow style guide: [PEP 8 - Style Guide for Pyth
 
 # Plugins Specification
 ## Search Results Format
-First, you must understand that a qBittorrent search engine plugin is actually a Python class file whose task is to contact a search engine website (e.g. [Mininova.org](http://www.mininova.org)), parse the results displayed by the web page and print them on stdout with the following syntax:
+First, you must understand that a qBittorrent search engine plugin is actually a Python class file whose task is to contact a search engine website (e.g. [Mininova.org](https://www.mininova.org)), parse the results displayed by the web page and print them on stdout with the following syntax:
 ```
 link|name|size|seeds|leech|engine_url|desc_link
 ```
@@ -46,8 +47,8 @@ One search result per line.
 
 for example:
 ```
-http://www.mininova.org/get/1109509|ubuntu-hardy-desktop-i386-alpha-3 iso|711332986|0|0|http://www.mininova.org
-http://www.mininova.org/get/1088604|Xubuntu 7.10 for Virtual PC 2007|713901998|0|0|http://www.mininova.org
+https://www.mininova.org/get/1109509|ubuntu-hardy-desktop-i386-alpha-3 iso|711332986|0|0|https://www.mininova.org
+https://www.mininova.org/get/1088604|Xubuntu 7.10 for Virtual PC 2007|713901998|0|0|https://www.mininova.org
 ```
 ## Python Class File Structure
 Your plugin should be named "engine_name.py", in lowercase and without spaces nor any special characters.
@@ -67,13 +68,12 @@ The Files Are:
 Here is the basic structure of engine_name.py:
 ```python
 #VERSION: 1.00
-#AUTHORS: YOUR_NAME (YOUR_MAIL)
-
+# AUTHORS: YOUR_NAME (YOUR_MAIL)
 # LICENSING INFORMATION
 
+from html.parser import HTMLParser
 from helpers import download_file, retrieve_url
 from novaprinter import prettyPrinter
-import sgmllib3
 # some other imports if necessary
 
 class engine_name(object):
@@ -84,15 +84,24 @@ class engine_name(object):
     `url`: The URL of the search engine.
     `name`: The name of the search engine, spaces and special characters are allowed here.
     `supported_categories`: What categories are supported by the search engine and their corresponding id,
-    possible categories are ('all', 'movies', 'tv', 'music', 'games', 'anime', 'software', 'pictures', 'books').
+    possible categories are ('all', 'anime', 'books', 'games', 'movies', 'music', 'pictures', 'software', 'tv').
     """
-    url = 'http://www.engine-url.org'
+
+    url = 'https://www.engine-url.org'
     name = 'Full engine name'
-    supported_categories = {'all': '0', 'movies': '6', 'tv': '4', 'music': '1', 'games': '2', 'anime': '7', 'software': '3'}
+    supported_categories = {
+        'all': '0',
+        'anime': '7',
+        'games': '2',
+        'movies': '6',
+        'music': '1',
+        'software': '3',
+        'tv': '4'
+    }
 
     def __init__(self):
         """
-        some initialization
+        Some initialization
         """
 
     def download_torrent(self, info):
@@ -113,9 +122,8 @@ class engine_name(object):
         and call the prettyPrint(your_dict) function.
 
         `what` is a string with the search tokens, already escaped (e.g. "Ubuntu+Linux")
-        `cat` is the name of a search category in ('all', 'movies', 'tv', 'music', 'games', 'anime', 'software', 'pictures', 'books')
+        `cat` is the name of a search category in ('all', 'anime', 'books', 'games', 'movies', 'music', 'pictures', 'software', 'tv')
         """
-
 ```
 
 **PLEASE note that the filename (without .py extension) must be identical to the class name. Otherwise, qBittorrent will refuse to install it!**
@@ -145,7 +153,7 @@ You must pass to this function a dictionary containing the following keys (value
 * `size` => A string corresponding to the torrent size (i.e: "6 MB" or "200 KB" or "1.2 GB"...)
 * `seeds` => The number of seeds for this torrent (as a string)
 * `leech` => The number of leechers for this torrent (a a string)
-* `engine_url` => The search engine url (i.e: http://www.mininova.org)
+* `engine_url` => The search engine url (i.e: https://www.mininova.org)
 * `desc_link` => A string corresponding to the the description page for the torrent
 
 ## `retrieve_url()` helper function
@@ -154,7 +162,7 @@ This function is useful to get the search results from a Bittorrent search engin
 
 ```python
 from helpers import retrieve_url
-dat = retrieve_url(self.url+'/search?q=%s&c=%s&o=52&p=%d'%(what, self.supported_categories[cat], i))
+dat = retrieve_url(self.url + '/search?q=%s&c=%s&o=52&p=%d' % (what, self.supported_categories[cat], i))
 ```
 
 ## `download_file()` helper function
@@ -171,7 +179,7 @@ Here is an example:
 ```python
 from helpers import retrieve_url, download_file
 print download_file(url)
-> /tmp/esdzes http://www.mininova.org/get/123456
+> /tmp/esdzes https://www.mininova.org/get/123456
 ```
 # Testing & Finalizing Your Code
 
@@ -214,7 +222,7 @@ link|name|size|#seeds|#leechers|engine|page url
 If everything goes well, qBittorrent should notify you that it was successfully installed and your plugin should appear in the list.
 
 ## Post Your Working Plugin
-Once you managed to write a search engine plugin for qBittorrent that works, feel free to post it on [this](http://plugins.qbittorrent.org) wiki page so that the other users can use it too.<br />
+Once you managed to write a search engine plugin for qBittorrent that works, feel free to post it on [this](https://plugins.qbittorrent.org) wiki page so that the other users can use it too.<br />
 If you are lucky, your plugin may also be included in the [official repository](https://github.com/qbittorrent/search-plugins).
 
 ## Notes
