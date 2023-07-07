@@ -384,9 +384,9 @@ Mejor Torrent]
 | [[https://www.google.com/s2/favicons?domain=torrentgalaxy.to#.png]] [https://torrentgalaxy.to/ TorrentGalaxy]
 | [https://github.com/nindogo Ni Ndogo]
 | 0.07
-| 5/Jul<br />2019
+| 5/Jul<br />2023
 | [https://raw.githubusercontent.com/nindogo/qbtSearchScripts/master/torrentgalaxy.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]] ]
-| ✔ qbt 4.1.6+ / python 3.5.0
+| ✔ qbt 4.1.6+ / python 3.11.4
 |-
 | [[https://github.com/MaurizioRicci/qBittorrent_search_engine/blob/master/torrentproject_icon.png]] [https://torrentproject2.se TorrentProject]
 | [https://github.com/MaurizioRicci/qBittorrent_search_engine/ mauricci]
