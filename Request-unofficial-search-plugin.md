@@ -54,6 +54,7 @@ Please keep the list sorted alphabetically by `Site` column
 | torrentdownloads.me | NO | N/A | Huge torrent indexer |
 | torrenthashes.com | NO | N/A | |
 | torrentleech.org | NO | N/A | I am surprised it has not been added yet |
+| [torrentmac.net](https://www.torrentmac.net/) | NO | N/A | It's the best site for finding updated paid versions of software for macOS users, and I swear by it!|
 | torrentz.io | NO | N/A | |
 | Torrentz2.eu | NO | N/A | |
 | tupelihd.com | NO | N/A | Inglés / Latino / Castellano |
