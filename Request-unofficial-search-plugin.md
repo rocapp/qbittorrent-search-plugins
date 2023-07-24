@@ -48,6 +48,7 @@ Please keep the list sorted alphabetically by `Site` column
 | speed.cd | NO | N/A | a nice private tracker |
 | [tamilblasters.com](https://tamilblasters.com) | NO | N/A | latest movies fast uploads, indian movies/tv shows, login not required, [rss-feed](https://tamilblasters.com/index.php?/discover/all.xml/) |
 | thepiratebay.org | NO | N/A | |
+| [TheRarBg](https://therarbg.com) | NO | N/A | Great torrent indexer, RarBg successor |
 | [toloka.to](https://toloka.to) | NO | N/A | The most popular Ukrainian tracker. Have the biggest content library in the Ukrainian language. Requires Login. Behind Cloudflare protection |
 | torrent-paradise.ml | NO | N/A | |
 | torrentday.com | NO | N/A | have invite |
