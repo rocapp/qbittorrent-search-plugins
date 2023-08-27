@@ -20,9 +20,9 @@ Please keep the list sorted alphabetically by `Site` column
 | audiobookbay.nl | NO | N/A | |
 | beyond-hd.me | NO | N/A | Amazing tracker for good quality movies/tv shows. Private tracker & requires login. |
 | bit-titan.net | NO | N/A | good german tracker |
-| bitsearch.to | NO | N/A | |
+| [bitsearch.to](https://bitsearch.to/) | YES | [TuckerWarlock](https://github.com/TuckerWarlock/qbittorrent-search-plugins/blob/main/bitsearch.to/README.md) | BitSearch is a DHT based torrent search engine. |
 | Btdb.eu | NO | N/A | |
-| btdig.com | NO | N/A | DHT search engine. Great for torrents that may not be in mainstream sites like TBP, 1337x or (the late) RARBG |
+| [btdig.com](https://btdig.com/) | YES | [TuckerWarlock](https://github.com/TuckerWarlock/qbittorrent-search-plugins/blob/main/btdig.com/README.md) | DHT search engine. Great for torrents that may not be in mainstream sites like TBP, 1337x or (the late) RARBG |
 | demonoid.is | NO | N/A | |
 | Descargas2020.org | NO | N/A | Inglés / Latino / Castellano |
 | dirtytorrents.com | NO | N/A | Torrent search engine from different trackers |
