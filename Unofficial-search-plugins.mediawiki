@@ -76,7 +76,7 @@ The minimum supported Python version (across all platforms) is specified at [htt
 | [https://github.com/TuckerWarlock/qbittorrent-search-plugins TuckerWarlock]
 | 2.0
 | 27/Aug<br />2023
-| [https://github.com/TuckerWarlock/qbittorrent-search-plugins/blob/main/bt4gprx.com/bt4gprx.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]] ]
+| [https://raw.githubusercontent.com/TuckerWarlock/qbittorrent-search-plugins/main/bt4gprx.com/bt4gprx.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]] ]
 | ✔ qbt 4.5.x / python 3.10.x
 |-
 | [[https://github.com/Pireo/hello-world/blob/master/etree.png]] [http://bt.etree.org/ bt.etree.org]
