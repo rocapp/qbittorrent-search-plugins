@@ -101,12 +101,12 @@ The minimum supported Python version (across all platforms) is specified at [htt
 | ✔ qbt 4.1.x / python 3.5.0 <br />❗ qbt 4.3.0.1 / python 3.9
 |-
 | [[https://github.com/menegop/qbfrench/blob/master/cpasbien.png]] 
-[http://www.cpasbien.si  Cpasbien]
-| [https://raw.githubusercontent.com/menegop/qbfrench menegop]
-| 2.0
-|29/Dec<br />2022
-| [https://raw.githubusercontent.com/menegop/qbfrench/master/cpasbien.py [[https://github.com/menegop/qbfrench/blob/master/Download.gif]]]
-| ✔ qbt 4.3.6 / python 3.8
+[http://www.cpasbien.moe  Cpasbien]
+| [https://github.com/MarcBresson/cpasbien MarcBresson]
+| 2.1
+|13 Sept/<br />2023
+| [https://raw.githubusercontent.com/MarcBresson/cpasbien/master/cpasbien.py [[https://github.com/MarcBresson/cpasbien/blob/master/Download.gif]]]
+| ✔ qbt 4.5.0 / python 3.8
 |-
 | [[https://github.com/bugsbringer/qbit-plugins/blob/master/darklibria.png]] [https://dark-libria.it/ dark-libria]
 | [https://github.com/bugsbringer/qbit-plugins Bugsbringer]
