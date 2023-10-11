@@ -526,9 +526,9 @@ Mejor Torrent]
 | [[https://github.com/libellula/Official-search-engines-plugins-favicons/blob/bf2aaabe07ba94b993282d8dd888674469f2ab1e/favicon-16x16.png]] [https://rutracker.org/ RuTracker]
 | [https://github.com/nbusseneau/qBittorrent-rutracker-plugin nbusseneau]
 | 2.1.9
-| 20/Apr<br />2022
+| 11/Oct<br />2023
 | [https://raw.githubusercontent.com/nbusseneau/qBittorrent-rutracker-plugin/master/rutracker.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]] ]<br />[https://github.com/nbusseneau/qBittorrent-rutracker-plugin/blob/master/README.md [[https://github.com/Pireo/hello-world/blob/master/Help%20book.gif]] ]
-| ✔ qbt 4.4.x / python 3.9.x<br/>❗ Working when DDOS cloudfare<br />protection is disabled
+| ✔ qbt 4.5.x / python 3.10.x<br/>
 |-
 | [[https://raw.githubusercontent.com/swannie-eire/prowlarr-qbittorrent-plugins/main/prowlarr-logo-lq.png]] [https://github.com/Prowlarr/Prowlarr Prowlarr]
 | [https://github.com/swannie-eire/prowlarr-qbittorrent-plugins swannie-eire]
