@@ -431,6 +431,14 @@ Mejor Torrent]
 | 04/Feb<br />2019
 | [https://raw.githubusercontent.com/MaurizioRicci/qBittorrent_search_engine/master/yts_am.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]] ]
 | ✔ qbt 4.1.x / python 3.5.0 <br />Uses Yts.am's API
+|-
+| 🔍
+[https://github.com/YGGverse/YGGtracker  YGGtracker]
+| [https://github.com/YGGverse/qbittorrent-yggtracker-search-plugin YGGverse]
+| 1.0
+| 19/Oct<br />2023
+| [https://raw.githubusercontent.com/YGGverse/qbittorrent-yggtracker-search-plugin/main/yggtracker.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]] ]
+| ✔ qbt 4.5.1 / v5.0.0alpha1 / python 3.11.4 <br />Requires [https://github.com/yggdrasil-network/ Yggdrasil] connection
 |}
 
 = Plugins for Private Sites =
