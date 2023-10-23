@@ -64,4 +64,5 @@ Please keep the list sorted alphabetically by `Site` column
 | xspeeds.eu | NO | N/A | Private Tracker, Requires Login |
 | yinyueso.com | NO | N/A | |
 | yts.gd | NO | N/A | |
+| [zetorrents.com](https://www.zetorrents.com/) | DONE | [alexandre-eliot](https://raw.githubusercontent.com/alexandre-eliot/zetorrents_qbittorrent_search_plugin/main/zetorrents.py) | French |
 | zamunda.net | YES | N/A | Supper stacked, Requires Login |
