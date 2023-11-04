@@ -442,7 +442,7 @@ Mejor Torrent]
 | 🔍
 [https://github.com/YGGverse/YGGtracker  YGGtracker]
 | [https://github.com/YGGverse/qbittorrent-yggtracker-search-plugin YGGverse]
-| 1.0
+| 1.1.0
 | 19/Oct<br />2023
 | [https://raw.githubusercontent.com/YGGverse/qbittorrent-yggtracker-search-plugin/main/yggtracker.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]] ]
 | ✔ qbt 4.5.1 / v5.0.0alpha1 / python 3.11.4 <br />Requires [https://github.com/yggdrasil-network/ Yggdrasil] connection
