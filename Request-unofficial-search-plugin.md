@@ -27,6 +27,7 @@ Please keep the list sorted alphabetically by `Site` column
 | Descargas2020.org | NO | N/A | Inglés / Latino / Castellano |
 | dirtytorrents.com | NO | N/A | Torrent search engine from different trackers |
 | dontorrent.org | NO | N/A | Inglés / Castellano |
+| ex-torrenty.org | NO | N/A | |
 | extremlymtorrents.ws | NO | N/A | |
 | eztv.io | NO | N/A | This is no longer working. Use eztv.it instead. |
 | GranTorrent.eu | NO | N/A | Inglés / Latino / Castellano |
