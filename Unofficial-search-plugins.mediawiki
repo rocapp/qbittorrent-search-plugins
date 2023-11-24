@@ -127,7 +127,7 @@ The minimum supported Python version (across all platforms) is specified at [htt
 | [https://github.com/ZH1637/dmhy ZH]
 | 1.0
 | 25/Nov<br />2023
-| [https://github.com/ZH1637/dmhy/blob/main/dmhy.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]] ]<br />
+| [https://raw.githubusercontent.com/ZH1637/dmhy/main/dmhy.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]] ]<br />
 | ✔ qbt 4.6.x / python 3.10.0
 |-
 | [[https://github.com/iordic/qbittorrent-search-plugins/raw/master/engines/elitetorrent.png]] [https://www.elitetorrent.com/ Elitetorrent]
