@@ -124,11 +124,11 @@ The minimum supported Python version (across all platforms) is specified at [htt
 | ✔ qbt 4.2.x / python 3.5.0
 |-
 | [[https://i.imgur.com/2QEr3r0.png]] [https://share.dmhy.org/ DMHY]
-| [https://github.com/xyauhideto/DMHY_qBittorrent_search_plugin xyauhideto]
+| [https://github.com/ZH1637/dmhy ZH]
 | 1.0
-| 23/Jul<br />2018
-| [https://raw.githubusercontent.com/xyauhideto/DMHY_qBittorrent_search_plugin/master/dmhyorg.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]] ]<br />
-| ✔ qbt 4.1.x / python 3.5.0
+| 25/Nov<br />2023
+| [https://github.com/ZH1637/dmhy/blob/main/dmhy.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]] ]<br />
+| ✔ qbt 4.6.x / python 3.10.0
 |-
 | [[https://github.com/iordic/qbittorrent-search-plugins/raw/master/engines/elitetorrent.png]] [https://www.elitetorrent.com/ Elitetorrent]
 | [https://github.com/iordic/qbittorrent-search-plugins iordic]
