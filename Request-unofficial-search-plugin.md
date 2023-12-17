@@ -15,7 +15,7 @@ Please keep the list sorted alphabetically by `Site` column
 | [1tamilmv.com](https://1tamilmv.com) | NO | N/A | fast uploads & good quality indian movies/tv shows, no login required, [rss-feed](https://1tamilmv.com/index.php?/discover/all.xml/) |
 | 720pier.ru | NO | N/A | Sport-focused. Fast with new uploads. Requires login |
 | [anidex.info](https://github.com/nindogo/qbtSearchScripts/raw/master/anidex.py) | DONE | [Ni Ndogo](https://github.com/nindogo) | |
-| animetosho.org | NO | N/A | |
+| [animetosho.org](https://animetosho.org) | DONE | [AlaaBrahim](https://github.com/AlaaBrahim/qBitTorrent-animetosho-search-plugin) | |
 | Archive.org | NO | N/A | Jackett already supports archive, use jackett plugin |
 | audiobookbay.nl | NO | N/A | |
 | beyond-hd.me | NO | N/A | Amazing tracker for good quality movies/tv shows. Private tracker & requires login. |
