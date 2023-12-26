@@ -202,6 +202,13 @@ Mejor Torrent]
 |[https://raw.githubusercontent.com/Cc050511/qBit-search-plugins/main/mikanani.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]] ]
 |✔ qbt 4.5.2 / python 3.10 <br />
 |-
+| [[https://www.google.com/s2/favicons?domain=myporn.club#.png]] [https://myporn.club/ My Porn Club]
+| [https://github.com/BurningMop BurningMop]
+| 1.0
+| 26/Dec<br />2023
+| [https://gist.githubusercontent.com/BurningMop/851180f6317572b64a40605c5625c60c/raw/8c1cbd74b1f0463898541a06e7c7dce7a68f81ba/mypornclub.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]] ]
+| ✔ qbt 4.6.x / python 3.9.x
+|-
 | [[https://github.com/LightDestory/qBittorrent-Search-Plugins/raw/master/src/engines/nitro.png]] [https://nitro.to/  Nitro.to]
 | [https://github.com/LightDestory/qBittorrent-Search-Plugins LightDestory]
 | 1.0
