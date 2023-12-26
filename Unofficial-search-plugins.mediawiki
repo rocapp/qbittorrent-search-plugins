@@ -144,7 +144,7 @@ The minimum supported Python version (across all platforms) is specified at [htt
 | [https://raw.githubusercontent.com/LightDestory/qBittorrent-Search-Plugins/master/src/engines/glotorrents.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]] ]
 | ✔ qbt 4.3.5 / python 3.8.5
 |-
-| [[https://github.com/MaurizioRicci/qBittorrent_search_engine/blob/master/corsaronero_icon.png]] [https://ilcorsaronero.link/  Il Corsaro Nero]
+| [https://ilcorsaronero.link/  Il Corsaro Nero]
 | [https://github.com/LightDestory/qBittorrent-Search-Plugins LightDestory]
 | 1.2
 | 17/Jun<br />2021
@@ -187,11 +187,6 @@ The minimum supported Python version (across all platforms) is specified at [htt
 | [https://raw.githubusercontent.com/joseeloren/search-plugins/master/nova3/engines/maxitorrent.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]] ]
 | ✔ qbt 4.3.x / python 3.5.0
 |-
-| [[https://github.com/MaurizioRicci/qBittorrent_search_engine/blob/master/mejor_icon.png]] [http://www.mejortorrens.net/ 
-Mejor Torrent]
-| [https://github.com/MaurizioRicci/qBittorrent_search_engine/ mauricci]
-| 1.5
-| 02/Jan<br />2021
 | [https://raw.githubusercontent.com/libellula/qbt-plugins/main/mejor.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]] ]
 | ✔ qbt 4.1.x / python 3.5.0 <br />(no s/l and results not clickable)
 |-
@@ -390,11 +385,6 @@ Mejor Torrent]
 | ✔ qbt 4.4.4 / python 3.8.10 
 |-
 | [[https://github.com/libellula/Official-search-engines-plugins-favicons/blob/main/favicon-16x16.png]] [https://www.torrentfunk.com/ TorrentFunk]
-| [https://github.com/MaurizioRicci/qBittorrent_search_engine/ mauricci]
-| 1.1
-| 28/May<br />2019
-| [https://raw.githubusercontent.com/MaurizioRicci/qBittorrent_search_engine/master/torrentfunk.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]] ]
-| ✔ qbt 4.1.x / python 3.5.0
 |-
 | [[https://www.google.com/s2/favicons?domain=torrentgalaxy.to#.png]] [https://torrentgalaxy.to/ TorrentGalaxy]
 | [https://github.com/nindogo Ni Ndogo]
@@ -402,13 +392,6 @@ Mejor Torrent]
 | 5/Jul<br />2023
 | [https://raw.githubusercontent.com/nindogo/qbtSearchScripts/master/torrentgalaxy.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]] ]
 | ✔ qbt 4.1.6+ / python 3.11.4
-|-
-| [[https://github.com/MaurizioRicci/qBittorrent_search_engine/blob/master/torrentproject_icon.png]] [https://torrentproject2.se TorrentProject]
-| [https://github.com/MaurizioRicci/qBittorrent_search_engine/ mauricci]
-| 1.1
-| 07/May<br />2019
-| [https://raw.githubusercontent.com/MaurizioRicci/qBittorrent_search_engine/master/torrentproject.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]] ]
-| ✔ qbt 4.1.x / python 3.5.0 <br /> (results not clickable)
 |-
 | [[https://github.com/msagca/qbittorrent_plugins/blob/main/uniondht_icon.png]] [http://uniondht.org/ UnionDHT]
 | [https://github.com/msagca/qbittorrent_plugins/ msagca]
@@ -438,14 +421,6 @@ Mejor Torrent]
 |[https://raw.githubusercontent.com/khensolomon/leyts/master/yts.py 
 [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]]]
 |✔ qbt 4.0.x / python 3.5.0
-|-
-| [[https://github.com/MaurizioRicci/qBittorrent_search_engine/blob/master/yts_am_icon.png]] 
-[https://yts.am/  Yts.am]
-| [https://github.com/MaurizioRicci/qBittorrent_search_engine/ mauricci]
-| 1.0
-| 04/Feb<br />2019
-| [https://raw.githubusercontent.com/MaurizioRicci/qBittorrent_search_engine/master/yts_am.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]] ]
-| ✔ qbt 4.1.x / python 3.5.0 <br />Uses Yts.am's API
 |-
 | 🔍
 [https://github.com/YGGverse/YGGtracker  YGGtracker]
