@@ -100,13 +100,6 @@ The minimum supported Python version (across all platforms) is specified at [htt
 | [https://raw.githubusercontent.com/msagca/qbittorrent_plugins/main/btmulu.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]] ]
 | ✔ qbt 4.3.x / python 3.9.x
 |-
-| [[https://github.com/MaurizioRicci/qBittorrent_search_engine/blob/master/cinecalidad_icon.png]] [https://www.cinecalidad.to/  CineCalidad]
-| [https://github.com/MaurizioRicci/qBittorrent_search_engine/ mauricci]
-| 1.0
-| 23/Sep<br />2018
-| [https://raw.githubusercontent.com/MaurizioRicci/qBittorrent_search_engine/master/cinecalidad.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]] ]
-| ✔ qbt 4.1.x / python 3.5.0 <br />❗ qbt 4.3.0.1 / python 3.9
-|-
 | [[https://github.com/menegop/qbfrench/blob/master/cpasbien.png]] 
 [http://www.cpasbien.moe  Cpasbien]
 | [https://github.com/MarcBresson/cpasbien MarcBresson]
@@ -143,13 +136,6 @@ The minimum supported Python version (across all platforms) is specified at [htt
 | 25/Oct<br />2021
 | [https://raw.githubusercontent.com/iordic/qbittorrent-search-plugins/master/engines/elitetorrent.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]] ]
 |  ✔ qbt 4.1.7 / python 3.8.10
-|-
-| [[https://github.com/MaurizioRicci/qBittorrent_search_engine/blob/master/extratorrent_icon.png]] [https://extratorrent.si/ ExtraTorrent]
-| [https://github.com/MaurizioRicci/qBittorrent_search_engine/ mauricci]
-| 1.1
-| 29/Jan<br />2019
-| [https://raw.githubusercontent.com/MaurizioRicci/qBittorrent_search_engine/master/extratorrent.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]] ]
-| ✔ qbt 4.1.x / python 3.5.0
 |-
 | [[https://raw.githubusercontent.com/LightDestory/qBittorrent-Search-Plugins/master/src/engines/glotorrents.png]] [https://glodls.to/  GloTorrents]
 | [https://github.com/LightDestory/qBittorrent-Search-Plugins LightDestory]
