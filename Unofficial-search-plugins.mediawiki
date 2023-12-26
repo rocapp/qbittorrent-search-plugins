@@ -187,6 +187,11 @@ The minimum supported Python version (across all platforms) is specified at [htt
 | [https://raw.githubusercontent.com/joseeloren/search-plugins/master/nova3/engines/maxitorrent.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]] ]
 | ✔ qbt 4.3.x / python 3.5.0
 |-
+| [http://www.mejortorrens.net/ 
+Mejor Torrent]
+| [https://raw.githubusercontent.com/libellula/qbt-plugins libellula]
+| 1.5
+| 02/Jan<br />2021
 | [https://raw.githubusercontent.com/libellula/qbt-plugins/main/mejor.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]] ]
 | ✔ qbt 4.1.x / python 3.5.0 <br />(no s/l and results not clickable)
 |-
