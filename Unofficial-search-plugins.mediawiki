@@ -431,6 +431,13 @@ Mejor Torrent]
 | [https://raw.githubusercontent.com/msagca/qbittorrent_plugins/main/uniondht.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]] ]
 | ✔ qbt 4.3.x / python 3.9.x
 |-
+| [[https://www.google.com/s2/favicons?domain=xxxclub.to#.png]] [https://xxxclub.to/ XXXClub]
+| [https://github.com/BurningMop BurningMop]
+| 1.0
+| 26/Dec<br />2023
+| [https://gist.githubusercontent.com/BurningMop/8a381df08f31fcbf15d21fdde95f859f/raw/f0d1840ebe9318e98abdab15997c1fe1a97580cc/xxxclubto.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]] ]
+| ✔ qbt 4.6.x / python 3.9.x
+|-
 | [[https://www.google.com/s2/favicons?domain=yourbittorrent.com#.png]] [https://yourbittorrent.com/ YourBittorrent]
 | [https://github.com/LightDestory/qBittorrent-Search-Plugins LightDestory]
 | 1.0
