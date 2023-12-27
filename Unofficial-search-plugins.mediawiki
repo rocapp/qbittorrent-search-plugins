@@ -405,6 +405,13 @@ Mejor Torrent]
 | [https://raw.githubusercontent.com/nindogo/qbtSearchScripts/master/torrentgalaxy.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]] ]
 | ✔ qbt 4.1.6+ / python 3.11.4
 |-
+| [[https://www.google.com/s2/favicons?domain=traht.org#.png]] [https://traht.org/ TrahT]
+| [https://github.com/BurningMop BurningMop]
+| 1.0
+| 27/Dec<br />2023
+| [https://gist.githubusercontent.com/BurningMop/14403a43c9aec0cb99d80e8ced1acfba/raw/4243ae391249d13f3a37ed6353518a040a0b33cf/traht.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]] ]
+| ✔ qbt 4.6.x / python 3.9.x
+|-
 | [[https://github.com/msagca/qbittorrent_plugins/blob/main/uniondht_icon.png]] [http://uniondht.org/ UnionDHT]
 | [https://github.com/msagca/qbittorrent_plugins/ msagca]
 | 1.1
