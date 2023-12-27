@@ -409,7 +409,7 @@ Mejor Torrent]
 | [https://github.com/BurningMop BurningMop]
 | 1.0
 | 27/Dec<br />2023
-| [https://gist.githubusercontent.com/BurningMop/14403a43c9aec0cb99d80e8ced1acfba/raw/4243ae391249d13f3a37ed6353518a040a0b33cf/traht.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]] ]
+| [https://gist.githubusercontent.com/BurningMop/14403a43c9aec0cb99d80e8ced1acfba/raw/231f3a9e856ce6ca6740faebeba4ee25cc96c6e0/traht.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]] ]
 | ✔ qbt 4.6.x / python 3.9.x
 |-
 | [[https://github.com/msagca/qbittorrent_plugins/blob/main/uniondht_icon.png]] [http://uniondht.org/ UnionDHT]
