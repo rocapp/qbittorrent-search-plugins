@@ -34,12 +34,15 @@ Thanks to this, you can *easily* write your own plugins to look for torrents in 
 
 ### 3.3 [Install Your Plugin](https://github.com/qbittorrent/search-plugins/wiki/How-to-write-a-search-plugin#install-your-plugin)
 
-### 3.4 [Post Your Working Plugin](https://github.com/qbittorrent/search-plugins/wiki/How-to-write-a-search-plugin#post-your-working-plugin)
+### 3.4 [Publish Your Plugin](https://github.com/qbittorrent/search-plugins/wiki/How-to-write-a-search-plugin#publish-your-plugin)
 
 ### 3.5 [Notes](https://github.com/qbittorrent/search-plugins/wiki/How-to-write-a-search-plugin#notes)
 
 
 # Plugins Specification
+
+*⚠️The plugin communicate data back to qBittorrent via stdout and that means you must NOT print debug/error messages to stdout under any circumstances. You can print the debug/error messages to stderr instead.*
+
 ## Search Results Format
 First, you must understand that a qBittorrent search engine plugin is actually a Python class file whose task is to contact a search engine website (e.g. [Mininova.org](https://www.mininova.org)), parse the results displayed by the web page and print them on stdout with the following syntax:
 ```
@@ -48,11 +51,12 @@ link|name|size|seeds|leech|engine_url|desc_link
 
 One search result per line.
 
-for example:
+For example:
 ```
 https://www.mininova.org/get/1109509|ubuntu-hardy-desktop-i386-alpha-3 iso|711332986|0|0|https://www.mininova.org
 https://www.mininova.org/get/1088604|Xubuntu 7.10 for Virtual PC 2007|713901998|0|0|https://www.mininova.org
 ```
+
 ## Python Class File Structure
 Your plugin should be named "engine_name.py", in lowercase and without spaces nor any special characters.
 You'll also need the other files for the project ([Link](https://github.com/qbittorrent/qBittorrent/tree/master/src/searchengine/nova3))
@@ -224,7 +228,7 @@ link|name|size|#seeds|#leechers|engine|page url
 3. Click on "Install a new one" at the bottom and select your `*.py` python script on you filesystem.<br />
 If everything goes well, qBittorrent should notify you that it was successfully installed and your plugin should appear in the list.
 
-## Post Your Working Plugin
+## Publish Your Plugin
 Once you managed to write a search engine plugin for qBittorrent that works, feel free to post it on [this](https://plugins.qbittorrent.org) wiki page so that the other users can use it too.<br />
 If you are lucky, your plugin may also be included in the [official repository](https://github.com/qbittorrent/search-plugins).
 
