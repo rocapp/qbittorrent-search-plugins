@@ -72,6 +72,13 @@ The minimum supported Python version (across all platforms) is specified at [htt
 |[https://raw.githubusercontent.com/nklido/qBittorrent_search_engines/master/engines/audiobookbay.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]] ]
 |✔ qbt 4.3.x / python 3.8.10 <br />
 |-
+| [[https://www.google.com/s2/favicons?domain=bitsearch.to#.png]] [https://bitsearch.to/ Bit Search]
+| [https://github.com/BurningMop/qBittorrent-Search-Plugins BurningMop]
+| 1.0
+| 05/Jan<br />2024
+| [https://raw.githubusercontent.com/BurningMop/qBittorrent-Search-Plugins/main/bitsearch.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]] ]
+| ✔ qbt 4.6.x / python 3.9.x
+|-
 | [[https://github.com/libellula/Official-search-engines-plugins-favicons/blob/main/bt4gfavicon-16x16.png]] [https://bt4g.org/ bt4g]
 | [https://github.com/kjjejones44/b4tg_search_plugin kjjejones44]
 | 1.00
@@ -203,10 +210,10 @@ Mejor Torrent]
 |✔ qbt 4.5.2 / python 3.10 <br />
 |-
 | [[https://www.google.com/s2/favicons?domain=myporn.club#.png]] [https://myporn.club/ My Porn Club]
-| [https://github.com/BurningMop BurningMop]
+| [https://github.com/BurningMop/qBittorrent-Search-Plugins BurningMop]
 | 1.0
 | 26/Dec<br />2023
-| [https://gist.githubusercontent.com/BurningMop/851180f6317572b64a40605c5625c60c/raw/8c1cbd74b1f0463898541a06e7c7dce7a68f81ba/mypornclub.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]] ]
+| [https://raw.githubusercontent.com/BurningMop/qBittorrent-Search-Plugins/main/mypornclub.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]] ]
 | ✔ qbt 4.6.x / python 3.9.x
 |-
 | [[https://github.com/LightDestory/qBittorrent-Search-Plugins/raw/master/src/engines/nitro.png]] [https://nitro.to/  Nitro.to]
@@ -317,6 +324,13 @@ Mejor Torrent]
 |[https://raw.githubusercontent.com/nklido/qBittorrent_search_engines/master/engines/solidtorrents.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]] ]
 |✔ qbt 4.3.x / python 3.8.10 <br />
 |-
+| [[https://www.google.com/s2/favicons?domain=solidtorrents.to#.png]] [https://solidtorrents.to/ SolidTorrents.to]
+| [https://github.com/BurningMop/qBittorrent-Search-Plugins BurningMop]
+| 1.0
+| 05/Jan<br />2024
+| [https://raw.githubusercontent.com/BurningMop/qBittorrent-Search-Plugins/main/solidtorrents.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]] ]
+| ✔ qbt 4.6.x / python 3.9.x
+|-
 | [[https://github.com/libellula/qbt-plugins/blob/main/subtorrentsfavicon.png]]
 [https://www.subtorrents.la SubTorrents]
 | [https://github.com/joseeloren/qbittorrent-search-plugins joseeloren]
@@ -406,10 +420,10 @@ Mejor Torrent]
 | ✔ qbt 4.1.6+ / python 3.11.4
 |-
 | [[https://www.google.com/s2/favicons?domain=traht.org#.png]] [https://traht.org/ TrahT]
-| [https://github.com/BurningMop BurningMop]
+| [https://github.com/BurningMop/qBittorrent-Search-Plugins BurningMop]
 | 1.0
 | 27/Dec<br />2023
-| [https://gist.githubusercontent.com/BurningMop/14403a43c9aec0cb99d80e8ced1acfba/raw/231f3a9e856ce6ca6740faebeba4ee25cc96c6e0/traht.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]] ]
+| [https://raw.githubusercontent.com/BurningMop/qBittorrent-Search-Plugins/main/traht.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]] ]
 | ✔ qbt 4.6.x / python 3.9.x
 |-
 | [[https://github.com/msagca/qbittorrent_plugins/blob/main/uniondht_icon.png]] [http://uniondht.org/ UnionDHT]
@@ -420,10 +434,10 @@ Mejor Torrent]
 | ✔ qbt 4.3.x / python 3.9.x
 |-
 | [[https://www.google.com/s2/favicons?domain=xxxclub.to#.png]] [https://xxxclub.to/ XXXClub]
-| [https://github.com/BurningMop BurningMop]
+| [https://github.com/BurningMop/qBittorrent-Search-Plugins BurningMop]
 | 1.0
 | 26/Dec<br />2023
-| [https://gist.githubusercontent.com/BurningMop/8a381df08f31fcbf15d21fdde95f859f/raw/f0d1840ebe9318e98abdab15997c1fe1a97580cc/xxxclubto.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]] ]
+| [https://raw.githubusercontent.com/BurningMop/qBittorrent-Search-Plugins/main/xxxclubto.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]] ]
 | ✔ qbt 4.6.x / python 3.9.x
 |-
 | [[https://www.google.com/s2/favicons?domain=yourbittorrent.com#.png]] [https://yourbittorrent.com/ YourBittorrent]
