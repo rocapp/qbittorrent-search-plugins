@@ -578,6 +578,15 @@ Mejor Torrent]
 | ✔ qbt 4.5.x / python 3.+
 |-
 
+|-
+| [[https://www.google.com/s2/favicons?domain=unionfansub.com#.png]] [https://torrent.unionfansub.com/ UnionFansub]
+| [https://gitlab.com/CrimsonKoba/qb-search-plugin CrimsonKoba]
+| 1.2
+| 05/Jan<br />2024
+| [https://gitlab.com/CrimsonKoba/qb-search-plugin/-/raw/master/unionfansub.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]] ]<br /> [https://gitlab.com/CrimsonKoba/qb-search-plugin [[https://github.com/Pireo/hello-world/blob/master/Help%20book.gif]] ]
+| ✔ qbt 4.5.x / python 3.+
+|-
+
 | [[https://raw.githubusercontent.com/CravateRouge/qBittorrentSearchPlugins/master/yggtorrent.png]] [https://yggtorrent.fi/ YggTorrent]
 | [https://github.com/CravateRouge/qBittorrentSearchPlugins CravateRouge]
 | 1.0
