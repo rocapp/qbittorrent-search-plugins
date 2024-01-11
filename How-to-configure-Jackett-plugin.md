@@ -1,4 +1,4 @@
-**qBittorrent** comes with a few search plugins. Although these are enough for most users, if you wish to add more search engines, you can download **Jacket** configure the **Jackett qBittorrent plugin** (essentially, set the API key).
+**qBittorrent** comes with a few search plugins. Although these are enough for most users, if you wish to add more search engines, you can download **Jackett** and configure the **Jackett qBittorrent plugin** (essentially, set the API key).
 
 ### Install Jackett plugin
 **[Jackett](https://github.com/Jackett/Jackett)** is a server program that provides support for more than 400 torrent sites (public and private). You may download the plugin at [this address](https://raw.githubusercontent.com/qbittorrent/search-plugins/master/nova3/engines/jackett.py). Follow steps below to install:
