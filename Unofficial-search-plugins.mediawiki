@@ -292,7 +292,7 @@ Mejor Torrent]
 | [[https://www.google.com/s2/favicons?domain=therarbg.com#.png]] [https://therarbg.com/ The RarBg]
 | [https://github.com/BurningMop/qBittorrent-Search-Plugins BurningMop]
 | 1.0
-| 05/Jan<br />2024
+| 12/Jan<br />2024
 | [https://raw.githubusercontent.com/BurningMop/qBittorrent-Search-Plugins/main/therarbg.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]] ]
 | ✔ qbt 4.6.x / python 3.9.x
 |-
