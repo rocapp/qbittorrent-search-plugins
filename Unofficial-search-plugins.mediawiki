@@ -289,6 +289,13 @@ Mejor Torrent]
 | [https://raw.githubusercontent.com/Larsluph/qbittorrent-search-plugins/prt/nova3/engines/pornrips.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]] ]
 | ✔ qbt 4.5.x / python 3.11.6
 |-
+| [[https://www.google.com/s2/favicons?domain=therarbg.com#.png]] [https://therarbg.com/ The RarBg]
+| [https://github.com/BurningMop/qBittorrent-Search-Plugins BurningMop]
+| 1.0
+| 05/Jan<br />2024
+| [https://raw.githubusercontent.com/BurningMop/qBittorrent-Search-Plugins/main/therarbg.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]] ]
+| ✔ qbt 4.6.x / python 3.9.x
+|-
 | [[https://github.com/Pireo/hello-world/blob/master/rockbox.png]] [https://rawkbawx.rocks/ RockBox]
 | [https://github.com/LightDestory/qBittorrent-Search-Plugins LightDestory]
 | 1.0
