@@ -291,8 +291,8 @@ Mejor Torrent]
 |-
 | [[https://www.google.com/s2/favicons?domain=therarbg.com#.png]] [https://therarbg.com/ The RarBg]
 | [https://github.com/BurningMop/qBittorrent-Search-Plugins BurningMop]
-| 1.0
-| 12/Jan<br />2024
+| 1.1
+| 13/Jan<br />2024
 | [https://raw.githubusercontent.com/BurningMop/qBittorrent-Search-Plugins/main/therarbg.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]] ]
 | ✔ qbt 4.6.x / python 3.9.x
 |-
@@ -416,6 +416,13 @@ Mejor Torrent]
 | 7/Sep<br />2022
 | [https://Scare.ca/dl/qBittorrent/torrentdownload.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]] ]
 | ✔ qbt 4.4.4 / python 3.8.10 
+|-
+| [[https://www.google.com/s2/favicons?domain=torrentdownloads.pro#.png]] [https://torrentdownloads.pro/ Torrent Downloads Pro]
+| [https://github.com/BurningMop/qBittorrent-Search-Plugins BurningMop]
+| 1.0
+| 13/Jan<br />2024
+| [https://raw.githubusercontent.com/BurningMop/qBittorrent-Search-Plugins/main/torrentdownloads.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]] ]
+| ✔ qbt 4.6.x / python 3.9.x
 |-
 | [[https://github.com/libellula/Official-search-engines-plugins-favicons/blob/main/favicon-16x16.png]] [https://www.torrentfunk.com/ TorrentFunk]
 |-
