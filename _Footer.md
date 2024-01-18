@@ -1,3 +1,4 @@
 https://github.com/qbittorrent/search-plugins.wiki.git
 https://subsplease.org/
-https://todotorrents.net/
+https://todotorrents.net/ 
+https://github.com/qbittorrent/search-plugins.wiki.git
