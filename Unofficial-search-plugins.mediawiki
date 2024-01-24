@@ -469,6 +469,13 @@ Mejor Torrent]
 [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]]]
 |✔ qbt 4.0.x / python 3.5.0
 |-
+| [[https://github.com/Pireo/hello-world/blob/master/yts.png]] [http://yts.mx/ YTS.MX]
+| [https://github.com/amongst-us/qbit-plugins amongst-us]
+| 1.1
+| 07/Jan<br />2024
+| [https://raw.githubusercontent.com/amongst-us/qbit-plugins/main/yts_mx.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]]]
+| ✔ qbt 4.6.2 / python 3.12.0
+|-
 | 🔍
 [https://github.com/YGGverse/YGGtracker  YGGtracker]
 | [https://github.com/YGGverse/qbittorrent-yggtracker-search-plugin YGGverse]
