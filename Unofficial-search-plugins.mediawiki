@@ -264,27 +264,12 @@ The minimum supported Python version (across all platforms) is specified at [htt
 |[https://raw.githubusercontent.com/LightDestory/qBittorrent-Search-Plugins/master/src/engines/snowfl.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]] ]
 |✔ qbt 4.3.x / python 3.8.5 <br />**READ REPOSITORY NOTES**
 |-
-|[[https://raw.githubusercontent.com/nklido/qBittorrent_search_engines/master/engines/solidtorrents_icon_16x16.png]] [https://solidtorrents.net Solid Torrents]
-|[https://github.com/nklido/qBittorrent_search_engines nKlido]
-|2.0.0
-|21/May<br />2022
-|[https://raw.githubusercontent.com/nklido/qBittorrent_search_engines/master/engines/solidtorrents.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]] ]
-|✔ qbt 4.3.x / python 3.8.10 <br />
-|-
 | [[https://www.google.com/s2/favicons?domain=solidtorrents.to#.png]] [https://solidtorrents.to/ SolidTorrents.to]
 | [https://github.com/BurningMop/qBittorrent-Search-Plugins BurningMop]
 | 1.0
 | 05/Jan<br />2024
 | [https://raw.githubusercontent.com/BurningMop/qBittorrent-Search-Plugins/main/solidtorrents.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]] ]
 | ✔ qbt 4.6.x / python 3.9.x
-|-
-| [[https://github.com/libellula/qbt-plugins/blob/main/subtorrentsfavicon.png]]
-[https://www.subtorrents.la SubTorrents]
-| [https://github.com/joseeloren/qbittorrent-search-plugins joseeloren]
-| 1.0
-| 08/Apr<br />2020
-| [https://raw.githubusercontent.com/joseeloren/search-plugins/master/nova3/engines/subtorrents.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]] ]
-| ✔ qbt 4.2.x / python 3.5.0
 |-
 | [[https://raw.githubusercontent.com/MadeOfMagicAndWires/qBit-plugins/master/engines/nyaasi.png]] [https://sukebei.nyaa.si/ Sukebei (Nyaa)]
 | [https://github.com/vt-idiot/qBit-SukebeiNyaa-plugin vt-idiot]
@@ -320,13 +305,6 @@ The minimum supported Python version (across all platforms) is specified at [htt
 | 1/Sep<br />2022
 | [https://Scare.ca/dl/qBittorrent/thepiratebay.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]] ]
 | ✔ qbt 4.4.4 / python 3.8.10
-|-
-| [[https://github.com/LightDestory/qBittorrent-Search-Plugins/raw/master/src/engines/tntvillagedump.png]] [http://tntvillage.org/  TNTVillageDump]
-| [https://github.com/LightDestory/qBittorrent-Search-Plugins LightDestory]
-| 1.1
-| 31/Jan<br />2022
-| [https://raw.githubusercontent.com/LightDestory/qBittorrent-Search-Plugins/master/src/engines/tntvillagedump.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]] ]
-| ✔ qbt 4.3.x / python 3.8.5
 |-
 | [[https://raw.githubusercontent.com/BrunoReX/qBittorrent-Search-Plugin-TokyoToshokan/master/tokyotoshokan.png]] [https://tokyotosho.info/index.php Tokyo Toshokan]
 | [https://github.com/BrunoReX/qBittorrent-Search-Plugin-TokyoToshokan BrunoReX]
