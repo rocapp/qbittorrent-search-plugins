@@ -215,13 +215,6 @@ The minimum supported Python version (across all platforms) is specified at [htt
 | [https://raw.githubusercontent.com/MadeOfMagicAndWires/qBit-plugins/master/engines/nyaasi.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]] ]
 | ✔ qbt 4.4.3.1 / python 3.10.5
 |-
-| [[https://github.com/libellula/qbt-plugins/blob/main/favicon-16x16.png]] [https://www.oxtorrent.sk/ OxTorrent]
-| [https://github.com/CravateRouge/qBittorrentSearchPlugins CravateRouge]
-| 2.5
-| 02/Jan<br />2021
-| [https://raw.githubusercontent.com/CravateRouge/qBittorrentSearchPlugins/master/oxtorrent.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]] ]<br /> [https://github.com/CravateRouge/qBittorrentSearchPlugins/blob/master/README.md [[https://github.com/Pireo/hello-world/blob/master/Help%20book.gif]] ]
-| ✔ qbt 4.3.2 / python 3.8.2
-|-
 | [[https://www.google.com/s2/favicons?domain=anidex.info#.png]]
 [https://pctfenix.com/ PCTFenix]
 | [https://github.com/joseeloren/qbittorrent-search-plugins joseeloren]
