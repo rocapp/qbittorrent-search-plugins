@@ -93,13 +93,6 @@ The minimum supported Python version (across all platforms) is specified at [htt
 | [https://raw.githubusercontent.com/TuckerWarlock/qbittorrent-search-plugins/main/bt4gprx.com/bt4gprx.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]] ]
 | ✔ qbt 4.5.x / python 3.10.x
 |-
-| [[https://github.com/Pireo/hello-world/blob/master/etree.png]] [http://bt.etree.org/ bt.etree.org]
-| [https://github.com/LightDestory/qBittorrent-Search-Plugins LightDestory]
-| 1.2
-| 17/Jun<br />2021
-| [https://raw.githubusercontent.com/LightDestory/qBittorrent-Search-Plugins/master/src/engines/btetree.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]] ]
-| ✔ qbt 4.3.5 / python 3.8.5
-|-
 | [[https://github.com/msagca/qbittorrent_plugins/blob/main/btmulu_icon.png]] [https://www.btmulu.com/ BTmulu]
 | [https://github.com/msagca/qbittorrent_plugins/ msagca]
 | 1.3
@@ -151,13 +144,6 @@ The minimum supported Python version (across all platforms) is specified at [htt
 | [https://raw.githubusercontent.com/LightDestory/qBittorrent-Search-Plugins/master/src/engines/glotorrents.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]] ]
 | ✔ qbt 4.3.5 / python 3.8.5
 |-
-| [https://ilcorsaronero.link/  Il Corsaro Nero]
-| [https://github.com/LightDestory/qBittorrent-Search-Plugins LightDestory]
-| 1.2
-| 17/Jun<br />2021
-| [https://raw.githubusercontent.com/LightDestory/qBittorrent-Search-Plugins/master/src/engines/ilcorsaronero.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]] ]
-| ✔ qbt 4.3.5 / python 3.8.5
-|-
 | [[https://github.com/LightDestory/qBittorrent-Search-Plugins/raw/master/src/engines/kickasstorrents.png]] [https://katcr.to/  Kickass Torrent]
 | [https://github.com/LightDestory/qBittorrent-Search-Plugins LightDestory]
 | 1.0
@@ -193,14 +179,6 @@ The minimum supported Python version (across all platforms) is specified at [htt
 | 16/Apr<br />2021
 | [https://raw.githubusercontent.com/joseeloren/search-plugins/master/nova3/engines/maxitorrent.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]] ]
 | ✔ qbt 4.3.x / python 3.5.0
-|-
-| [http://www.mejortorrens.net/ 
-Mejor Torrent]
-| [https://raw.githubusercontent.com/libellula/qbt-plugins libellula]
-| 1.5
-| 02/Jan<br />2021
-| [https://raw.githubusercontent.com/libellula/qbt-plugins/main/mejor.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]] ]
-| ✔ qbt 4.1.x / python 3.5.0 <br />(no s/l and results not clickable)
 |-
 |[[https://raw.githubusercontent.com/Cc050511/qBit-search-plugins/main/mikan-pic.png]] [https://mikanani.me mikanani]
 |[https://github.com/Cc050511/qBit-search-plugins Yun]
