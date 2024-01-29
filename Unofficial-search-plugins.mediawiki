@@ -194,13 +194,6 @@ The minimum supported Python version (across all platforms) is specified at [htt
 | [https://raw.githubusercontent.com/BurningMop/qBittorrent-Search-Plugins/main/mypornclub.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]] ]
 | ✔ qbt 4.6.x / python 3.9.x
 |-
-| [[https://github.com/LightDestory/qBittorrent-Search-Plugins/raw/master/src/engines/nitro.png]] [https://nitro.to/  Nitro.to]
-| [https://github.com/LightDestory/qBittorrent-Search-Plugins LightDestory]
-| 1.0
-| 29/Jul<br />2022
-| [https://raw.githubusercontent.com/LightDestory/qBittorrent-Search-Plugins/master/src/engines/nitro.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]] ]
-| ✔ qbt 4.3.x / python 3.8.5
-|-
 | [[https://raw.githubusercontent.com/4chenz/pantsu-plugin/master/pantsu.png]] [https://nyaa.pantsu.cat/ Nyaa.Pantsu]
 | [https://github.com/4chenz/pantsu-plugin/ 4chenz]
 | 1.21
