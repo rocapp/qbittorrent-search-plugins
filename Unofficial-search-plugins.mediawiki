@@ -215,30 +215,6 @@ The minimum supported Python version (across all platforms) is specified at [htt
 | [https://raw.githubusercontent.com/MadeOfMagicAndWires/qBit-plugins/master/engines/nyaasi.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]] ]
 | ✔ qbt 4.4.3.1 / python 3.10.5
 |-
-| [[https://www.google.com/s2/favicons?domain=anidex.info#.png]]
-[https://pctfenix.com/ PCTFenix]
-| [https://github.com/joseeloren/qbittorrent-search-plugins joseeloren]
-| 1.1
-| 19/Oct<br />2020
-| [https://raw.githubusercontent.com/joseeloren/search-plugins/master/nova3/engines/pctfenix.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]] ]
-| ✔ qbt 4.3.x / python 3.5.0
-|-
-| [[https://www.google.com/s2/favicons?domain=anidex.info#.png]]
-[https://pctmix.com/ PCTMix]
-| [https://github.com/joseeloren/qbittorrent-search-plugins joseeloren]
-| 1.22
-| 19/Oct<br />2020
-| [https://raw.githubusercontent.com/joseeloren/search-plugins/master/nova3/engines/pctmix.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]] ]
-| ✔ qbt 4.3.x / python 3.5.0<br />❗ domain expired
-|-
-| [[https://www.google.com/s2/favicons?domain=anidex.info#.png]]
-[https://pctreload.com/ PCTReload]
-| [https://github.com/joseeloren/qbittorrent-search-plugins joseeloren]
-| 1.22
-| 19/Oct<br />2020
-| [https://raw.githubusercontent.com/joseeloren/search-plugins/master/nova3/engines/pctreload.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]] ]
-| ✔ qbt 4.3.x / python 3.5.0
-|-
 | [[https://github.com/LightDestory/qBittorrent-Search-Plugins/raw/master/src/engines/pirateiro.png]] [https://pirateiro.com/  Pirateiro]
 | [https://github.com/LightDestory/qBittorrent-Search-Plugins LightDestory]
 | 1.0
