@@ -67,7 +67,7 @@ The minimum supported Python version (across all platforms) is specified at [htt
 |-
 |[[https://raw.githubusercontent.com/nklido/qBittorrent_search_engines/master/engines/audiobookbay_icon_16x16.png]] [http://audiobookbay.fi AudioBook Bay (ABB) ]
 |[https://github.com/nklido/qBittorrent_search_engines nKlido]
-|0.0.1
+|0.0.2
 |21/May<br />2022
 |[https://raw.githubusercontent.com/nklido/qBittorrent_search_engines/master/engines/audiobookbay.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]] ]
 |✔ qbt 4.3.x / python 3.8.10 <br />
