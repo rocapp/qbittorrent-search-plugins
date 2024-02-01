@@ -1,3 +1,4 @@
+```
 import re
 from html.parser import HTMLParser
 
@@ -108,3 +109,4 @@ class one337x(object):
                 break
             page += 1
         parser.close()
+```
