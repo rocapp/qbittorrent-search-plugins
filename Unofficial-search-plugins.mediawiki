@@ -182,8 +182,8 @@ The minimum supported Python version (across all platforms) is specified at [htt
 |-
 |[[https://raw.githubusercontent.com/Cc050511/qBit-search-plugins/main/mikan-pic.png]] [https://mikanani.me mikanani]
 |[https://github.com/Cc050511/qBit-search-plugins Yun]
-|1.0
-|24/Apr<br />2023
+|1.2
+|11/Feb<br />2024
 |[https://raw.githubusercontent.com/Cc050511/qBit-search-plugins/main/mikanani.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]] ]
 |✔ qbt 4.5.2 / python 3.10 <br />
 |-
