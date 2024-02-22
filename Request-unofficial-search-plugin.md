@@ -37,6 +37,7 @@ Please keep the list sorted alphabetically by `Site` column
 | MVGROUP.org | NO | N/A | |
 | myanonamouse.net | NO | N/A | Requires Login |
 | NewPCT (pctmix.com) | NO | N/A | Inglés / Castellano |
+| online-fix.me | NO| N/A | Multiplayer Games, Password-protected Archives, Requires Login |
 | openpirate.org | NO | N/A | |
 | Partis.si | NO | N/A | Nice Slovenian rep |
 | pirateiro.com | NO | N/A | |
