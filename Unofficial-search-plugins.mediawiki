@@ -391,7 +391,7 @@ The minimum supported Python version (across all platforms) is specified at [htt
 | [https://github.com/amongst-us/qbit-plugins amongst-us]
 | 1.1
 | 07/Jan<br />2024
-| [https://raw.githubusercontent.com/amongst-us/qbit-plugins/main/yts_mx.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]]]
+| [https://raw.githubusercontent.com/amongst-us/qbit-plugins/main/yts_mx/yts_mx.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]]]
 | ✔ qbt 4.6.2 / python 3.12.0
 |-
 | 🔍
