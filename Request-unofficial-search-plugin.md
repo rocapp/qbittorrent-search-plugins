@@ -30,6 +30,7 @@ Please keep the list sorted alphabetically by `Site` column
 | ex-torrenty.org | NO | N/A | |
 | extremlymtorrents.ws | NO | N/A | |
 | eztv.io | NO | N/A | This is no longer working. Use eztv.it instead. |
+| gay-torrents.net | NO | N/A | LGBT Content, requires login |
 | GranTorrent.eu | NO | N/A | Inglés / Latino / Castellano |
 | limetorrents.info | NO | N/A | |
 | mejortorrentt.net | NO | N/A | Inglés / Latino / Castellano |
