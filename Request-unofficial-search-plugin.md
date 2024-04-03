@@ -32,6 +32,7 @@ Please keep the list sorted alphabetically by `Site` column
 | eztv.io | NO | N/A | This is no longer working. Use eztv.it instead. |
 | gay-torrents.net | NO | N/A | LGBT Content, requires login |
 | GranTorrent.eu | NO | N/A | Inglés / Latino / Castellano |
+| idope.se | NO | N/A |Public, has hard to find stuff |
 | limetorrents.info | NO | N/A | |
 | mejortorrentt.net | NO | N/A | Inglés / Latino / Castellano |
 | mobilism.org | NO | N/A | requires login |
