@@ -70,3 +70,4 @@ Please keep the list sorted alphabetically by `Site` column
 | yts.gd | NO | N/A | |
 | zamunda.net | YES | N/A | Supper stacked, Requires Login |
 | [zetorrents.com](https://www.zetorrents.com/) | DONE | [alexandre-eliot](https://raw.githubusercontent.com/alexandre-eliot/zetorrents_qbittorrent_search_plugin/main/zetorrents.py) | French |
+| [zooqle.skin](https://zooqle.skin/) | NO | N/A | Rich resources, very fast updates, and support for multilingual search. |
