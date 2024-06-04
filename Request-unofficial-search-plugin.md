@@ -20,54 +20,54 @@ Please keep the list sorted alphabetically by `Site` column
 | audiobookbay.nl | NO | N/A | |
 | beyond-hd.me | NO | N/A | Amazing tracker for good quality movies/tv shows. Private tracker & requires login. |
 | bit-titan.net | NO | N/A | good german tracker |
-| [bitsearch.to](https://bitsearch.to/) | DONE | [BurningMop](https://github.com/BurningMop/qBittorrent-Search-Plugins/blob/main/bitsearch.py) | BitSearch is a DHT based torrent search engine. |
+| [bitsearch.to](https://bitsearch.to/) | DONE | [BurningMop](https://raw.githubusercontent.com/BurningMop/qBittorrent-Search-Plugins/main/bitsearch.py) | BitSearch is a DHT based torrent search engine. |
 | Btdb.eu | NO | N/A | |
 | [btdig.com](https://btdig.com/) | NO | N/A | DHT search engine. Great for torrents that may not be in mainstream sites like TBP, 1337x or (the late) RARBG |
 | demonoid.is | NO | N/A | |
-| Descargas2020.org | NO | N/A | Inglés / Latino / Castellano |
-| dirtytorrents.com | NO | N/A | Torrent search engine from different trackers |
-| dontorrent.org | NO | N/A | Inglés / Castellano |
+| Descargas2020.org | NO | N/A | ~Inglés / Latino / Castellano~ This is no longer working |
+| dirtytorrents.com | NO | N/A | ~Torrent search engine from different trackers~ This has been discontinued |
+| dontorrent.org | NO | N/A | ~Inglés / Castellano~ moved to tomadivx.net |
 | ex-torrenty.org | NO | N/A | |
 | extremlymtorrents.ws | NO | N/A | |
 | eztv.io | NO | N/A | This is no longer working. Use eztv.it instead. |
 | gay-torrents.net | NO | N/A | LGBT Content, requires login |
-| GranTorrent.eu | NO | N/A | Inglés / Latino / Castellano |
+| GranTorrent.eu | NO | N/A | ~Inglés / Latino / Castellano~ This is no longer working |
 | idope.se | NO | N/A |Public, has hard to find stuff |
 | limetorrents.info | NO | N/A | |
-| mejortorrentt.net | NO | N/A | Inglés / Latino / Castellano |
+| mejortorrentt.net | NO | N/A | ~Inglés / Latino / Castellano~ This is no longer working |
 | mobilism.org | NO | N/A | requires login |
-| MVGROUP.org | NO | N/A | |
+| MVGROUP.org | NO | N/A | requires login |
 | myanonamouse.net | NO | N/A | Requires Login |
 | NewPCT (pctmix.com) | NO | N/A | Inglés / Castellano |
 | online-fix.me | NO| N/A | Multiplayer Games, Password-protected Archives, Requires Login |
-| openpirate.org | NO | N/A | |
+| openpirate.org | NO | N/A | This is no longer working |
 | Partis.si | NO | N/A | Nice Slovenian rep |
-| pirateiro.com | NO | N/A | |
-| pornleech.ch | NO | N/A | good seed count, terrible interface |
+| pirateiro.com | NO | N/A | This is no longer working |
+| pornleech.ch | NO | N/A | ~good seed count, terrible interface~ This is no longer working |
 | rarbg.is | DONE | N/A | Already an official search plugin |
 | rutracker.guru | NO | N/A | Easily search for Rutracker torrents without account |
 | sharewood.tv | NO | N/A | French torrent |
 | sktorrent.eu | NO | N/A | Requires Login |
-| sound-park.world | NO | N/A | Torrent for music |
+| sound-park.world | NO | N/A | ~Torrent for music~ This is no longer working |
 | speed.cd | NO | N/A | a nice private tracker |
 | [tamilblasters.com](https://tamilblasters.com) | NO | N/A | latest movies fast uploads, indian movies/tv shows, login not required, [rss-feed](https://tamilblasters.com/index.php?/discover/all.xml/) |
 | thepiratebay.org | NO | N/A | |
 | [TheRarBg](https://therarbg.com) | DONE | [BurningMop](https://github.com/BurningMop/qBittorrent-Search-Plugins/blob/main/therarbg.py) | Great torrent indexer, RarBg successor |
 | [toloka.to](https://toloka.to) | NO | N/A | The most popular Ukrainian tracker. Have the biggest content library in the Ukrainian language. Requires Login. Behind Cloudflare protection |
-| torrent-paradise.ml | NO | N/A | |
+| torrent-paradise.ml | NO | N/A | This is no longer working |
 | torrentday.com | NO | N/A | have invite |
-| torrentdownloads.me | NO | N/A | Huge torrent indexer |
-| torrenthashes.com | NO | N/A | |
-| torrentleech.org | NO | N/A | I am surprised it has not been added yet |
+| torrentdownloads.me | DONE | [BurningMop](https://raw.githubusercontent.com/BurningMop/qBittorrent-Search-Plugins/main/torrentdownloads.py) | Huge torrent indexer, moved to https://torrentdownloads.pro |
+| torrenthashes.com | NO | N/A | This is no longer working |
+| torrentleech.org | NO | N/A | I am surprised it has not been added yet - Requires Login |
 | [torrentmac.net](https://www.torrentmac.net/) | NO | N/A | It's the best site for finding updated paid versions of software for macOS users, and I swear by it!|
 | torrentz.io | NO | N/A | |
-| Torrentz2.eu | NO | N/A | |
-| tupelihd.com | NO | N/A | Inglés / Latino / Castellano |
+| Torrentz2.eu | NO | N/A | This is no longer working |
+| tupelihd.com | NO | N/A | ~Inglés / Latino / Castellano~ This is no longer working |
 | watchsomuch.org | NO | N/A | Requires Login |
-| WorldWide torrents | NO | N/A | |
+| WorldWide torrents | NO | N/A | This is no longer working |
 | xspeeds.eu | NO | N/A | Private Tracker, Requires Login |
-| yinyueso.com | NO | N/A | |
-| yts.gd | NO | N/A | |
+| yinyueso.com | NO | N/A | This is no longer working |
+| yts.gd | NO | N/A | moved to https://yts.mx/ |
 | zamunda.net | YES | N/A | Supper stacked, Requires Login |
 | [zetorrents.com](https://www.zetorrents.com/) | DONE | [alexandre-eliot](https://raw.githubusercontent.com/alexandre-eliot/zetorrents_qbittorrent_search_plugin/main/zetorrents.py) | French |
 | [zooqle.skin](https://zooqle.skin/) | NO | N/A | Rich resources, very fast updates, and support for multilingual search. |
