@@ -108,14 +108,6 @@ The minimum supported Python version (across all platforms) is specified at [htt
 | [https://raw.githubusercontent.com/MarcBresson/cpasbien/master/src/cpasbien.py [[https://github.com/MarcBresson/cpasbien/blob/master/assets/Download.gif]]]
 | ✔ qbt 4.5.x / python 3.11.x
 |-
-| [[https://github.com/camilobot/qb-cubonegro/blob/main/favicon.png]]
-[https://cubonegro.org cubonegro]
-| [https://github.com/camilobot/qb-cubonegro camilobot]
-| 0.0.1
-|16 Nov/<br >2023
-| [https://raw.githubusercontent.com/camilobot/qb-cubonegro/main/cubonegro.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]]]
-| ✔ qbt 4.5.x / python 3.8
-|-
 | [[https://github.com/bugsbringer/qbit-plugins/blob/master/darklibria.png]] [https://dark-libria.it/ dark-libria]
 | [https://github.com/bugsbringer/qbit-plugins Bugsbringer]
 | 0.10
