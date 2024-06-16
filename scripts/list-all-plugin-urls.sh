@@ -1,0 +1,1 @@
+cat Unofficial-search-plugins.mediawiki | grep -i "search-plugin" | python -c $'import sys; print("\\n".join([(line.split(".py ")[0] + ".py").strip("| [") for line in sys.stdin.readlines() if ".py" in line]))'
